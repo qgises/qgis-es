@@ -1,0 +1,38 @@
+// Define colors.
+
+$qgis-dark-green: #589632;
+$qgis-light-green: #93b023;
+$qgis-lemon: #f0e64a;
+$qgis-orange: #ee7913;
+
+@font-face {
+    font-family: 'Trueno'; /*a name to be used later*/
+    src: url('/fonts/trueno/TruenoLt.otf'); /*URL to font*/
+}
+
+@font-face {
+  font-family: 'Trueno-Regular'; /*a name to be used later*/
+  src: url('/fonts/trueno/TruenoRg.otf'); /*URL to font*/
+}
+
+
+#navbar-main {
+  background-image: linear-gradient(#93b023, #589632);
+}
+
+a:hover {
+  color: $qgis-orange;
+}
+
+#hero-qgis {
+  .btn {
+    color: white;
+    background-color: $qgis-orange;
+    border-color: $qgis-orange;
+  }
+  .btn:hover {
+    color: $qgis-orange;
+    background-color: $qgis-lemon;
+    border-color: $qgis-lemon;
+  }
+}
