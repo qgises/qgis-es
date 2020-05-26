@@ -1,13 +1,13 @@
 ---
 # Display name
-name: QGIS España
+name: Carlos López Quintanilla
 
 # Username (this should match the folder name)
 authors:
-- admin
+- carlospsig
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Asociación española de QGIS
@@ -44,13 +44,13 @@ bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad espa�
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:carlos.lopez@psig.es'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/qgises
+  link: https://twitter.com/carlospsig
 - icon: github
   icon_pack: fab
-  link: http://github.com/qgises/
+  link: http://github.com/carlospsig/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,12 +58,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "carlos.lopez@psig.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Especial
+- Junta
 ---
 
 QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS Italia, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.

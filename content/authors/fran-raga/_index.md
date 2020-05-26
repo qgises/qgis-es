@@ -1,6 +1,6 @@
 ---
 # Display name
-name: QGIS España
+name: Fran Raga
 
 # Username (this should match the folder name)
 authors:
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Especial
+- Junta
 ---
 
 QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS Italia, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.
