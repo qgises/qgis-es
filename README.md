@@ -1,4 +1,6 @@
-# QGIS.es
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b49ad89-1104-405a-b500-91b2a082b9f7/deploy-status)](https://app.netlify.com/sites/qgises/deploys)
+
+# Web de QGIS.es
 
 Web para la asociación española de QGIS, realizada con [hugo](https://gohugo.io) y desplegada automáticamente a través de [netlify](https://netlify.com)
 
