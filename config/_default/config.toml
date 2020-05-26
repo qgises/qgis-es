@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Una web de [Montera34](https://montera34.com/), desarrollada por [Carlos Cámara](https//carloscamara.es)"
+copyright = "Una web de [Montera34](https://montera34.com/), desarrollada por [Carlos Cámara](https//carloscamara.es) con ❤️ "
 
 ############################
 ## Advanced options below ##
@@ -23,7 +23,7 @@ copyright = "Una web de [Montera34](https://montera34.com/), desarrollada por [C
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "es"
