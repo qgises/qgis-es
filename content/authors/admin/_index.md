@@ -1,6 +1,6 @@
 ---
 # Display name
-name: QGIS España
+title: QGIS España
 
 # Username (this should match the folder name)
 authors:

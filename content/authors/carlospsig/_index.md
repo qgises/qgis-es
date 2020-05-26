@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Carlos López Quintanilla
+title: Carlos López Quintanilla
 
 # Username (this should match the folder name)
 authors:

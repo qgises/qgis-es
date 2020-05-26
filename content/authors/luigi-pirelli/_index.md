@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Luigi Pirelli
+title: Luigi Pirelli
 
 # Username (this should match the folder name)
 authors:

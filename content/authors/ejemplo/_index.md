@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Socio gran colectivo
+title: Socio gran colectivo
 
 # Username (this should match the folder name)
 authors:
