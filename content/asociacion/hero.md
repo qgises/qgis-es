@@ -51,4 +51,4 @@ title = "Asociación QGIS España"
   label = 'Foto: Conferencia de usuarios 2019 celebrada en A Coruña'
 +++
 
-Somos el grupo de usuarios de QGIS España. Explicar muy brevemente qué hacemos. decir que somos usuarios como tú, y utilizamos qgis en nuestro día a día para trabajos profesionales, investigación o por hobbie y queremos contribuir a que qgis sea todavía mejor (algo así)
+Somos el grupo de usuarios de QGIS España. Somos usuarios como tú, y utilizamos QGIS en nuestro día a día para trabajos profesionales, investigación o por _hobbie_. Contribuimos a que QGIS sea todavía mejor, ya sea compartiendo conocimiento, traduciendo, desarrollando funcionalidades o ayudando a otros usuarios, entre otros. (o algo así)

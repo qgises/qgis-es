@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 21  # Order that this section will appear.
 
 title = "Estatutos"
 
@@ -20,8 +20,8 @@ hero_media = ""
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "#9dda77"
-  gradient_end = "#497d29"
+  #gradient_start = "#9dda77"
+  #gradient_end = "#497d29"
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -31,7 +31,7 @@ hero_media = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
