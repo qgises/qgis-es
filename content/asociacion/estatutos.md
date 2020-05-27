@@ -8,7 +8,7 @@ weight = 21  # Order that this section will appear.
 title = "Estatutos"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "book-solid-green.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
