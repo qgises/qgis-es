@@ -1,5 +1,5 @@
 ---
-title: Formulario de alta de persona socia
+title: Formulario de alta
 subtitle: ¡Gracias por tu interés en formar parte del grupo!
 date: "2018-06-28T00:00:00+01:00"
 draft: false
@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-Para darte de alta como persona socia únicamente deberás rellenar este formulario y abonar la cuota (esto no lo he sabido encontrar en ningún lugar)
+Para darte de alta como persona socia únicamente deberás rellenar este formulario y, posteriormente, abonar la cuota correspondiente.
 
 {{< typeform dMp0tK >}}
