@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Únete a nosotros"
 
@@ -37,7 +37,7 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://tinyurl.com/apuntateaqgis"
+  url = "/alta-socios"
   label = "Inscripción en linea"
   icon_pack = "fas"
   icon = "sign-in-alt"
@@ -52,3 +52,4 @@ hero_media = ""
 +++
 
  Ven y únete a nosotros rellenando este simple formulario. 
+
