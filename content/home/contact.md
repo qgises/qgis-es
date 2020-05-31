@@ -5,8 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Contáctanos"
+subtitle = "¿Quieres más información? Suscríbete"
+
 
 # Automatically link email and phone?
 autolink = true
@@ -15,6 +16,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
 
+Puedes suscribirte a nuestra [Lista de correo](https://lists.osgeo.org/mailman/listinfo/qgis-es) y actualizaciones en [nuestro grupo de Telegram](https://telegram.me/qgis_es). ¡Animate a participar!

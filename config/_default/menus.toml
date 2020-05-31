@@ -14,9 +14,26 @@
   weight = 11
 
 [[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 12
+
+
+[[main]]
+  name = "Eventos"
+  url = "#talks"
+  weight = 11
+
+[[main]]
   name = "Contacto"
   url = "#contact"
   weight = 600
+
+
+[[main]]
+  name = "Inscríbete"
+  url = "alta-socios"
+  weight = 1200
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
