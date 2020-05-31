@@ -13,12 +13,12 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="600"
-   height="250"
-   viewBox="0 0 600.00003 250.00001"
+   width="722.569px"
+   height="346.291px"
+   viewBox="0 0 722.569 346.291"
    enable-background="new 0 0 722.569 346.291"
    xml:space="preserve"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="qgises-logo-monochrome.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata834"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -40,7 +40,7 @@
    inkscape:measure-end="0,0"
    inkscape:pagecheckerboard="true"
    inkscape:zoom="1.60725"
-   inkscape:cx="332.92367"
+   inkscape:cx="471.66998"
    inkscape:cy="234.54772"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -48,10 +48,9 @@
    inkscape:current-layer="Layer_1" />
 <g
    id="g827"
-   style="fill:#ffffff;fill-opacity:1"
-   transform="translate(-61.284703,-48.3825)">
+   style="fill:#ffffff;fill-opacity:1">
 	<polygon
-   points="198.306,162 176,162 176,183.433 195,202.37 195,180 216.513,180 "
+   points="216.513,180 198.306,162 176,162 176,183.433 195,202.37 195,180 "
    id="polygon815"
    style="fill:#ffffff;fill-opacity:1" />
 	<path
