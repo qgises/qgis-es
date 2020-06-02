@@ -16,22 +16,6 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Somos comunidad"
-  content = "Somos la comunidad de usuarios de habla hispana de QGIS. Nos apoyamos y contribuimos a hacer de QGIS un proyecto mejor y más inclusivo"
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#589632"  # An HTML color value.
-  overlay_img = "qgis-fest-girona-2016.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
-
-  cta_label = "Conoce la asociacion"
-  cta_url = "/asociacion"
-  cta_icon_pack = "fas"
-  cta_icon = "users"
-
-[[item]]
   title = "Somos Asociación"
   content = "Somos la asociación para apoyar y favorecer el uso de QGIS entre la comunidad española."
   align = "left"  # Choose `center`, `left`, or `right`.
@@ -46,6 +30,22 @@ height = ""
   cta_url = "/asociacion"
   cta_icon_pack = "fas"
   cta_icon = "users"
+
+[[item]]
+  title = "Somos comunidad"
+  content = "Somos la comunidad de usuarios de habla hispana de QGIS. Nos apoyamos y contribuimos a hacer de QGIS un proyecto mejor y más inclusivo"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#589632"  # An HTML color value.
+  overlay_img = "qgis-fest-girona-2016.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+
+  cta_label = "Conoce cómo participar"
+  cta_url = "#redes-sociales"
+  cta_icon_pack = "fas"
+  cta_icon = "hands-helping"
 
 [[item]]
   title = "Somos software"
