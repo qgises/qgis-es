@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Únete a nosotros"
+title = "Házte soci@"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -48,8 +48,8 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = ''
+  label = '[Visita este enlace](/asociacion) para conocer qué es y qué hacemos en la asociación'
 +++
 
- Ven y únete a nosotros rellenando este simple formulario. 
+ Ven y únete a la Asociación QGIS España rellenando este simple formulario. 
 

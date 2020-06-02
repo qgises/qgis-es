@@ -1,5 +1,5 @@
 ---
-title: Formulario de alta
+title: Formulario de alta persona socia
 subtitle: ¡Gracias por tu interés en formar parte del grupo!
 date: "2018-06-28T00:00:00+01:00"
 draft: false
@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-Para darte de alta como persona socia únicamente deberás rellenar este formulario y, posteriormente, abonar la cuota correspondiente.
+Para darte de alta como persona socia en la **Asociación GIS España** únicamente deberás rellenar este formulario y, posteriormente, abonar la cuota correspondiente.
 
 {{< typeform dMp0tK >}}
