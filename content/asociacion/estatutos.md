@@ -43,7 +43,7 @@ hero_media = "book-solid-green.png"
   icon = "file-pdf"
 
 [cta_alt]
-  url = "docs/estatutos"
+  url = "manuales/estatutos"
   label = "Ver estatutos online"
 
 # Note. An optional note to show underneath the links.
