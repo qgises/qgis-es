@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = -30  # Order that this section will appear.
 
-title = "Házte soci@"
+title = "Somos comunidad. Somos asociación. Somos software."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "esquema-qgis.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = ""
   gradient_end = "#497d29"
 
   # Background image.
-  image = "bg-masthead.jpg"  # Name of image in `static/img/`.
+  image = "tuna-arda-15275653462_4965651292_o.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -37,19 +37,18 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/alta-socios"
-  label = "Inscripción en linea"
+  url = "/asociación"
+  label = "Conoce la asociación"
   icon_pack = "fas"
-  icon = "sign-in-alt"
+  icon = "users"
 
 [cta_alt]
-  url = ""
-  label = ""
+  url = "#hero-qgis"
+  label = "Conoce QGIS"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '[Visita este enlace](/asociacion) para conocer qué es y qué hacemos en la asociación'
+  label = 'Foto: [Tuna Arda](https://www.flickr.com/photos/tunardia/15275653462/in/pool-qgis/)'
 +++
 
- Ven y únete a la [Asociación QGIS España](/asociacion) rellenando este simple formulario. 
-
+QGIS.es es todo eso y más. Aquí encontrarás información sobre [cómo colaborar](#colabora) con el proyecto QGIS, cómo [comunicarte](#redes-sociales) con usuarios como tú, cómo formar parte de la [asociación](/asociacion) así como [noticias](#posts) e información sobre QGIS y las [actividades](#talks) que impulsamos. Todo en español.
