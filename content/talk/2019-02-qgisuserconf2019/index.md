@@ -104,7 +104,7 @@ math: true
 
 # International QGIS User Conference
 
-[![QGIS User Conference 2019](http://img.youtube.com/vi/J0qjwVp-JsQ/0.jpg)](http://www.youtube.com/watch?v=J0qjwVp-JsQ "QGIS User Conference 2019 A Coruña Promotional video by Jorge Lama")
+[![QGIS User Conference 2019](https://img.youtube.com/vi/J0qjwVp-JsQ/0.jpg)](https://www.youtube.com/watch?v=J0qjwVp-JsQ "QGIS User Conference 2019 A Coruña Promotional video by Jorge Lama")
 
 Link to official page http://2019.qgis.es/
 
