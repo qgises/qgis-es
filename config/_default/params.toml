@@ -107,7 +107,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@qgises", link = "https://twitter.com/qgises"},
-  {icon = "github", icon_pack = "fab", name = "qgises", link = "http://github.com/qgises/"},
+  # {icon = "github", icon_pack = "fab", name = "qgises", link = "http://github.com/qgises/"},
   {icon = "telegram", icon_pack = "fab", name = "Grupo de Telegram", link = "https://telegram.me/qgis_es"},
   ]
 
@@ -116,7 +116,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "logos/qgis-logo.png"
+sharing_image = "logos/qgis-logo-es.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "qgises"
