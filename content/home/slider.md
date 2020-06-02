@@ -32,6 +32,22 @@ height = ""
   cta_icon = "users"
 
 [[item]]
+  title = "Únete a la lista y preséntate."
+  content = "¿No puede llegar a una reunión? No hay problema. Colaboramos en proyectos, solicitamos ayuda y realizamos publicaciones en nuestra [Lista de correo](). Damos la bienvenida a todos los que se inscriban ... es posible que veas algo en lo que te interese ayudar."
+  align = "center"
+
+  overlay_color = "#ee7913"  # An HTML color value.
+  overlay_img = "photo_2020-05-27_20-32-20.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Únete a la lista"
+  cta_url = "https://lists.osgeo.org/mailman/listinfo/qgis-es"
+  cta_icon_pack = "fas"
+  cta_icon = "mail-bulk"
+
+[[item]]
   title = ""
   content = "QGIS es un Sistema de Información Geográfica (SIG) de Código Abierto licenciado bajo [GNU](). QGIS es un proyecto oficial de [Open Source Geospatial Foundation](https://www.osgeo.org/). Corre sobre Linux, Unix, Mac OSX, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos."
   align = "left"
@@ -51,20 +67,5 @@ height = ""
 
   # Note. An optional note to show underneath the links.
   cta_note_label = 'Foto: Harry Bronkhorst'
-  
-[[item]]
-  title = "Únete a la lista y preséntate."
-  content = "¿No puede llegar a una reunión? No hay problema. Colaboramos en proyectos, solicitamos ayuda y realizamos publicaciones en nuestra [Lista de correo](). Damos la bienvenida a todos los que se inscriban ... es posible que veas algo en lo que te interese ayudar."
-  align = "center"
 
-  overlay_color = "#ee7913"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Únete a la lista"
-  cta_url = "https://lists.osgeo.org/mailman/listinfo/qgis-es"
-  cta_icon_pack = "fas"
-  cta_icon = "mail-bulk"
 +++

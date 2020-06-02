@@ -32,6 +32,13 @@ subtitle = "Estas son algunas de las redes sociales donde podrás encontrarnos"
   name = "[@qgises](https://twitter.com/qgises)"
   description = "Aquí tuiteamos"
 
+
+[[feature]]
+  icon = "instagram"
+  icon_pack = "fab"
+  name = "[@qgises](https://instagram.com/qgises)"
+  description = "Aquí compartimos imágenes"
+
 [[feature]]
   icon = "github"
   icon_pack = "fab"
