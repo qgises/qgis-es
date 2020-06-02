@@ -24,7 +24,7 @@ title = "Asociación QGIS España"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "2019_03_qgisconf.png"  # Name of image in `static/img/`.
+  image = "foto_claustre_tots2.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -48,7 +48,7 @@ title = "Asociación QGIS España"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Foto: Conferencia de usuarios 2019 celebrada en A Coruña'
+  label = 'Foto: Girona 2019'
 +++
 
 Somos el grupo de usuarios de QGIS España. Somos usuarios como tú, y utilizamos QGIS en nuestro día a día para trabajos profesionales, investigación o por _hobbie_. Contribuimos a que QGIS sea todavía mejor, ya sea compartiendo conocimiento, traduciendo, desarrollando funcionalidades o ayudando a otros usuarios, entre otros. (o algo así)
