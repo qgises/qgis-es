@@ -51,5 +51,5 @@ hero_media = ""
   label = '[Visita este enlace](/asociacion) para conocer qué es y qué hacemos en la asociación'
 +++
 
- Ven y únete a la Asociación QGIS España rellenando este simple formulario. 
+ Ven y únete a la [Asociación QGIS España](/asociacion) rellenando este simple formulario. 
 
