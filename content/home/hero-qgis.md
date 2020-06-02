@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = -20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = ""
 
@@ -53,6 +53,6 @@ hero_media = "logos/qgis-icon400b.png"
   # label = '[Consulta las novedades de la última version](https://qgis.org/es/site/forusers/visualchangelogs.html) <br>Foto: [Harry Bronkhorst](https://www.flickr.com/photos/7361002@N08/49662184946/in/pool-qgis/)'
 +++
 
-QGIS es un Sistema de Información Geográfica (SIG) de Código Abierto licenciado bajo [GNU](). QGIS es un proyecto oficial de [Open Source Geospatial Foundation](https://www.osgeo.org/). Corre sobre Linux, Unix, Mac OSX, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos.
+QGIS es un Sistema de Información Geográfica (SIG) de Código Abierto con licencia [GNU](). QGIS es un proyecto oficial de [Open Source Geospatial Foundation](https://www.osgeo.org/). Corre sobre Linux, Unix, Mac OSX, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos.
 
 <!--<small>QGIS es un proyecto de [![](img/logos/osgeo_logo_white200.png)](https://www.osgeo.org/)</small> -->
