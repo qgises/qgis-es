@@ -39,10 +39,14 @@ links:
   icon_pack: fas
   name: 'Web del evento'
   url: https://2019.qgis.es
+- icon: youtube
+  icon_pack: fab
+  name: 'Vídeo del evento'
+  url: https://youtu.be/J0qjwVp-JsQ
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/J0qjwVp-JsQ"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -104,7 +108,9 @@ math: true
 
 # International QGIS User Conference
 
-[![QGIS User Conference 2019](https://img.youtube.com/vi/J0qjwVp-JsQ/0.jpg)](https://www.youtube.com/watch?v=J0qjwVp-JsQ "QGIS User Conference 2019 A Coruña Promotional video by Jorge Lama")
+
+{{< youtube J0qjwVp-JsQ >}}
+
 
 Link to official page http://2019.qgis.es/
 
