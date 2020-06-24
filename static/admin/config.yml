@@ -247,23 +247,24 @@ collections:
       - {label: "Summary", name: "summary", widget: "markdown"}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
       - label: Links
-          name: links
-          required: false
-          widget: list
-          fields:
-            - {label: Name, name: name, widget: string}
-            - {label: Link, name: url, widget: string, required: false}
-            - label: Icon pack
-              name: icon_pack
-              widget: select
-              multiple: false
-              options:
-                - {label: "None", value: ""}
-                - {label: "Solid", value: "fas"}
-                - {label: "Regular", value: "far"}
-                - {label: "Brand", value: "fab"}
-                - {label: "Academic", value: "ai"}
-            - {label: Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons), name: icon, widget: string}
+        name: links
+        required: false
+        widget: list
+        fields:
+          - {label: Link, name: url, widget: string}
+          - {label: Link text, name: name, widget: string, required: false}
+          - label: Icon pack
+            name: icon_pack
+            widget: select
+            multiple: false
+            required: false
+            options:
+              - {label: "None", value: ""}
+              - {label: "Solid", value: "fas"}
+              - {label: "Regular", value: "far"}
+              - {label: "Brand", value: "fab"}
+              - {label: "Academic", value: "ai"}
+          - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
       - {label: "Optional external URL for project (replaces project detail page)", name: "external_link", widget: "string"}
       - {label: "URL Code", name: "url_code", widget: "string", required: false}
       - {label: "URL PDF", name: "url_pdf", widget: "string", required: false}
