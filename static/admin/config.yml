@@ -1,9 +1,11 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: montera34/qgis-es # Path to your GitHub repository
   branch: master
+  open_authoring: true
+publish_mode: editorial_workflow
 media_folder: 'static/img/'
 public_folder: 'img'
-publish_mode: editorial_workflow
 collections:
   - name: authors
     label: Authors
