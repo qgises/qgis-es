@@ -12,6 +12,7 @@ categories:
   - Noticias
 image:
   filename: featured.png
+  placement: 2
   focal_point: Smart
   preview_only: false
   caption: Así se verá la 'splash screen' de la versión 3.14
