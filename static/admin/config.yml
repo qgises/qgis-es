@@ -79,7 +79,7 @@ collections:
   - name: posts
     label: Posts
     label_singular: Post
-    folder: 'content/post/{{year}}'
+    folder: 'content/post'
     path: '{{year}}-{{month}}-{{day}}-{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
