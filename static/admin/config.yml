@@ -265,7 +265,7 @@ collections:
               - {label: "Brand", value: "fab"}
               - {label: "Academic", value: "ai"}
           - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
-      - {label: "Optional external URL for project (replaces project detail page)", name: "external_link", widget: "string"}
+      - {label: "Optional external URL for project (replaces project detail page)", name: "external_link", widget: "string", required: false}
       - {label: "URL Code", name: "url_code", widget: "string", required: false}
       - {label: "URL PDF", name: "url_pdf", widget: "string", required: false}
       - {label: "Markdown slides (reference a deck in 'content/slides/')", name: "slides", widget: "string", required: false}
