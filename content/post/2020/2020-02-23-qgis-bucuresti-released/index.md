@@ -1,13 +1,13 @@
 ---
-title: 'QGIS 3.12 "Bucuresti" has been released '
-subtitle: ''
+title: 'Liberada la versión 3.12 "Bucuresti" de QGiS'
+subtitle: 'Conoce las nuevas características'
 summary: 
 authors:
 - admin
 tags:
 - qgis
 categories:
-- News
+- Noticias
 date: "2020-02-23T00:00:00Z"
 lastmod: "2020-02-23T00:00:00Z"
 featured: false
@@ -31,6 +31,5 @@ image:
 projects: []
 ---
 
-https://qgis.org/es/site/forusers/visualchangelog312/index.html
-
-https://www.lutraconsulting.co.uk/blog/2020/01/15/crayfish-3-2-1/
+Ya ha está disponible la versión 3.12 de nuestro querido QGIS, llamada Bucuresti, que corrige errores e introduce numerosas funcionalidades nuevas.
+Puedes ver las novedades de la versión así como el listado de entidades y personas que la han hecho posible en el [changelog oficial](https://qgis.org/es/site/forusers/visualchangelog312/index.html)
