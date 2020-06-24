@@ -13,7 +13,7 @@ links:
 event: Event
 event_url: https://qgis.es
 publishDate: 2020-06-23T09:07:26.868Z
-draft: false
+draft: true
 featured: false
 authors:
   - ""
