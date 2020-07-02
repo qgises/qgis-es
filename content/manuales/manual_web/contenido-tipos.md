@@ -109,9 +109,39 @@ sequenceDiagram
 
 {{< figure src="/img/netlifycms/cms-editorial-workflow2.png" title="Workflow editorial: contenidos pendientes de revisión" numbered="true" lightbox="true" >}}
 
-## Posts de Blog
 
-Lost post se mostrarán en la sección del blog de la página de inicio, están dentro de la carpeta `/content/post` y tienen los campos siguientes:
+## Personas y entidades (`Authors`)
+
+Usaremos el tipo de contenido autores para el [listado de miembros de la asociación](/asociacion/#people).
+Los contenidos de tipo author, estarán siempre en la carpeta `/content/authors/` y tienen los siguientes campos:
+
+* Display name (`title`): El nombre que se visualizará para el nombre de la persona/entidad
+* Username (`authors`): nombre amigable (sin acentos ni espacios) del usuario. Deberá ser el mismo que la carpeta que lo contiene. Este es el nombre de usuario que utilizaremos cuando queramos que otro tipo de contenido lo "firme" un usuario determinado. Al indicarlo, aparecerá su ficha breve bajo el contenido.
+* Super usuario (`superuser`) (verdadero/falso): si no se indica autor de un contenido, se asignará automáticamente al usuario o usuarios que estén marcados como superusuarios. Por defecto, únicamente el usuario de la Asociación española de QGIS (`admin`) está marcado como superusuario.
+* Cargo (`role`)
+* Organización(es) (`organizations`): es una colección de campos para indicar el nombre y la url de organizaciones en las que esté vinculado el usuario en cuestión.
+* Biografía breve (`bio`): es la breve biografía que aparecerá en en la ficha resumen que se muestra para los autores de contenidos
+{{< figure src="/img/ficha-autor.png" title="Ficha resumen del autor de un post del blog." numbered="true" lightbox="true" >}}
+* Intereses
+* Educación
+* Redes sociales: colección de campos para indicar la red o redes sociales del usuario
+  * Link
+  * icono: nombre del icono en font awesome
+  * tipo de icono: tipo de icono de font-awesome
+* Email
+* Grupo: grupo(s) al que pertenece el usuario. Actualmente, el listado de usuarios mostrará, por este orden, los usuarios pertenecientes a los siguientes grupos:
+  * "Junta directiva"
+  * "Grandes colectivos"
+
+La biografía completa del usuario se escribirá en el cuerpo del texto.
+
+{{% alert note %}}
+Para visualizar la imagen del usuario, deberemos colocar un archivo llamado `avatar.jpg` o `avatar.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
+{{% /alert %}}
+
+## Posts de Blog (`Posts`)
+
+Lost post se mostrarán en la [sección del blog de la página de inicio](/#posts), están dentro de la carpeta `/content/post` y tienen los campos siguientes:
 
 * Título (obligatorio)
 * Subtítulo
@@ -127,22 +157,15 @@ Lost post se mostrarán en la sección del blog de la página de inicio, están 
 Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamado `featured.jpg` o `featured.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
 {{% /alert %}}
 
-La manera más fácil de editarlos es:
-
-1. Acceder a https://qgis.es/admin
-2. 
-
 ## Eventos (`Talks`)
 
+Los eventos 
 
-## Personas (`Authors`)
 
-
-Usaremos el tipo de contenido autores para el [listado de miembros de la asociación](/asociacion/#people).
-
-{{% alert note %}}
-Para visualizar la imagen del usuario, deberemos colocar un archivo llamado `avatar.jpg` o `avatar.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
+{{% alert  note%}}
+Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamado `featured.jpg` o `featured.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
 {{% /alert %}}
+
 
 ## Casos de éxito (`Projects`)
 
