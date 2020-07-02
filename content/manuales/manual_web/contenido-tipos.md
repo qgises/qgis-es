@@ -96,14 +96,6 @@ El nombre de la columna "Published" puede llevar a confusión: no basta con arra
 **Para que un contenido esté publicado, deberá arrastrarse a esta columna y -si se tienen permisos de escritura- hacer clic en el botón _"Publish new entry"_** ([ver Figura 4](#figure-workflow-editorial-contenidos-pendientes-de-revisión))
 {{% /alert %}}
 
-```mermaid
-sequenceDiagram
-	Draft->>+InReview: Crea commit en una rama nueva
-  InReview->>+Published: Crea una Pull Request en el repo
-  Published-->>InReview: No se acepta la Pull Request
-  Published->>Visible en la Web: Se acepta la Pull Request
-```
-
 
 1. Para publicar contenidos escritos por usuarios que tienen permiso para modificar el repositorio, deberemos visitar el menú superior **Editorial Workflow** 
 
@@ -113,7 +105,7 @@ sequenceDiagram
 ## Personas y entidades (`Authors`)
 
 Usaremos el tipo de contenido autores para el [listado de miembros de la asociación](/asociacion/#people).
-Los contenidos de tipo author, estarán siempre en la carpeta `/content/authors/` y tienen los siguientes campos:
+Los contenidos de este tipo estarán siempre en la carpeta `/content/authors/` y tienen los siguientes campos:
 
 * Display name (`title`): El nombre que se visualizará para el nombre de la persona/entidad
 * Username (`authors`): nombre amigable (sin acentos ni espacios) del usuario. Deberá ser el mismo que la carpeta que lo contiene. Este es el nombre de usuario que utilizaremos cuando queramos que otro tipo de contenido lo "firme" un usuario determinado. Al indicarlo, aparecerá su ficha breve bajo el contenido.
@@ -146,12 +138,14 @@ Lost post se mostrarán en la [sección del blog de la página de inicio](/#post
 * Título (obligatorio)
 * Subtítulo
 * Resumen
-* Autor: deberá escribirse tal y como se indicó en el campo correspondiente del autor (ver contenido autor). Si no se especifica, será el usuario genérico de la asociación)
+* Autores: deberá escribirse tal y como se indicó en el campo `username` del autor (ver [contenido autor](#personas-y-entidades-authors)). Si no se especifica, será el usuario genérico de la asociación)
 * Tags
 * Categorías
 * Fecha (si usamos la interfaz, por defecto será la misma que el día en el que creamos el contenido, pero puede cambiarse seleccionando la fecha adecuada en el widget del calendario)
 * Destacado (sí/no)
 * Proyecto (opcional)
+
+El contenido del post se escribirá en el cuerpo del texto.
 
 {{% alert  note%}}
 Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamado `featured.jpg` o `featured.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
@@ -159,8 +153,33 @@ Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamad
 
 ## Eventos (`Talks`)
 
-Los eventos 
+Los eventos recientes se muestran en la [sección `eventos` de la página principal](/#talks) y en [esta página](/talks) pueden consultarse todos.
 
+Los contenidos de este tipo estarán siempre en la carpeta `/content/talk/` y tienen los siguientes campos:
+
+* Título de la sesión (`title`)
+* Nombre del evento (`event`): en aso de que la sesión se enmarque dentro de un evento específico (por ejemeplo una charla dentro de una QGIS user conf)
+* URL del evento (`event_url`)
+* Ubicación (`location`): nombre del sitio donde se realiza
+* Dirección (`address`): dirección del sitio donde se realiza
+* Resumen (`summary`)
+* Abstract (`abstract`)
+* Fecha y hora de inicio (`date`)
+* Fecha y hora de finalización (`date_end`) (opcional)
+* Todo el día (sí/no)
+* Autores (`authors`): deberá escribirse tal y como se indicó en el campo `username` del autor (ver [contenido autor](#personas-y-entidades-authors)). Si no se especifica, será el usuario genérico de la asociación)
+* Destacado
+* Redes sociales: colección de campos para indicar la red o redes sociales del usuario
+  * Link
+  * icono: nombre del icono en font awesome
+  * tipo de icono: tipo de icono de font-awesome
+  * Nombre
+* URL del código fuente (`url_code`): url donde encontrar el código fuente
+* URL PDF
+* URL Slides
+* URL Vídeo
+
+El contenido del evento se escribirá en el cuerpo del texto.
 
 {{% alert  note%}}
 Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamado `featured.jpg` o `featured.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
