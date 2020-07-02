@@ -188,12 +188,47 @@ Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamad
 
 ## Casos de éxito (`Projects`)
 
+Los casos de éxito se muestran en la [sección `Casos de éxito` de la página principal](/#projects).
+
+Los contenidos de este tipo estarán siempre en la carpeta `/content/project/` y tienen los siguientes campos:
+
+* Título (`title`)
+* Resumen (`summary`)
+* Tags (`tags`)
+* Fecha y hora de publicación (`date`)
+* Link externo (`external_link`): si indicamos una url, es la página que se verá cuando hagamos clic desde el listado de casos (por tanto, no se verá la información dentro de la web de QGIS.es)
+* Autores (`authors`): deberá escribirse tal y como se indicó en el campo `username` del autor (ver [contenido autor](#personas-y-entidades-authors)). Si no se especifica, será el usuario genérico de la asociación)
+* Imagen destacada (`image`): imagen llamada `featured.png` o `featured.jpg`. Puede tener una descripción.
+* Links sociales: colección de campos para indicar links e iconos de fontawesome:
+  * Link
+  * icono: nombre del icono en font awesome
+  * tipo de icono: tipo de icono de font-awesome
+  * Nombre
+* URL del código fuente (`url_code`): url donde encontrar el código fuente
+* URL PDF
+* URL Slides
+* URL Vídeo
+
+El contenido del proyecto se escribirá en el cuerpo del texto.
+
+{{% alert  note%}}
+Si queremos que tengan una imagen destacada, deberemos colocar un archivo llamado `featured.jpg` o `featured.png` en el mismo nivel que el archivo `index.md`. Hugo creará copias del tamaño adecuado cuando genere el sitio.
+{{% /alert %}}
+
+## Páginas sencillas (`Pages`)
+
+Las páginas son el tipo de contenido más sencillo de todos, son archivos situados en `/content/<nombre-archivo>.md` y tienen el mínimo número de campos:
+
+* Título
+* Subtítulo
+* Draft (sí/no)
+* Fecha de publicación
+
 ## Otros contenidos especiales
 
 Los siguientes tipos de contenido no se pueden editar desde la interfaz de administración:
 
-* Manuales
-* Páginas sencillas como `/content/alta-socios.md`
+* Manuales (en la carpeta `/content/manuales`)
 * Páginas especiales:
-  * Inicio
-  * Asociación
+  * Inicio (`/content/home`)
+  * Asociación (`/content/asociacion`)
