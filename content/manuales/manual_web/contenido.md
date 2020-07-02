@@ -14,29 +14,45 @@ menu:
 weight: 1
 ---
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+Cuando queramos añadir o editar contenido deberemos hacerlo en únicamente en las carpetas siguientes: `/content` para el contenido y `/static` para el contenido multimedia (archivos, imágenes...), si bien será también habitual poder añadir imágenes o adjuntos como subcarpetas de contenido (leer más). 
 
-## Tip 1
+{{% alert warning %}}
+Únicamente deberemos editar contenido de estas dos carpetas (pudiendo crear subcarpetas si es necesario), de lo contrario el contenido no se visualizará en absoluto.
+{{% /alert %}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+{{% alert note %}}
+Tanto el contenido como los archivos multimedia los podremos editar de tres maneras diferentes, a elección de cada persona:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+1. Directamente desde github, 
+2. Localmente, usando git, 
+3. Usando la interfaz web ([ver aquí]({{< ref "/manuales/manual_web/contenido-tipos.md#interfaz-de-administración" >}}))
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Todos los métodos se basan en crear un commit que dispara una tarea para regenerar el contenido de la web.
+{{% /alert %}}
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+## Contenido
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Todo el contenido de la web se encuentra en las distintas subcarpetas de la carpeta `/content`. Hay dos tipos de carpetas, las de páginas (normalmente realizadas con widgets) y listados de tipos de contenido. Las primeras contienen, como mínimo, un archivo `index.md` y las segundas, como mínimo, un archivo`_index.md` y más archivos o subcarpetas. A su vez, cada tipo de contenido tiene una serie de campos específicos.
 
+El contenido de la carpeta `/content` se estructura como sigue (es crucial mantener este orden, de lo contrario no se visualizará correctamente):
 
-## Tip 2
+* `asociacion`: contiene el contenido de la url `asociacion`. Se trata de una página de contenido realizada con widgets. Hay distintos widgets y cada widget se ordena según su peso. Cuanto más elevado es el número, más "pesa" y queda más "abajo" de la página.
+* `authors`: listado de todos los contenidos de tipo `author`. Usamos este tipo de contenido para los usuarios miembros de la asociación.
+* `home`: contiene el contenido de la página de inicio. Se trata de una página de contenido realizada con widgets.
+* `manuales`: un listado de la documentación que estás leyendo.
+* `post`: listado de todos los contenidos de tipo `post` que se verán en el blog. Cada post deberá ser una subcarpeta de la misma, empezando por la fecha.
+* `talk`: listado de todos los contenidos de tipo `talk` que se verán en el listado de eventos. Cada evento deberá ser una subcarpeta de la misma.
+* `alta-socios.md`: se trata de una página sencilla para la url `alta-socios/` que contiene embebido el formulario de alta de la asociación.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+## Multimedia
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Todos los archivos multimedia (imágenes, documentos, vídeos...) que queramos enlazar desde nuestro contenido se encuentra en una de estas dos ubicaciones:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+1. La carpeta `/static`
+2. Dentro de la carpeta del contenido que estmos editando (al mismo nivel que el archivo `index.md` o en una subcarpeta.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+La diferencia entre un método u otro es que mientras que los archivos de la carpeta `/static` pueden enlazarse desde cualquier contenido, los segundos únicamente se podrán enlazar desde el contenido que lo contiene. Como regla general, la recomendación es poner los archivos relativos a un contenido (post, proyecto, charla...) dentro de la subcarpeta del contenido al que hacen referencia, y únicamente pondremos archivos en la carpeta `/static` para archivos que deban utilizarse en más de una ocasión o bien para páginas especiales como la portada o la de la asociación.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+## ¿Quien puede editar contenido?
+
+Todo el contenido se encuentra alojado en un repositorio de git, por tanto para añadir nuevo contenido o editar el existente es necesario añadir o modificar archivos. Eso significa que **únicamente los usuarios con permiso de escritura en el repositorio podrán añadir o modificar contenidos**. Dicho esto, cualquier persona puede proponer cambios que deberán ser aprobados por algún administrador (esto es, alguien con permisos de escritura en el repo), a través de Pull Requests. También puede utilizarse la interfaz de administración para hacer eso mismo de forma más amigable y sin necesidad de saber crear pull requests.

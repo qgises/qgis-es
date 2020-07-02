@@ -65,6 +65,4 @@ Todo el contenido se organiza en archivos de extensión `.md` ubicados en la car
 
 ## Conversión `md` ->  `html`
 
-La conversión de archivos md, así como ficheros relacionados (como multimedia, pdfs...) la realiza hugo. Para ello es necesario o bien tenerlo instalado en el ordenador local (ver [instrucciones de instalación en documentación oficial](https://gohugo.io/getting-started/installing/)) (ideal para pruebas en local) o utilizar un sistema de integración contínua que lo ejecute en un servidor, ya sea de forma complementaria o alternativa. 
-
-Para la web de QGIS.es utilizamos el servicio freemium ofrecido por [netlify](https://netlify.com) configurado de modo que cualquier commit realizado en la rama `master` ejecutará automática una `build` que, a su vez, ejecuta hugo y genera los archivos html en una carpeta fuera del repositorio pero visible a través del dominio. De este modo se pueden editar los archivos desde cualquier ordenador (siempre que se tenga permiso de edición en el repositorio) sin necesidad de tener instalado hugo.
+La conversión de archivos md, así como ficheros relacionados (como multimedia, pdfs...) la realiza hugo. El proyecto está configurado para que cada commit de la rama `master` ejecute hugo en un servidor, genere los archivos html correspondientes y los muestre en la url deseada, todo de forma automática.
