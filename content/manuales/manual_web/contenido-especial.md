@@ -84,3 +84,49 @@ La página de inicio está en `/content/home` y consta de los siguientes widgets
 {{< figure src="/img/manual/home-widget-contact.png" title="Widget contact.md" numbered="true" lightbox="true" >}}
 
 * `contact.md` Es un widget de tipo `contact`. Los datos de contacto se especifican en el archivo `/config/_default/params.toml`
+
+
+## Página de Asociación
+
+La página de la asociación está en `/content/asociacion` y consta de los siguientes widgets/archivos, ordenados según se ven en la portada:
+
+
+{{< figure src="/img/manual/asociacion-widget-hero.jpg" title="Widget hero-landing.md" numbered="true" lightbox="true" >}}
+
+* `hero.md` Es un widget de tipo `hero` que tiene:
+  * título
+  * texto
+  * imagen de fondo
+  * Botón con icono y texto, enlazado a la página de la asociación
+  * Comentario (`cta_alt`)
+  * Nota (`cta_note`) con los créditos de la imagen
+
+{{< figure src="/img/manual/asociacion-widget-objetivos.png" title="Widget objetivos.md" numbered="true" lightbox="true" >}}
+
+* `objetivos.md`. Es un widget de tipo `hero` 
+
+{{< figure src="/img/manual/asociacion-widget-estatutos.png" title="Widget estatutos.md" numbered="true" lightbox="true" >}}
+
+* `estatutos.md`: un widget de tipo `hero`
+
+{{< figure src="/img/manual/asociacion-widget-precios.png" title="Widget precios.md" numbered="true" lightbox="true" >}}
+
+* `precios.md`. Es un widget de tipo `featurette` que contiene un listado de iconos de font awesome, textos y links
+
+{{< figure src="/img/manual/asociacion-widget-unete.png" title="Widget unete.md" numbered="true" lightbox="true" >}}
+
+* `unete.md`: un widget de tipo `hero`
+
+{{< figure src="/img/manual/asociacion-widget-redes-sociales-socios.png" title="Widget redes-sociales-socios.md" numbered="true" lightbox="true" >}}
+
+
+* `redes-sociales-socios.md`. Es un widget de tipo `featurette` que contiene un listado de iconos de font awesome, textos y links
+
+
+{{< figure src="/img/manual/asociacion-widget-socios.png" title="Widget socios.md" numbered="true" lightbox="true" >}}
+
+* `socios.md` Es un widget de tipo `people` 
+
+{{< figure src="/img/manual/home-widget-contact.png" title="Widget contact.md" numbered="true" lightbox="true" >}}
+
+* `contact.md` Es un widget de tipo `contact`. Los datos de contacto se especifican en el archivo `/config/_default/params.toml`
