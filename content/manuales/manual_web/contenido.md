@@ -32,7 +32,10 @@ Todos los métodos se basan en crear un commit que dispara una tarea para regene
 
 ## Contenido
 
-Todo el contenido de la web se encuentra en las distintas subcarpetas de la carpeta `/content`. Hay dos tipos de carpetas, las de páginas (normalmente realizadas con widgets) y listados de tipos de contenido. Las primeras contienen, como mínimo, un archivo `index.md` y las segundas, como mínimo, un archivo`_index.md` y más archivos o subcarpetas. A su vez, cada tipo de contenido tiene una serie de campos específicos.
+Todo el contenido de la web se encuentra en las distintas subcarpetas de la carpeta `/content`. Hay dos grandes grupos de contenidos:
+
+* Los tipos de contenido ([ver capítulo del manual]({{< ref "/manuales/manual_web/contenido-tipos.md" >}}))
+* Las páginas especiales ([ver capítulo del manual]({{< ref "/manuales/manual_web/contenido-especial.md" >}}))
 
 El contenido de la carpeta `/content` se estructura como sigue (es crucial mantener este orden, de lo contrario no se visualizará correctamente):
 
