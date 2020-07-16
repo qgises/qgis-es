@@ -65,4 +65,54 @@ Todo el contenido se organiza en archivos de extensión `.md` ubicados en la car
 
 ## Conversión `md` ->  `html`
 
-La conversión de archivos md, así como ficheros relacionados (como multimedia, pdfs...) la realiza hugo. El proyecto está configurado para que cada commit de la rama `master` ejecute hugo en un servidor, genere los archivos html correspondientes y los muestre en la url deseada, todo de forma automática.
+La conversión de archivos md, así como ficheros relacionados (como multimedia, pdfs...) la realiza hugo. El proyecto está configurado utilizando un sistema de integración contínua en netlify para que cada commit de la rama `master` ejecute hugo en un servidor, genere los archivos html correspondientes y los muestre en la url deseada, todo de forma automática.
+
+### Instrucciones para utilización de forma autónoma
+
+{{% alert warning %}}
+Estos pasos únicamente son necesarios en caso de no querer utilizar netlify en el futuro y utilizar github pages. 
+{{% /alert %}}
+
+**Preparar la carpeta de despliegue**
+
+Crear una carpeta pública dentro de la página web clonada y buscar la rama de la página gh en ella ejecutando el siguiente comando desde la carpeta de la página web clonada:
+
+```
+git worktree add -B gh-pages public origin/gh-pages
+```
+
+**Build**
+
+Después de hacer algún cambio en el contenido del sitio, puedes comprobar cómo se ve haciendo:
+
+```
+hugo serve
+```
+
+o, si tenemos posts en borrador que queremos ver:
+
+```
+hugo -D serve
+```
+
+Para construir para la carpeta pública con el sitio renderizado en html:
+
+```
+hugo
+```
+
+Hacer _Commit_ de los cambios en el código fuente
+
+```
+git add -u  # and add new assets if any
+git commit -m "Update sources"
+git push origin master
+```
+
+Hacer cambios del sitio renderizado. Para ello es necesario acceder a la carpeta `public` configurada en el primer paso para conectarla con github pages y hacer commit y push de los cambios:
+
+```
+cd public
+git commit -am "Update site"
+git push origin gh-pages
+```
