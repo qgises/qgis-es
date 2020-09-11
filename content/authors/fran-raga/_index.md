@@ -1,9 +1,9 @@
 ---
 superuser: false
 authors:
-  - admin
+  - fran-raga
 title: Fran Raga
-role: Vice-presidente de la Asociación española de QGIS
+role: Vice-presidencia
 bio: ""
 social:
   - icon: envelope

@@ -5,5 +5,5 @@ avatar_filename: avatar
 superuser: false
 draft: true
 user_groups:
-  - Junta directiva
+  - Socios
 ---

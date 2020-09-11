@@ -1,20 +1,20 @@
 ---
 superuser: false
 authors:
-  - carmen-diez
-title: Carmen Diez
-role: Tesorería
-bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
+  - oscar-cuadrado
+title: Óscar Cuadrado
+role: Vocal
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:catastro@coordina2.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/qgises
   - icon: github
     icon_pack: fab
-    link: https://github.com/clds1
+    link: http://github.com/qgises/
 email: ""
 user_groups:
   - Junta directiva

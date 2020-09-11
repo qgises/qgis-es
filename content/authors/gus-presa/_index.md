@@ -1,10 +1,10 @@
 ---
 superuser: false
 authors:
-  - carmen-diez
-title: Carmen Diez
-role: Tesorería
-bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
+  - gus-presa
+title: Gus Presa
+role: Secretaría
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/qgises
   - icon: github
     icon_pack: fab
-    link: https://github.com/clds1
+    link: http://github.com/qgises/
 email: ""
 user_groups:
   - Junta directiva
