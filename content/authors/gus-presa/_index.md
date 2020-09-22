@@ -17,7 +17,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/qgises
+    link: https://twitter.com/guspresa
   - icon: github
     icon_pack: fab
     link: http://github.com/qgises/
