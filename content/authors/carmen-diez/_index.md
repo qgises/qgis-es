@@ -4,7 +4,7 @@ authors:
   - carmen-diez
 title: Carmen Diez
 role: Tesorería
-avatar_filename: carmen_diez.jpg
+avatar_filename: ""
 bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
 social:
   - icon: envelope
