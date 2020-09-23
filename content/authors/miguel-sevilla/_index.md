@@ -10,6 +10,7 @@ authors:
   - miguel-sevilla
 title: Miguel Sevilla-Callejo
 role: Vocal
+avatar_filename: avatar.jpg
 bio: Doctor en Geografía. Investigador. Profesor. Consultor *freelance*.
   Interesado en las dinámicas territoriales, las tecnologías de la información
   geográfica y el software y herramientas libres.
