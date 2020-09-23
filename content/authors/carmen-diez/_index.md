@@ -5,7 +5,9 @@ authors:
 title: Carmen Diez
 role: Tesorería
 avatar_filename: ""
-bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
+bio: Licenciada en Ingeniería Civil y Máster en Ingeniería Ambiental y Gestión
+  del Agua e involucrada desde hace años en grupos y asociaciones FOSS ligados a
+  las tecnologías geoespaciales.
 social:
   - icon: envelope
     icon_pack: fas
