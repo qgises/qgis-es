@@ -1,9 +1,10 @@
 backend:
-  name: github
-  api_root: https://api.github.com
-  repo: qgises/qgis-es # Path to your GitHub repository
-  branch: master
-  open_authoring: true
+  name: git-gateway
+  # name: github
+  # api_root: https://api.github.com
+  # repo: qgises/qgis-es # Path to your GitHub repository
+  # branch: master
+  # open_authoring: true
 publish_mode: editorial_workflow
 media_folder: 'static/img/'
 public_folder: 'img'
