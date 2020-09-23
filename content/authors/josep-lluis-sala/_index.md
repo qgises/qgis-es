@@ -4,11 +4,12 @@ authors:
   - josep-lluis-sala
 title: Josep Lluis Sala
 role: Vocal
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:catastro@coordina2.com"
+    link: mailto:catastro@coordina2.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/qgises
