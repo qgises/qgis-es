@@ -4,11 +4,12 @@ authors:
   - lucho-ferrer
 title: Lucho Ferrer
 role: Vocal
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:lefcgis@gmail.com"
+    link: mailto:lefcgis@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/qgises
