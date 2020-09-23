@@ -2,7 +2,7 @@
 superuser: false
 authors:
   - josep-lluis-sala
-title: Josep Lluis Sala
+title: Josep Lluís Sala
 role: Vocal
 avatar_filename: avatar.jpg
 bio: ""
@@ -20,4 +20,3 @@ email: ""
 user_groups:
   - Junta directiva
 ---
-Hola caracola
