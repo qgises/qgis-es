@@ -18,6 +18,7 @@ interests:
   - Tecnologías de la Información Geográfica
   - Software libre
   - GNU/Linux
+  - OpenStreetMap
 social:
   - icon: envelope
     icon_pack: fas
