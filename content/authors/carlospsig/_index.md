@@ -21,7 +21,7 @@ user_groups:
 ---
 He desarrollado, coordinado o colaborado en más de un centenar de proyectos de Sistemas de Información geográfica (SIG) desde Febrero del año 2000. Utilizando diferentes programas de SIG (QGIS, gvSIG, ArcGIS, ArcView, ArcInfo, GeoVisor, miraMon, etc) y realizando todo tipo de tareas de análisis SIG (captura de datos, algebra de mapas, análisis GRID, digitalización en diferentes formatos (Shapefiles, GeoDataBases, coberturas de ArcInfo, vector de MiraMon, etc), impresión de calidad, gestión de proyección cartográfica, generación de macros o scripts, geoprocesamiento avanzado.
 
-Especialidades: Amplia experiencia programas de SIG como QGIS, gvSIG, ArcGIS GeoVisor, MiraMon, ArcView y ArcInfo. He participado como profesor en 2 másteres de SIG, enseñando los conceptos básicos del SIG y una veintena de cursos de formación de programas de SIG.
+Especialidades: Amplia experiencia programas de SIG como QGIS, gvSIG, ArcGIS GeoVisor, MiraMon, ArcView y ArcInfo. He participado como profesor en 2 másteres de SIG, enseñando los conceptos básicos del SIG y un centenar de cursos de formación de programas de SIG, sobre todo de QGIS.
 
 Experiencia en:
 
