@@ -23,5 +23,5 @@ Opción B: (one liner)
 
 1. Clonar el repositorio junto con los submódulos
 ```
-git clone  git@github.com:qgises/qgis-es.git --recurse-submodules
+git clone git@github.com:qgises/qgis-es.git --recurse-submodules
 ```

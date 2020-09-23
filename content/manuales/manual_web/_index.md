@@ -25,7 +25,7 @@ Esta web está realizada con [Hugo](https://gohugo.io) y desplegada automáticam
 Hugo es un generador de webs estático: a partir de escribir contenido en `markdown` siguiendo unas directrices y de un sistema de menús y themes, Hugo, convierte el contenido en los archivos `html` necesarios para ser visualizados en cualquier navegador web. 
 
 Este sistema tiene, entre otras, las ventajas siguientes:
-  * **No necesita servidor:** al ser un sitio estático puede alojarse en cualquier repositorio de git, que, en nuestro caso, está alojado en [`https://github.com/montera34/qgis-es`](https://github.com/montera34/qgis-es).
+  * **No necesita servidor:** al ser un sitio estático puede alojarse en cualquier repositorio de git, que, en nuestro caso, está alojado en [`https://github.com/qgises/qgis-es`](https://github.com/qgises/qgis-es).
   * **No puede ser hackeado** a través de ejecución de programas (porque no se ejecuta nada en servidor ni en cliente). A su vez, no es necesario realizar tareas de mantenimiento de seguridad del código (porque no hay código que pueda ejecutarse).
   * **Rapidez:** una vez generado el sitio, el sitio web carga muy rápido al no tener que mandar consultas al servidor. Además, configuraré el theme para que use técnicas de lazy loading de imágenes.
   * **No hace falta editar html/css:** el contenido se escribe en markdown.
@@ -44,7 +44,7 @@ Opción A (2 pasos):
 1. Clonar repositorio:
 
   ```shell
-  git clone git@github.com:montera34/qgis-es.git
+  git clone git@github.com:qgises/qgis-es.git
   ```
 
 2. Descargar contenido del theme (es un submódulo)
@@ -56,7 +56,7 @@ Opción B: (one liner)
 
 1. Clonar el repositorio junto con los submódulos
 ```shell
-git clone --recurse-submodules
+git clone git@github.com:qgises/qgis-es.git --recurse-submodules
 ```
 
 ## Gestión de contenido
