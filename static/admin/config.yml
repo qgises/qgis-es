@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: montera34/qgis-es # Path to your GitHub repository
+  api_root: https://api.github.com
+  repo: qgises/qgis-es # Path to your GitHub repository
   branch: master
   open_authoring: true
 publish_mode: editorial_workflow
