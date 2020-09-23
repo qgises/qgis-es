@@ -20,7 +20,7 @@ social:
     link: https://twitter.com/guspresa
   - icon: github
     icon_pack: fab
-    link: http://github.com/qgises/
+    link: https://github.com/guspresa
   - link: https://www.linkedin.com/in/guspresa/
     icon_pack: fab
     icon: linkedin
