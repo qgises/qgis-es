@@ -29,7 +29,7 @@ education:
     - course: Licenciatura en Geografía e Historia
       institution: Universidad de León
       year: 1993
-email: ""
+email: guspresa@gmail.com
 user_groups:
   - Junta directiva
 ---
