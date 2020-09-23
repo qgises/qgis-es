@@ -20,3 +20,4 @@ email: ""
 user_groups:
   - Junta directiva
 ---
+Hola caracola
