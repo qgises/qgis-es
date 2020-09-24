@@ -43,8 +43,8 @@ se han cruzado en mi camino (Universidad Autónoma de Madrid, Universidad de Alc
 Henares, Universidad de Girona, IGN… por citar algunos)
 
 Mientras estaba haciendo el doctorado, me surgió la oportunidad de cursar un año en St.
-Norbert College, donde asistía como “audit” a clases y principalmente mejoraba mi nivel de
-inglés.
+Norbert College (De Pere, Wisconsin, EEUU), donde asistía como “audit” a clases y principalmente mejoraba mi nivel de
+inglés. Esto fue en el curso 1996-1997.
 
 Ello me permitió trabajar en proyectos cartográficos financiados por la Unión Europea, en
 Bosnia i Herzegovina y Turquía.
