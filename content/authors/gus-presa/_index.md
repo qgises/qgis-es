@@ -47,7 +47,7 @@ Norbert College (De Pere, Wisconsin, EEUU), donde asistía como “audit” a cl
 inglés. Esto fue en el curso 1996-1997.
 
 Ello me permitió trabajar en proyectos cartográficos financiados por la Unión Europea, en
-Bosnia i Herzegovina y Turquía.
+Bosnia i Herzegovina (1999) y Turquía (2005).
 
 Finalmente, tras alguna experiencia laboral en el sector tecnológico, donde adquirí
 conocimientos relacionados con el mundo de internet, recalé en Endesa, donde llevo dos
