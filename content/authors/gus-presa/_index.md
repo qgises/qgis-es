@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: Experto Planificador Analista MT-BT (Global Infrastructure and Networks - Studies) en eDistribución Redes Digitales S.L.
-    url: http://edistribucion.com/
+    url: http://edistribucion.com/es/index.html
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: https://www.canoeicf.com/es/node/57353
 authors:
