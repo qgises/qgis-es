@@ -1,5 +1,9 @@
 ---
-superuser: false
+organizations:
+  - name: prueba1
+    url: http://www.waveski.es/
+  - name: prueba2
+    url: http://www.guspresa.com
 authors:
   - gus-presa
 title: Gus Presa
