@@ -11,7 +11,7 @@ role: Secretaría
 avatar_filename: foto_gus_qgis.jpg
 bio: Geógrafo
 interests:
-  - He participado en la implantación de QGIS como GIS corporativo de Endesa Distribucion desde 2.015 hasta 2019, cuando sustituyó oficialmente a SmallWorld.
+  - Practico un deporte denominado "waveski surfing". Soy presidente de la "World Waveski Surfing Association" desde 2016.
 social:
   - icon: envelope
     icon_pack: fas
