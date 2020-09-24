@@ -38,7 +38,7 @@ Soy licenciado en Geografía e Historia (especialidad, Geografía, promoción 19
 comencé estudios de doctorado (“Territorio y Planificación en Áreas Rurales y Urbanas"), todo
 en la Universidad de León.
 
-Posteriormente he ido ampliando mi formación específica en GIS con cuanto curso y postgrado
+Posteriormente, he ido ampliando mi formación específica en GIS con cuanto curso y postgrado
 se han cruzado en mi camino (Universidad Autónoma de Madrid, Universidad de Alcalá de
 Henares, Universidad de Girona, IGN… por citar algunos)
 
