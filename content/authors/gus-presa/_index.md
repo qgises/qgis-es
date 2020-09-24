@@ -51,7 +51,7 @@ Bosnia i Herzegovina y Turquía.
 
 Finalmente, tras alguna experiencia laboral en el sector tecnológico, donde adquirí
 conocimientos relacionados con el mundo de internet, recalé en Endesa, donde llevo dos
-décadas.
+décadas (desde 2.001)
 
 Un gran porcentaje de mi trabajo diario consiste en fomentar el uso de la cartografía para
 comprender mejor el funcionamiento de nuestro negocio, y así poder ayudar en la toma de
