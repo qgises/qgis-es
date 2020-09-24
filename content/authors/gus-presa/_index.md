@@ -35,7 +35,7 @@ user_groups:
   - Junta directiva
 ---
 Soy licenciado en Geografía e Historia (especialidad, Geografía, promoción 1988-1993), y
-comencé estudios de doctorado (“Territorio y Planificación en Áreas Rurales y urbanas), todo
+comencé estudios de doctorado (“Territorio y Planificación en Áreas Rurales y Urbanas"), todo
 en la Universidad de León.
 
 Posteriormente he ido ampliando mi formación específica en GIS con cuanto curso y postgrado
