@@ -1,9 +1,9 @@
 ---
 organizations:
-  - name: prueba1
-    url: http://www.waveski.es/
-  - name: prueba2
-    url: http://www.guspresa.com
+  - name: Experto Planificador Analista MT-BT (Global Infrastructure and Networks - Studies) en eDistribución Redes Digitales S.L.
+    url: http://edistribucion.com/
+  - name: Presidente de la Asociación Mundial de Waveski (WWSA)
+    url: https://www.canoeicf.com/es/node/57353
 authors:
   - gus-presa
 title: Gus Presa
