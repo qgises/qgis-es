@@ -16,6 +16,9 @@ social:
   - icon: github
     icon_pack: fab
     link: http://github.com/jlsala
+  - link: https://www.linkedin.com/in/joseplluissala/
+    icon_pack: fab
+    icon: linkedin
 email: ""
 user_groups:
   - Junta directiva
@@ -24,7 +27,7 @@ Arquitecto técnico por la Universitat Politècnica de Catalunya (UPC)
 
 Especialista en Domótica y Edificios Inteligentes (UPC)
 
-Socio director de BGEO OPEN GIS, SL:
+Socio director de [BGEO OPEN GIS, SL](https://www.bgeo.es/):
 
 -   Coordinador de proyectos GIS open source aplicados a la gestión
     territorial y en el ámbito de las infraestructuras urbanas, dando
@@ -41,7 +44,7 @@ Socio director de BGEO OPEN GIS, SL:
 -   Coordinador de proyectos de arquitectura y ingeniería civil.
     Director facultativo de la ejecución de las obras.
 
-Tesorero de la GISWATER ASSOCIATION
+Tesorero de la [GISWATER ASSOCIATION](https://www.giswater.org/)
 
-Delegado del Vallès Oriental y vocal del Col.legi d’Aparelladors,
-Arquitectes tècnics i Enginyers d’Edificació de Barcelona
+Delegado del Vallès Oriental y vocal del [Col.legi d’Aparelladors,
+Arquitectes tècnics i Enginyers d’Edificació de Barcelona](https://www.apabcn.cat)
