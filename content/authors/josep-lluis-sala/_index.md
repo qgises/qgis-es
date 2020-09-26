@@ -21,7 +21,6 @@ user_groups:
   - Junta directiva
 ---
 Arquitecto técnico por la Universitat Politècnica de Catalunya (UPC)
-(1997)
 
 Especialista en Domótica y Edificios Inteligentes (UPC)
 
