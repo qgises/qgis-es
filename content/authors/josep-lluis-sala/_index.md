@@ -9,13 +9,13 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:catastro@coordina2.com
+    link: mailto:jlsala@bgeo.es
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/qgises
+    link: https://twitter.com/jllsala
   - icon: github
     icon_pack: fab
-    link: http://github.com/qgises/
+    link: http://github.com/jlsala
 email: ""
 user_groups:
   - Junta directiva
