@@ -63,9 +63,13 @@ Desde el 2018 he sido autor y expositor de investigaciones en LatinR (Santiago d
 
 A partir del año 2016 a la actualidad, para la Escuela de Geografía de la Universidad Nacional Mayor de San Marcos (Lima, Perú), brindo apoyo en asistencia de cátedra para el desarrollo del curso de Taller de Sistemas de Información Geográfica dirigido a alumnos del último año de la carrera de Geografía, dictando clases de investigación, recolección, análisis, interpretación y publicación de datos espaciales, así como de desarrollo de aplicaciones web geográficas con herramientas libres de código de uso libre. De igual manera, he brindado talleres cartográficos para colegios públicos y privados para niños de 3, 4 y 5 grado de primaria.
 
-Tengo dos publicaciones en temas de Educación Infantil:\
-\
-- Informe de Indicadores Clave de la Evaluación Nacional de Educación Inicial 2014” Ministerio de Educación del Perú Dirección de Educación Inicial – Equipo de Evaluación\
-Noviembre 2015\
-\
-- Marco de Trabajo de la Evaluación de Educación Inicial 2014” Ministerio de Educación del Perú Dirección de Educación Inicial - Equipo de Evaluación Octubre 2015
+Tengo dos publicaciones en temas de Educación Infantil:
+
+* Informe de Indicadores Clave de la Evaluación Nacional de Educación Inicial 2014”\
+  Ministerio de Educación del Perú\
+  Dirección de Educación Inicial – Equipo de Evaluación\
+  Noviembre 2015
+* Marco de Trabajo de la Evaluación de Educación Inicial 2014”\
+  Ministerio de Educación del Perú\
+  Dirección de Educación Inicial - Equipo de Evaluación\
+  Octubre 2015
