@@ -37,10 +37,10 @@ education:
   courses:
     - course: Geografía
       institution: UNMSM
-      year: ""
+      year: 2001
     - course: Data Analysis
       institution: The Offord Centre for Child Studies - McMaster University
-      year: 2011
+      year: 2015
 email: lefcgis@gmail.com
 user_groups:
   - Junta directiva
@@ -54,19 +54,16 @@ Javascript, Leaflet, Inkscape, Garmin.
 
    > Asociación QGIS España
    > En calidad de: Socio
-   > 18/06/2019
    >
    > Universidad Nacional Mayor de San Marcos
    > Facultad de Ciencias Sociales
    > Escuela Académico Profesional de Geografía
    > Título: Geógrafo
-   > 20/03/2013
    >
    > Universidad Nacional Mayor de San Marcos
    > Facultad de Ciencias Sociales
    > Escuela Académico Profesional de Geografía
    > Grado: Bachiller en Geografía
-   > 18/08/2011
 2. EXPERIENCIA LABORAL Y ACADÉMICA
 
    > Ministerio de Cultura (Lima, Perú)
