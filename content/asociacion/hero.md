@@ -51,4 +51,6 @@ title = "Asociación QGIS España"
   label = 'Foto: Girona 2019'
 +++
 
-Somos el grupo de usuarios de QGIS España. Somos usuarios como tú, y utilizamos QGIS en nuestro día a día para trabajos profesionales, investigación o por _hobbie_. Contribuimos a que QGIS sea todavía mejor, ya sea compartiendo conocimiento, traduciendo, desarrollando funcionalidades o ayudando a otros usuarios, entre otros. (o algo así)
+<!-- REVISAR ESTA definición para ver si nos ajustamos a ella -->
+
+Somos el grupo de usuarios de QGIS España. Somos usuarios como tú, y utilizamos QGIS en nuestro día a día para trabajos profesionales, investigación o por _hobbie_. Contribuimos a que QGIS sea todavía mejor, ya sea compartiendo conocimiento, traduciendo, desarrollando funcionalidades o ayudando a otros usuarios, entre otros.
