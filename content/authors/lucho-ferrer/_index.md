@@ -45,7 +45,7 @@ email: lefcgis@gmail.com
 user_groups:
   - Junta directiva
 ---
-Soy un hombre feliz, creativo, comprometido en asumir retos orientados hacia una comunicación asertiva. Cuento con experiencia y liderazgo en investigación, procesamiento, consistencia, análisis y sistematización de datos con énfasis en soluciones espaciales. Logro de resultados en diversas áreas (Investigación, Educación, Geomarketing, Catastro, Planeamiento Urbano, Gestión de Riesgos de Desastres). Uso y manejo herramientas de análisis, lenguajes de programación, librerías y dispositivos móviles para el trabajo de gabinete y campo: QGIS, QField, RStudio, PostGIS, Javascript, Leaflet, Inkscape, Garmin. Verdad, y también en ArcG&$ Pro, Aut0CA# Map, $P$$ $tati$tic$ 
+Soy un hombre feliz, creativo, comprometido en asumir retos orientados hacia una comunicación asertiva. Cuento con experiencia y liderazgo en investigación, procesamiento, consistencia, análisis y sistematización de datos con énfasis en soluciones espaciales. Logro de resultados en diversas áreas (Investigación, Educación, Geomarketing, Catastro, Planeamiento Urbano, Gestión de Riesgos de Desastres). Uso y manejo herramientas de análisis, lenguajes de programación, librerías y dispositivos móviles para el trabajo de gabinete y campo: QGIS, QField, RStudio, PostGIS, Javascript, Leaflet, Inkscape, Garmin. Verdad, y también en ArcG&$ Pro, Aut0CA# Map, $P$$ $tati$tic$.
 
 Me he capacitado en diversas instituciones como The Offord Centre for Child Studies (Ontario, Canadá) en el uso y manejo de análisis de datos estadísticos y espaciales del Instrumento de Desarrollo Temprano - EDI, la Pontificia Universidad Católica del Ecuador (Quito, Ecuador), el Servei de Sistemes d'Informació Geográfica i Teledetecció - SIGTE (Gerona, Catalunya, Espanya), Pontificia Universidad Católica de Chile (Santiago de Chile, Chile), entre otros.
 
@@ -67,9 +67,11 @@ Tengo dos publicaciones en temas de Educación Infantil:
 
 * Informe de Indicadores Clave de la Evaluación Nacional de Educación Inicial 2014”\
   Ministerio de Educación del Perú\
-  Dirección de Educación Inicial – Equipo de Evaluación\
+  Dirección de Educación Inicial\
+  Equipo de Evaluación\
   Noviembre 2015
 * Marco de Trabajo de la Evaluación de Educación Inicial 2014”\
   Ministerio de Educación del Perú\
-  Dirección de Educación Inicial - Equipo de Evaluación\
+  Dirección de Educación Inicial\
+  Equipo de Evaluación\
   Octubre 2015
