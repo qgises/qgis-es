@@ -47,13 +47,7 @@ user_groups:
 ---
 **LUIS EDUARDO FERRER CRUZ**
 
-Soy un hombre feliz, creativo, comprometido en asumir retos orientados hacia una comunicación
-asertiva. Cuento con experiencia y liderazgo en investigación, procesamiento, consistencia,
-análisis y sistematización de datos con énfasis en soluciones espaciales. Logro de resultados en
-diversas áreas (Investigación, Educación, Geomarketing, Catastro, Planeamiento Urbano,
-Gestión de Riesgos de Desastres). Uso y manejo herramientas de análisis, lenguajes de
-programación, librerías y dispositivos móviles para el trabajo de gabinete y campo: QGIS,
-QField, ArcGIS Pro, ArcGIS online, AutoCAD Map, RStudio, SPSS Statistics, PostGIS,
+Soy un hombre feliz, creativo, comprometido en asumir retos orientados hacia una comunicación asertiva. Cuento con experiencia y liderazgo en investigación, procesamiento, consistencia, análisis y sistematización de datos con énfasis en soluciones espaciales. Logro de resultados en diversas áreas (Investigación, Educación, Geomarketing, Catastro, Planeamiento Urbano, Gestión de Riesgos de Desastres). Uso y manejo herramientas de análisis, lenguajes de programación, librerías y dispositivos móviles para el trabajo de gabinete y campo: QGIS, QField, ArcGIS Pro, ArcGIS online, AutoCAD Map, RStudio, SPSS Statistics, PostGIS,
 Javascript, Leaflet, Inkscape, Garmin.
 
 1. FORMACIÓN ACADÉMICA Y DE INVESTIGACIÓN
