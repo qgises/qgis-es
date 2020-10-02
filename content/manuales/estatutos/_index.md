@@ -23,7 +23,7 @@ menu:
 
 ## Artículo 1 Denominación
 
-Con   la   denominación   de   Asociación QGIS   España,   se   constituye   en Gironauna Asociación  sin  ánimo  de  lucro  de  ámbito  nacional  dotada  de  personalidad  jurídica propia  y  plena  capacidad  de  obrar  de  acuerdo  con  la  legislación  vigente  sobre asociaciones.
+Con   la   denominación   de   Asociación QGIS   España,   se   constituye   en Girona una Asociación  sin  ánimo  de  lucro  de  ámbito  nacional  dotada  de  personalidad  jurídica propia  y  plena  capacidad  de  obrar  de  acuerdo  con  la  legislación  vigente  sobre asociaciones.
 
 ## Artículo 2 Objetivo
 
