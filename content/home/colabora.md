@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Qué puedes hacer"
+title = "¿Qué puedes hacer?"
 subtitle = "Estas son algunas formas de [colaborar con el proyecto QGIS](https://qgis.org/es/site/getinvolved/index.html)"
 
 # Showcase personal skills or business features.
@@ -30,14 +30,14 @@ subtitle = "Estas son algunas formas de [colaborar con el proyecto QGIS](https:/
   icon = "book"
   icon_pack = "fas"
   name = "Escribe Documentación"
-  description = "Ayuda a mejorar la [documentación oficial](https://qgis.org/es/docs/index.html) (manuales de uso, de desarrollo...). [+info](https://qgis.org/es/site/getinvolved/document.html)"
+  description = "Ayuda a mejorar la [documentación oficial](https://qgis.org/es/docs/index.html) (manuales de uso, de desarrollo, algoritmos...). [+info](https://qgis.org/es/site/getinvolved/document.html)"
 
 
 [[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Traduce QGIS"
-  description = "Puedes ayudar a traducir tanto la interfaz de QGIS como la documentación oficial a través de la plataforma de traducción [+info](https://qgis.org/es/site/getinvolved/translate.html)"
+  description = "Puedes ayudar a traducir tanto la interfaz de QGIS, como la documentación oficial a través de la plataforma de traducción [+info](https://qgis.org/es/site/getinvolved/translate.html)"
 
 
 [[feature]]
