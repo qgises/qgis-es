@@ -49,4 +49,4 @@ subtitle = "de la asociación"
 * Inicialización de grupos de interés específicos SIG y módulos de aplicación (como aguas residuales, planificación urbana, topografía, etc.).
 * Organización de reuniones de usuarios.
 * Servir como punto de organización para las reuniones regionales.
-* Únete a nosotros y comparte tus ideas!
+* ¡Únete a nosotros y comparte tus ideas!
