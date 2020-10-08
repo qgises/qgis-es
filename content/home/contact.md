@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contáctanos"
-subtitle = "Contacta con el grupo de usuarios de España"
+subtitle = "Contacta con el grupo de usuarios QGIS España"
 
 
 # Automatically link email and phone?
@@ -19,4 +19,4 @@ autolink = true
 email_form = 0
 +++
 
-Puedes suscribirte a nuestra [Lista de correo](https://lists.osgeo.org/mailman/listinfo/qgis-es) y actualizaciones en [nuestro grupo de Telegram](https://telegram.me/qgis_es). ¡Animate a participar!
+Puedes suscribirte a nuestra [Lista de correo](https://lists.osgeo.org/mailman/listinfo/qgis-es) y actualizaciones en [nuestro grupo de Telegram](https://telegram.me/qgis_es). ¡Únete y anímate a participar!
