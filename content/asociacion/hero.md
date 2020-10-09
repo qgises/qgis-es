@@ -49,6 +49,7 @@ title = "Asociación QGIS España"
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = 'Foto: Girona 2019'
+  #hero_media = "foto_claustre_tots2.jpg"
 +++
 
 <!-- REVISAR ESTA definición para ver si nos ajustamos a ella -->
