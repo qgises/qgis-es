@@ -1,6 +1,6 @@
 ---
-title: Formulario de alta persona socia
-subtitle: ¡Gracias por tu interés en formar parte del grupo!
+title: Formulario para asociarse
+subtitle: ¡Gracias por tu interés en formar parte de QGIS España!
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: true
