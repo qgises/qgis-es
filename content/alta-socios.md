@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-Para darte de alta como persona socia en la **Asociación GIS España** únicamente deberás rellenar este formulario y, posteriormente, abonar la cuota correspondiente.
+Para darte de alta como persona socia en la **Asociación QGIS España** únicamente deberás rellenar este formulario y, posteriormente, abonar la cuota correspondiente.
 
 {{< typeform dMp0tK >}}
