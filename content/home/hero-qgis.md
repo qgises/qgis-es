@@ -53,6 +53,6 @@ hero_media = "logos/qgis-icon400b.png"
   # label = '[Consulta las novedades de la última version](https://qgis.org/es/site/forusers/visualchangelogs.html) <br>Foto: [Harry Bronkhorst](https://www.flickr.com/photos/7361002@N08/49662184946/in/pool-qgis/)'
 +++
 
-QGIS es un Sistema de Información Geográfica (SIG) de Código Abierto con licencia [GNU](). QGIS es un proyecto oficial de [Open Source Geospatial Foundation](https://www.osgeo.org/). Corre sobre GNU/Linux, Unix, macOS, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos.
+QGIS es un Sistema de Información Geográfica (SIG) de Código Abierto con licencia [GNU GPLv2](https://es.wikipedia.org/wiki/GNU_General_Public_License). QGIS es un proyecto oficial de [Open Source Geospatial Foundation](https://www.osgeo.org/). Corre sobre GNU/Linux, Unix, macOS, Windows y Android y soporta numerosos formatos y funcionalidades de datos vector, datos ráster y bases de datos.
 
 <!--<small>QGIS es un proyecto de [![](img/logos/osgeo_logo_white200.png)](https://www.osgeo.org/)</small> -->
