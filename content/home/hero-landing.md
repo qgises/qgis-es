@@ -37,7 +37,7 @@ hero_media = "esquema-qgis.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/asociación"
+  url = "/asociacion"
   label = "Conoce la asociación"
   icon_pack = "fas"
   icon = "users"
