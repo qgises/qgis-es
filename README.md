@@ -42,6 +42,16 @@ Aunque la página web se genera automáticamente vía Netlify si queremos tenerl
 
 Más instrucciones en la misma [página de HUGO](https://gohugo.io/documentation/) 
 
-<!-- en Netlify está configurada la versión 0.70.0 de HUGO -->
+<!-- en Netlify está configurada la versión 0.70.0 de HUGO pero funciona con la 0.74 -->
 
+Este es un ejemplo de cómo recrear la página web en local con una imagen docker de HUGO:
 
+```bash
+docker run --rm -it -v $PWD:/src klakegg/hugo:0.70.0-ext
+```
+
+Si además queremos verla debemos servirla en un puerto de nuestro equipo:
+
+```bash
+docker run --rm -it -v $PWD:/src -p 1313:1313 klakegg/hugo:0.70.0-ext serve
+```
