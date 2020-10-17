@@ -40,7 +40,7 @@ Por la naturaleza propia de la tecnología usada en el desarrollo de esta págin
 
 Aunque la página web se genera automáticamente vía Netlify si queremos tenerla en local o de cara a un futuro para no depender de Netlify, se puede correr y servir corriendo HUGO.
 
-Más instrucciones en la misma [página de HUGO](https://gohugo.io/documentation/) 
+
 
 <!-- en Netlify está configurada la versión 0.70.0 de HUGO pero funciona con la 0.74 -->
 
@@ -55,3 +55,14 @@ Si además queremos verla debemos servirla en un puerto de nuestro equipo:
 ```bash
 docker run --rm -it -v $PWD:/src -p 1313:1313 klakegg/hugo:0.70.0-ext serve
 ```
+
+También se ha añadido un archivo docker-compose.yml en el repositorio que se puede ejecutar, del siguiente modo:
+
+```bash
+# arrancar servicio en local
+docker-compose up -d
+# parar servicio en local
+docker-compose down
+```
+
+Más instrucciones en la misma [página de HUGO](https://gohugo.io/documentation/) 
