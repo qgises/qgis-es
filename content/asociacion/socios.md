@@ -15,7 +15,7 @@ subtitle = "Conoce quiénes formamos parte de QGIS España"
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Junta directiva", "Grandes colectivos"]
   # Custom field, displayed after users.
-  note = "APARTADO EN CONSTRUCCIÓN (perdona las molestias)"
+  note = "APARTADO EN CONSTRUCCIÓN (perdona las molestias) <br> Si tu entidad quiere colaborar con la Asociación QGIS España y participar en sus proyectos de difusión, investigación, iniciativas, patrocinio y fomento de QGIS, sólo tienes que hacerte socio inscribiéndote en el formulario y abonando la cuota correspondiente. Además, de esta manera vuestro logo también aparecerá en este espacio reservado de nuestra web para todos los colaboradores con la Asociación"
   # note = "¿Quieres aparecer en esta lista? Aquí te explicamos cómo."
 
 [design]
