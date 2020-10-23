@@ -15,7 +15,8 @@ subtitle = "Conoce quiénes formamos parte de QGIS España"
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Junta directiva", "Grandes colectivos"]
   # Custom field, displayed after users.
-  note = "¿Quieres aparecer en esta lista? Aquí te explicamos cómo."
+  note = "APARTADO EN CONSTRUCCIÓN (perdona las molestias)"
+  # note = "¿Quieres aparecer en esta lista? Aquí te explicamos cómo."
 
 [design]
   # Show user's social networking links? (true/false)
