@@ -50,6 +50,6 @@ subtitle = "Estas son algunas formas de [colaborar con el proyecto QGIS](https:/
   icon = "donate"
   icon_pack = "fas"
   name = "Haz una donación"
-  description = "Puedes hacer una donación vía <a href="https://paypal.me/QGISes">PayPal<a><br> o a nuestro número de cuenta en Triodos Bank / IBAN: ES39 1491 0001 2830 0010 8471"
+  description = "Puedes hacer una donación vía PayPal: https://paypal.me/QGISes<br> o a nuestro número de cuenta en Triodos Bank / IBAN: ES39 1491 0001 2830 0010 8471"
 
 +++
