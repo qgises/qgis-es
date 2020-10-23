@@ -18,7 +18,7 @@ subtitle = "Estas son algunas de las redes sociales donde podrás encontrarnos"
   icon = "mail-bulk"
   icon_pack = "fas"
   name = "[Lista de correo](https://lists.osgeo.org/mailman/listinfo/qgis-es)"
-  description = "El método de contacto favorito de Miguel. Ideal para consultas"
+  description = "Para consultas más extensas y no inmediatas."
 
 [[feature]]
   icon = "telegram"

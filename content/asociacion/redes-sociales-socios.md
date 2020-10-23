@@ -18,7 +18,7 @@ subtitle = "Ofrecemos los siguientes canales de comunicación **exclusivamente p
   icon = "mail-bulk"
   icon_pack = "fas"
   name = "[Lista de correo para socios](https://lists.osgeo.org/mailman/listinfo/qgis-es)"
-  description = "El método de contacto favorito de Miguel."
+  description = "Para consultas más extensas y no inmediatas."
 
 [[feature]]
   icon = "telegram"
