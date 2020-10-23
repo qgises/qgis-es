@@ -38,7 +38,7 @@ links:
 - icon: file-pdf
   icon_pack: far
   name: 'Ver actas'
-  url: https://twitter.com/qgises
+  url: https://docs.google.com/document/d/1IaPlSoIbQmQ8lx31IFAiIHeVVTqMcAeT-EsZfxvAOT4/export?format=pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
