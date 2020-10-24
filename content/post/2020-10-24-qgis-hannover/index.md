@@ -7,7 +7,7 @@ draft: false
 featured: true
 image:
   filename: qgis_3_16.png
-  focal_point: Smart
+  focal_point: TOPRIGHT
   preview_only: true
 ---
 
