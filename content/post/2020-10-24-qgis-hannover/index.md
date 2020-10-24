@@ -8,6 +8,6 @@ featured: false
 image:
   filename: qgis_3_16.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 prueba
