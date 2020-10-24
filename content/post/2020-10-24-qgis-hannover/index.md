@@ -8,7 +8,7 @@ featured: true
 image:
   filename: qgis_3_16.png
   focal_point: TOPRIGHT
-  preview_only: true
+  preview_only: false
 ---
 
 
