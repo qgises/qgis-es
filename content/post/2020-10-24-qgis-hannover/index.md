@@ -1,5 +1,5 @@
 ---
-title: Liberada la versión 3.16 QGIS "Hannover"
+title: Liberada la versión 3.16 "Hannover" de QGIS
 subtitle: prueba1
 date: 2020-10-24T19:15:25.189Z
 summary: prueba3
