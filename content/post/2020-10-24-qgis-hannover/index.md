@@ -1,8 +1,8 @@
 ---
 title: Liberada la versión 3.16 QGIS "Hannover"
-subtitle: prueba
+subtitle: prueba1
 date: 2020-10-24T19:15:25.189Z
-summary: prueba
+summary: prueba3
 draft: false
 featured: false
 image:
@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-prueba
+prueba2
