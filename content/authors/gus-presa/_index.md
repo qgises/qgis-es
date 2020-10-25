@@ -4,6 +4,7 @@ organizations:
     url: https://www.edistribucion.com/es/index.html
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: https://www.canoeicf.com/es/node/57353
+superuser: false
 authors:
   - gus-presa
 title: Gus Presa
@@ -34,6 +35,7 @@ email: guspresa@gmail.com
 user_groups:
   - Junta directiva
 ---
+
 Soy licenciado en Geografía e Historia (especialidad, Geografía, promoción 1988-1993), y
 comencé estudios de doctorado (“Territorio y Planificación en Áreas Rurales y Urbanas"), todo
 en la Universidad de León.
