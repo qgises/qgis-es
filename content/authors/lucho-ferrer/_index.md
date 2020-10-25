@@ -4,7 +4,7 @@ role: Vocal
 avatar_filename: avatar.jpg
 organizations:
   - name: QGIS Perú
-    url: qgis.pe
+    url: https://qgis.pe
 superuser: false
 authors:
   - lucho-ferrer
