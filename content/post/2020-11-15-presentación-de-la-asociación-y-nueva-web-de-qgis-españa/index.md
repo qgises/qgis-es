@@ -1,6 +1,6 @@
 ---
 title: Presentación de la asociación y nueva web de QGIS España
-subtitle: Vïdeo de presentación de la asociación y nueva web
+subtitle: Vídeo de presentación de la asociación y nueva web
 date: 2020-11-15T16:49:36.361Z
 summary: El pasado 30 de octubre, Carlos López Quintanilla, presidente de la
   asociacion QGIS España tuvo la oportunidad de presentar la nueva web y la
