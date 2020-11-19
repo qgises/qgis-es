@@ -9,7 +9,7 @@ featured: true
 authors:
   - gus-presa
 image:
-  filename: logoweb-geoinnova.png
+  filename: acuerdoqgisgeoinnova.jpg
   focal_point: TOPRIGHT
   preview_only: false
 ---
