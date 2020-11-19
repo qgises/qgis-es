@@ -11,7 +11,7 @@ authors:
 image:
   filename: featured.png
   focal_point: TOPRIGHT
-  preview_only: true
+  preview_only: false
 ---
 El pasado miércoles 18 de Noviembre, la **Asociación de QGIS España** y la **[Asociación GEOINNOVA](https://geoinnova.org/)** han firmado un **Convenio de colaboración** que tiene como objeto fundamental crear un vínculo entre ambas asociaciones para la realización de acciones de formación y divulgación relacionada con el proyecto de Sistema de Información Geográfico de código abierto QGIS
 
