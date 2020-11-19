@@ -1,11 +1,13 @@
 ---
 title: Convenio de colaboración con la Asociación GEOINNOVA
-subtitle: Primer convenio firmado con entidades de formación especializadas en
-  las tecnologías de la información
+subtitle: Firmado el primer acuerdo entre la Asociación QGIS España y GEOINNOVA
 date: 2020-11-19T19:21:35.597Z
-summary: tbd
-draft: true
-featured: false
+summary: Primer convenio firmado con entidades de formación especializadas en
+  las tecnologías de la información
+draft: false
+featured: true
+authors:
+  - gus-presa
 image:
   filename: logoweb-geoinnova.png
   focal_point: Smart
