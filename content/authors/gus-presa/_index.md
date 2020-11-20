@@ -34,6 +34,9 @@ social:
   - icon_pack: fab
     icon: vimeo
     link: https://vimeo.com/user653602
+  - icon_pack: fab
+    icon: facebook
+    link: https://www.facebook.com/guspresa
 education:
   courses:
     - course: Licenciatura en Geografía e Historia
