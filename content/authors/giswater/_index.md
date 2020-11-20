@@ -1,24 +1,19 @@
 ---
 # Display name
-title: GIS WATER
+title: Giswater Association
 
 # Username (this should match the folder name)
 authors:
-- ejemplo
+- giswater
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Empresa
-
-# Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#   url: ""
+role: Asociación
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
+bio: Asociación para apoyar y favorecer el uso de Giswater así como difundir los valores del software libre aplicados a la ingeniería y la gestión del ciclo del agua.
 #
 # interests:
 # - Artificial Intelligence
@@ -42,15 +37,15 @@ bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad espa�
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://www.giswater.org/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/qgises
+  link: https://twitter.com/giswater
 - icon: github
   icon_pack: fab
-  link: http://github.com/qgises/
+  link: http://github.com/giswater
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +61,14 @@ user_groups:
 - Grandes colectivos
 ---
 
-QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS Italia, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.
+<!-- corta y pega de su web -->
+
+Giswater Association nació formalmente en febrero de 2014 fruto de la colaboración de distintos profesionales que se unieron para desarrollar una herramienta informática en código abierto para gestionar el ciclo integral del agua. Des de entonces, Giswater Association ha crecido en miembros y en actividades de difusión y promoción de esta plataforma.
+
+Giswater Association es una asociación sin ánimo de lucro legalmente constituida y de acuerdo con lo que establece la Ley Orgánica 1/2002 de 22 de marzo y sus fines son:
+
+- Difundir los valores del software libre aplicados a la ingeniería y la gestión del ciclo del agua.
+- Desarrollar, promocionar y universalizar el uso de Giswater.
+- Contribuir a la investigación y desarrollo del conocimiento en las áreas de la gestión del ciclo integral del agua, la hidráulica de redes, la hidrología urbana y fluvial o la gestión del riesgo de inundaciones.
+- Constituirse como un referente internacional en estos ámbitos en base a sus proyectos e iniciativas.
+
