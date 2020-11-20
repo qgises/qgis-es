@@ -19,6 +19,9 @@ social:
   - link: https://www.linkedin.com/company/asociacion-geoinnova/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: fas
+    icon: globe
+    link: https://geoinnova.org/
 superuser: false
 user_groups:
   - Pequeños colectivos
