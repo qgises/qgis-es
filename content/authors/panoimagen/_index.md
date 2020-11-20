@@ -13,7 +13,7 @@ superuser: false
 role: Empresa
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data solutions for Governments and Infrastructures
+bio: ""
 #
 # interests:
 # - Artificial Intelligence
