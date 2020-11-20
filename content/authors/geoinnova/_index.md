@@ -13,6 +13,9 @@ social:
   - link: https://www.facebook.com/Asociacion.Geoinnova
     icon_pack: fab
     icon: facebook
+  - link: https://www.linkedin.com/company/asociacion-geoinnova/
+    icon_pack: fab
+    icon: linkedin
 superuser: false
 user_groups:
   - Grandes colectivos
