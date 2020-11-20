@@ -18,7 +18,7 @@ role: Ayuntamiento
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
+bio: ""
 #
 # interests:
 # - Artificial Intelligence
