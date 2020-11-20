@@ -31,6 +31,9 @@ social:
   - icon_pack: fas
     icon: globe
     link: http://www.waveski.es
+  - icon_pack: fab
+    icon: vimeo
+    link: https://vimeo.com/user653602
 education:
   courses:
     - course: Licenciatura en Geografía e Historia
