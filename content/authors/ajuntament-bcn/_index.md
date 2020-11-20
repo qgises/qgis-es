@@ -42,15 +42,15 @@ bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad espa�
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://ajuntament.barcelona.cat/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/qgises
+  link: https://twitter.com/bcn_ajuntament
 - icon: github
   icon_pack: fab
-  link: http://github.com/qgises/
+  link: https://github.com/AjuntamentdeBarcelona/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,6 @@ user_groups:
 - Grandes colectivos
 ---
 
-QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS Italia, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.
+El ayuntamiento de Barcelona es una gran corporación municipal en la que se usa QGIS para el análisis, gestión y planeamiento urbano.
+
+<!-- RELLENAR -->
