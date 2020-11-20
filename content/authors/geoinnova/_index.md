@@ -1,7 +1,7 @@
 ---
 title: Geoinnova
 role: Asociación
-avatar_filename: avatar
+avatar_filename: featured.jpg
 bio: Asociación para apoyar y favorecer el uso de QGIS entre la comunidad española.
 social:
   - link: "#contact"
