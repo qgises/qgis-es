@@ -21,7 +21,7 @@ social:
     icon: linkedin
 superuser: false
 user_groups:
-  - Pequeño colectivo
+  - Pequeños colectivos
 ---
 Geoinnova sirve de paraguas a todos los profesionales del medio ambiente y del territorio que quieran formarse y desarrollar su actividad profesional. Además, ofrece un espacio de networking que genere nuevas oportunidades de negocio.
 
