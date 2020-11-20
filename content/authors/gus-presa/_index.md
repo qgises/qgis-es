@@ -1,18 +1,20 @@
 ---
+title: Gus Presa
+role: Secretaría
+avatar_filename: foto_gus_qgis.jpg
 organizations:
-  - name: Experto Planificador Analista MT-BT (Global Infrastructure and Networks - Studies) en eDistribución Redes Digitales S.L.
+  - name: Experto Planificador Analista MT-BT (Global Infrastructure and Networks -
+      Studies) en eDistribución Redes Digitales S.L.
     url: https://www.edistribucion.com/es/index.html
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: https://www.canoeicf.com/es/node/57353
 superuser: false
 authors:
   - gus-presa
-title: Gus Presa
-role: Secretaría
-avatar_filename: foto_gus_qgis.jpg
 bio: Geógrafo
 interests:
-  - Practico un deporte denominado "waveski surfing". Soy presidente de la "World Waveski Surfing Association" desde 2016.
+  - Practico un deporte denominado "waveski surfing". Soy presidente de la
+    "World Waveski Surfing Association" desde 2016.
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +28,9 @@ social:
   - link: https://www.linkedin.com/in/guspresa/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: fas
+    icon: globe
+    link: http://www.waveski.es
 education:
   courses:
     - course: Licenciatura en Geografía e Historia
