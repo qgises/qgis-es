@@ -6,6 +6,12 @@ summary: Primer convenio firmado con entidades de formación especializadas en
   las tecnologías de la información.
 draft: false
 featured: true
+tags:
+  - qgis
+  - geoinnova
+  - convenio
+categories:
+  - Noticias
 authors:
   - gus-presa
 image:

@@ -5,6 +5,11 @@ date: 2020-10-24T19:15:25.189Z
 summary: Disponible la versión 3.16 de QGIS.  En esta ocasión, se llama "Hannover".
 draft: false
 featured: true
+tags:
+  - qgis
+  - nueva versión
+categories:
+  - Noticias
 authors:
   - gus-presa
 image:

@@ -8,6 +8,11 @@ summary: El pasado 30 de octubre, Carlos López Quintanilla, presidente de la
   novedades de la última versión, la 3.16 de nuestro programa de referencia.
 draft: false
 featured: false
+tags:
+  - qgis
+  - web
+categories:
+  - Noticias
 authors:
   - miguel-sevilla
 image:
