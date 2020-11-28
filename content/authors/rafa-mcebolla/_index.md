@@ -6,15 +6,15 @@ title: Rafael Martínez Cebolla
 role: Socio de QGIS España
 bio: Geógrafo
 social:
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Rafael_Cebolla
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Galactero
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rafael-mart%C3%ADnez-cebolla-99238197/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Rafael_Cebolla
 email: rafael.martinezc@gmail.com
 user_groups:
   - Socios
