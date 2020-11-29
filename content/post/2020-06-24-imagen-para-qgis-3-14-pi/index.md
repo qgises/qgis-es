@@ -17,6 +17,7 @@ image:
   preview_only: false
   caption: Así se verá la 'splash screen' de la versión 3.14
 ---
+
 Una particularidad sobre QGIS que conoceréis quienes lleváis tiempo en la comunidad es que, hasta la fecha, las versiones de QGIS reciben el nombre de la ciudad donde se realiza el encuentro de la comunidad y la imagen que se muestra mientras se carga (la *'Splash Screen'*) muestra un mapa de la misma. Es un bonito homenaje que, sin embargo, va a verse temporalmente interrumpida.
 
 Dado que la próxima versión de QGIS tendrá un número especial (el 3.14), la imagen y nomenclatura también serán especiales.  El nombre estaba claro desde el principio: Pi (π). Pero para la imagen de la splash screen se decidió hacer una llamada abierta a propuestas realizadas por los miembros de la comunidad que posteriormente se sometería a votación popular.
