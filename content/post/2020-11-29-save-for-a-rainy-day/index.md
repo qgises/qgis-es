@@ -1,10 +1,12 @@
 ---
 title: Save for a rainy day
 subtitle: Sobre el coste económico y la ética del software
-date: 2020-11-29T16:30:00.001Z
+date: 2020-11-29T15:44:19.740Z
 summary: Sobre el coste económico y la ética del software
 draft: false
 featured: false
+authors:
+  - rafa-mcebolla
 tags:
   - coste
   - economía
@@ -12,8 +14,6 @@ tags:
   - ética
 categories:
   - Software Libre
-authors:
-  - rafa-mcebolla
 image:
   filename: featured
   focal_point: Smart
