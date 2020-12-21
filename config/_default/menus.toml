@@ -22,18 +22,23 @@
 [[main]]
   name = "Eventos"
   url = "#talks"
-  weight = 11
+  weight = 13
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 600
+  weight = 14
 
 
 [[main]]
   name = "Inscríbete"
   url = "alta-socios"
-  weight = 1200
+  weight = 15
+
+[[main]]
+  name = "Libro SIG"
+  url = "https://www.lulu.com/en/en/shop/victor-olaya-ferrero/sistemas-de-informaci%C3%B3n-geogr%C3%A1fica/hardcover/product-76em9n.html?page=1&pageSize=4"
+  weight = 16
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
