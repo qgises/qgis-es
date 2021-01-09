@@ -25,7 +25,7 @@ title = "Asociación QGIS España"
   
   # Background image.
   image = "foto_claustre_tots2.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -48,7 +48,7 @@ title = "Asociación QGIS España"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Foto: Girona 2019'
+  label = 'Foto: SIG Libre 2019'
 +++
 
 <!-- REVISAR ESTA definición para ver si nos ajustamos a ella -->

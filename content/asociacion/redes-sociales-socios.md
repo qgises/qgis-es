@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Comunicación para socios"
-subtitle = "Ofrecemos los siguientes canales de comunicación **exclusivamente para socios**."
+subtitle = "Intercambia, comparte y pregunta por diferentes canales de comunicación."
 
 # Showcase personal skills or business features.
 #
@@ -17,20 +17,37 @@ subtitle = "Ofrecemos los siguientes canales de comunicación **exclusivamente p
 [[feature]]
   icon = "mail-bulk"
   icon_pack = "fas"
-  name = "[Lista de correo para socios](https://lists.osgeo.org/mailman/listinfo/qgis-es)"
+  name = "[Lista de correo en español](https://lists.osgeo.org/mailman/listinfo/qgis-es)"
   description = "Para consultas más extensas y no inmediatas."
 
 [[feature]]
   icon = "telegram"
   icon_pack = "fab"
-  name = "[Grupo de Telegram para socios](https://t.me/qgis_esp_socios)"
-  description = "Para hablar con los miembros de la asociación."
+  name = "[Grupo de Telegram en español](https://t.me/qgis_esp_socios)"
+  description = "Para consultas inmediatas."
 
+[[feature]]
+  icon = "telegram"
+  icon_pack = "fab"
+  name = "[Grupo de Telegram para socios](https://t.me/qgis_esp_socios)"
+  description = "Canal exclusivo para socios."
+
+[[feature]]
+  icon = "twitter"
+  icon_pack = "fab"
+  name = "[@qgises](https://twitter.com/qgises)"
+  description = "Siguenos en Twitter"
 
 [[feature]]
   icon = "instagram"
   icon_pack = "fab"
   name = "[@qgises](https://instagram.com/qgises)"
-  description = "Aquí compartimos imágenes"
+  description = "También estamos en Instagram"
+
+[[feature]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  name = "[@qgises](https://www.linkedin.com/in/asociaci%C3%B3n-qgis-espa%C3%B1a-48872417b/)"
+  description = "... y en LinkedIn"
 
 +++
