@@ -7,7 +7,7 @@ summary: La propuesta de Francis josef Gasgonia resulta ganadora para ilustrar
 draft: false
 featured: false
 tags:
-  - qgis
+  - QGIS
 categories:
   - Noticias
 image:

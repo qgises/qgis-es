@@ -39,18 +39,16 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 
 
-## CONVENIO COLEGIO GEOGRAFOS
-
 [cta]
   icon_pack = "fas"
   icon = "book"
-  url = "/tag/convenio/"
+  url = "/tag/convenios/"
   label = "Convenios"
 
 
 [cta_alt]
   url = "/#contact"
-  label = "Ponte en contacto con nosotros si quieres promover un convenio"
+  label = "Contacta con nosotros si quieres promover un convenio"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -59,5 +57,5 @@ hero_media = ""
 
 +++
 
- En nuestra labor de difundir y dinamizar la asociación estamos llevando a cabo convenios especiales con **colegios profesionales** y **empresas** de las que se pueden beneficias nuestros socios.
+ En nuestra labor de difundir y dinamizar la asociación estamos llevando a cabo convenios especiales con empresas, asociaciones y colegios profesionales de las que se pueden beneficiar nuestros socios.
 

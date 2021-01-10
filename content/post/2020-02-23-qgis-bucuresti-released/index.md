@@ -5,7 +5,7 @@ summary:
 authors:
 - admin
 tags:
-- qgis
+- QGIS
 categories:
 - Noticias
 date: "2020-02-23T00:00:00Z"

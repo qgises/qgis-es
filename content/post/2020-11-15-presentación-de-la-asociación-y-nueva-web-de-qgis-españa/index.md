@@ -9,7 +9,7 @@ summary: El pasado 30 de octubre, Carlos López Quintanilla, presidente de la
 draft: false
 featured: false
 tags:
-  - qgis
+  - QGIS
   - web
 categories:
   - Noticias

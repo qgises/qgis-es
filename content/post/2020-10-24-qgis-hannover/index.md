@@ -6,7 +6,7 @@ summary: Disponible la versión 3.16 de QGIS.  En esta ocasión, se llama "Hanno
 draft: false
 featured: true
 tags:
-  - qgis
+  - QGIS
   - nueva versión
 categories:
   - Noticias

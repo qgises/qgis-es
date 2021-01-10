@@ -6,7 +6,7 @@ summary: this is a summary
 draft: true
 featured: false
 authors:
-  - qgis
+  - QGIS
 tags:
   - etiqueta2
   - etiqueta1

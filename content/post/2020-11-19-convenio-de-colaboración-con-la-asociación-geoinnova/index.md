@@ -7,9 +7,9 @@ summary: Primer convenio firmado con entidades de formación especializadas en
 draft: false
 featured: true
 tags:
-  - qgis
-  - geoinnova
-  - convenio
+  - QGIS
+  - GeoInnova
+  - Convenios
 categories:
   - Noticias
 authors:
