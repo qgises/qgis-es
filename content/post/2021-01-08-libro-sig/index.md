@@ -1,5 +1,5 @@
 ---
-title: Libro "Sistema de Información Geográfica"
+title: Libro "Sistemas de Información Geográfica"
 subtitle: Compra el libro de V. Olaya y colabora con la asociación.
 date: 2021-01-08
 summary: Comprando el libro sobre SIG de Víctor Olaya ayudarás a la asociación QGIS España puesto que el autor dona todos sus beneficios a la asociación.
