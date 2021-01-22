@@ -21,9 +21,9 @@ interests:
   - GNU/Linux
   - OpenStreetMap
 social:
-    - icon: globe
-      icon_pack: fas
-      link: https://msevilla00.gitlab.io/
+  - icon: globe
+    icon_pack: fas
+    link: https://msevilla00.gitlab.io/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/msevilla00
