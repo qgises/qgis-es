@@ -8,8 +8,8 @@ featured: false
 authors:
   - miguel-sevilla
 tags:
-  - qgis
-  - docker
+  - QGIS
+  - Docker
 categories:
   - Documentación
 image:
