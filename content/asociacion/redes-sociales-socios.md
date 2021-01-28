@@ -23,13 +23,13 @@ subtitle = "Intercambia, comparte y pregunta por diferentes canales de comunicac
 [[feature]]
   icon = "telegram"
   icon_pack = "fab"
-  name = "[Grupo de Telegram en español](https://t.me/qgis_esp_socios)"
+  name = "[Grupo de Telegram en español](https://t.me/qgis_es)"
   description = "Para consultas inmediatas."
 
 [[feature]]
   icon = "telegram"
   icon_pack = "fab"
-  name = "[Grupo de Telegram para socios](https://t.me/qgis_esp_socios)"
+  name = "Grupo de Telegram para socios"
   description = "Canal exclusivo para socios."
 
 [[feature]]
