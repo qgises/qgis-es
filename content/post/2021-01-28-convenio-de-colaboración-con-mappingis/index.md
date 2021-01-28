@@ -8,6 +8,12 @@ draft: true
 featured: false
 authors:
   - gus-presa
+tags:
+  - QGIS
+  - MappingGIS
+  - Convenios
+categories:
+  - NOTICIAS
 image:
   filename: avatar.png
   focal_point: CENTER
