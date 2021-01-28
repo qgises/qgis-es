@@ -19,8 +19,4 @@ image:
   focal_point: CENTER
   preview_only: false
 ---
-En junio del año 2012 nace el blog de MappingGIS, dondecompartimos nuestro *Know How* para ayudarte a ser auténtico profesional GIS.
-
-MappingGIS tiene la finalidad de difundir las Tecnologías de la Información Geográfica, lo que se materializa en los artículos publicados en nuestro blog y en nuestro canal de You Tube. En esa misma línea de difusión desarrollamos la actividad de formación.
-
-MappingGIS es una empresa pequeña y sabemos lo importante que es conseguir un servicio personalizado. Nuestro tamaño es nuestra fortaleza.n
+En elaboración
