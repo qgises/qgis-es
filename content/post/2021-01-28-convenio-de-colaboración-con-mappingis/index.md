@@ -2,7 +2,7 @@
 title: Convenio de colaboración con MappinGIS
 subtitle: MappingGIS es un equipo de técnicos GIS dispuestos a ayudarte a
   impulsar tu perfil GIS
-date: 2021-01-28T11:25:31.932Z
+date: 2021-01-04T11:25:31.932Z
 summary: En elaboración
 draft: true
 featured: false
