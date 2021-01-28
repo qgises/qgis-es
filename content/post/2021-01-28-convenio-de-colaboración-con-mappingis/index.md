@@ -21,7 +21,7 @@ image:
 ---
 El pasado viernes 29 de Enero, la **Asociación de QGIS España** y la [empresa MappingGIS](https://mappinggis.com/) han firmado un **Convenio de colaboración** que tiene como objeto fundamental crear un vínculo entre ambas asociaciones para la realización de acciones de formación y divulgación relacionada con el proyecto de Sistema de Información Geográfico de código abierto QGIS
 
-Como objetivo específico, por parte de [](https://geoinnova.org/)[MappinGIS](https://mappinggis.com/), 
+Como objetivo específico, por parte de [](https://geoinnova.org/)[MappingGIS](https://mappinggis.com/), 
 
 * definir
 
