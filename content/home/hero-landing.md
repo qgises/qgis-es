@@ -8,7 +8,7 @@ weight = -30  # Order that this section will appear.
 title = "Somos comunidad. Somos asociación. Somos software."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "esquema-qgis.png"
+hero_media = "esquema-qgis2.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.

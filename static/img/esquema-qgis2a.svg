@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="525.07141mm"
+   height="525.07141mm"
+   viewBox="0 0 525.0714 525.0714"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="esquema-qgis2a.svg"
+   inkscape:export-filename="/home/miguel/git/qgises_qgis-es/static/img/esquema-qgis2.png"
+   inkscape:export-xdpi="19.35"
+   inkscape:export-ydpi="19.35">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.31076285"
+     inkscape:cx="130.50221"
+     inkscape:cy="911.50382"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g951"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="1200"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(163.77539,9.2121794)">
+    <path
+       style="fill:none;fill-opacity:0.28985506;stroke:#589632;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 357.296,253.32354 A 258.5357,258.5357 0 0 1 98.760313,511.85922 258.5357,258.5357 0 0 1 -159.77539,253.32354 258.5357,258.5357 0 0 1 98.760313,-5.2121794 258.5357,258.5357 0 0 1 357.296,253.32354 Z"
+       id="path815"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#589632;fill-opacity:0.28985506;stroke:#589632;stroke-width:3.15992498;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 200.87948,412.1601 A 102.11918,102.11918 0 0 1 98.760313,514.27926 102.11918,102.11918 0 0 1 -3.358863,412.1601 102.11918,102.11918 0 0 1 98.760313,310.0409 102.11918,102.11918 0 0 1 200.87948,412.1601 Z"
+       id="path815-11"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g951">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 357.296,253.32354 c 0,142.78532 -115.75036,258.53568 -258.535687,258.53568 0,0 0,0 0,0 -142.785316,0 -258.535693,-115.75036 -258.535703,-258.53568 0,0 0,0 0,0 0,-68.56792 27.2385,-134.32752 75.723348,-182.812359 0,0 0,0 0,0 48.484851,-48.48484 114.244419,-75.7233604 182.812355,-75.7233604 0,0 0,0 0,0 68.567927,0 134.327487,27.2385204 182.812327,75.7233604 0,0 0,0 0,0 48.48488,48.484839 75.72336,114.244439 75.72336,182.812359 0,0 0,0 0,0 0,0 0,0 0,0"
+         style="fill:none;fill-opacity:0.28985506;stroke:#589632;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path943" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 305.15716,305.46238 c 0,113.9898 -92.40704,206.39684 -206.396845,206.39684 -2.88e-4,0 -5.72e-4,0 -8.6e-4,0 -113.989436,-4.8e-4 -206.395985,-92.40732 -206.396005,-206.39684 0,-2.8e-4 0,-5.6e-4 0,-8.4e-4 2.2e-4,-54.73956 21.745512,-107.23708 60.452237,-145.9438 1.96e-4,-2e-4 3.92e-4,-4e-4 5.88e-4,-6e-4 38.706864,-38.70656 91.20446,-60.451639 145.94404,-60.451639 2.74e-4,0 5.52e-4,0 8.28e-4,0 54.739537,2e-4 107.237057,21.745519 145.943777,60.452239 2e-4,2e-4 4e-4,4e-4 6e-4,6e-4 38.70656,38.70684 60.45164,91.20444 60.45164,145.94404 0,0 0,0 0,0 0,0 0,0 0,0"
+         style="fill:none;fill-opacity:0.28985506;stroke:#589632;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path945" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 253.01832,357.60122 c 0,85.19436 -69.06368,154.258 -154.258005,154.258 -5.72e-4,0 -0.0011,0 -0.0017,0 -85.193552,-9.2e-4 -154.256288,-69.06424 -154.2563,-154.258 0,-5.6e-4 0,-0.001 0,-0.002 4.36e-4,-40.9112 16.25252,-80.14664 45.181124,-109.07528 3.88e-4,-3.6e-4 7.76e-4,-7.6e-4 0.0012,-0.001 28.928876,-28.92824 68.164504,-45.17996 109.075728,-45.17996 5.52e-4,0 0.0011,0 0.0016,0 40.911153,4.4e-4 80.146633,16.25252 109.075233,45.18116 4e-4,3.6e-4 8e-4,7.6e-4 0.001,0.001 28.92828,28.92888 45.17996,68.16452 45.17996,109.07572 0,0 0,0 0,0 0,0 0,0 0,0"
+         style="fill:#589632;fill-opacity:0.29019608;stroke:#589632;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path947" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 200.87948,409.74006 c 0,56.39884 -45.72032,102.11916 -102.119167,102.11916 -8.6e-4,0 -0.0017,0 -0.0026,0 -56.397672,-10e-4 -102.116584,-45.72116 -102.116596,-102.11916 0,-8.4e-4 0,-0.002 0,-0.002 6.52e-4,-27.0828 10.759532,-53.0562 29.910008,-72.20668 5.84e-4,-6e-4 0.0012,-0.001 0.0018,-0.002 19.150892,-19.14996 45.124548,-29.90828 72.207416,-29.90828 8.28e-4,0 0.0017,0 0.0024,0 27.082809,6.4e-4 53.056209,10.75956 72.206689,29.91004 5.6e-4,5.6e-4 0.001,0.001 0.002,0.002 19.14996,19.15092 29.90824,45.12456 29.90824,72.20744 0,0 0,0 0,0 0,0 0,0 0,0"
+         style="fill:#589632;fill-opacity:0.28985506;stroke:#589632;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path949" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06406403px;line-height:1.25;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.60320318"
+         x="98.759064"
+         y="43.092697"
+         id="text1093"><tspan
+           sodipodi:role="line"
+           id="tspan1091"
+           x="98.759064"
+           y="43.092697"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32.06406403px;font-family:Trueno;-inkscape-font-specification:'Trueno Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.60320318">QGIS.org</tspan><tspan
+           sodipodi:role="line"
+           x="98.759064"
+           y="83.172775"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.06406403px;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.60320318"
+           id="tspan1223">proyecto global</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.72396088px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33619809"
+         x="98.292648"
+         y="157.258"
+         id="text1093-5"><tspan
+           sodipodi:role="line"
+           id="tspan1091-5"
+           x="101.73753"
+           y="157.258"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.72396088px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.33619809">comunidades </tspan><tspan
+           sodipodi:role="line"
+           x="98.292648"
+           y="178.63716"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.72396088px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.33619809"
+           id="tspan1167">locales</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328"
+         x="98.143311"
+         y="253.7296"
+         id="text1093-5-8"><tspan
+           sodipodi:role="line"
+           x="98.143311"
+           y="253.7296"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.05833328"
+           id="tspan1169">usuarios</tspan><tspan
+           sodipodi:role="line"
+           x="98.143311"
+           y="270.66293"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.05833328"
+           id="tspan881">hispanohablantes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.22280502px;line-height:1;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.8111403"
+         x="98.695679"
+         y="338.5441"
+         id="text1093-5-2"
+         inkscape:transform-center-x="-77.423257"
+         inkscape:transform-center-y="-291.6277"><tspan
+           sodipodi:role="line"
+           x="98.695679"
+           y="338.5441"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.22280502px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:2.8111403"
+           id="tspan1165">QGIS.es</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833328"
+         x="99.130074"
+         y="397.25708"
+         id="text1093-5-2-8"
+         inkscape:transform-center-x="-29.148191"
+         inkscape:transform-center-y="-109.79149"><tspan
+           sodipodi:role="line"
+           id="tspan1091-5-5-4"
+           x="99.130074"
+           y="397.25708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.05833328">asociación</tspan><tspan
+           sodipodi:role="line"
+           x="99.130081"
+           y="418.42374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:0.80000001;font-family:Trueno;-inkscape-font-specification:'Trueno, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:1.05833328"
+           id="tspan1165-9">QGIS España</tspan></text>
+    </g>
+  </g>
+</svg>
