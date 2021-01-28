@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Categorías y cuotas anuales de socio"
-subtitle = "Para más información, ver los estatutos"
+subtitle = "Para más información puedes ver nuestros [estatutos](../manuales/estatutos/)"
 
 # Showcase personal skills or business features.
 # 
