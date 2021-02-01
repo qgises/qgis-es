@@ -44,7 +44,6 @@ Por parte de QGIS España,
 * Organización de al menos un seminario dentro del primer año de las actividades con una temática relacionada con el proyecto QGIS. 
 * Envío de un correo electrónico a todos los socios de QGIS ESPAÑA y publicación en las redes sociales de la Asociación, informando del acuerdo con MAPPINGGIS, con el enlace a su/sus páginas.
 * Publicación en las redes sociales y página web de QGIS ESPAÑA informando sobre las actividades organizadas por MAPPINGGIS y vinculadas con el objeto del convenio, así como de las publicaciones públicas; que se consideren de interés por ambas partes.
-
-\*Inclusión del logotipo y enlace web a la página de MAPPINGGIS en el apartado de colaboradores de la página web de QGIS ESPAÑA
+* Inclusión del logotipo y enlace web a la página de MAPPINGGIS en el apartado de colaboradores de la página web de QGIS ESPAÑA
 
 Este acuerdo de colaboración es el segundo de este tipo que firma la Asociación QGIS España, esperemos que le sigan muchos otros.
