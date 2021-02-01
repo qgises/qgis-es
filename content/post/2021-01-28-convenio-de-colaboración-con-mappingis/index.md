@@ -6,7 +6,7 @@ date: 2021-02-01T11:26:03.161Z
 summary: Segundo convenio firmado con entidades de formación especializadas en
   las tecnologías de la información.
 draft: false
-featured: false
+featured: true
 authors:
   - gus-presa
 tags:
