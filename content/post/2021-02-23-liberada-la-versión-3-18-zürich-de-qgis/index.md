@@ -17,7 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-TBD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yeo6sXVpXvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Muchas gracias.
 
