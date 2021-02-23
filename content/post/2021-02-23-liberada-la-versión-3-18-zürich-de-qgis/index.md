@@ -1,9 +1,9 @@
 ---
 title: Liberada la versión 3.18 "Zürich" de QGIS
 subtitle: Hacemos un resumen
-date: 2021-02-24T06:00:00.000Z
+date: 2021-02-23T08:47:15.450Z
 summary: Disponible la versión 3.18 de QGIS. En esta ocasión, se llama "Zürich".
-draft: true
+draft: false
 featured: true
 authors:
   - gus-presa
