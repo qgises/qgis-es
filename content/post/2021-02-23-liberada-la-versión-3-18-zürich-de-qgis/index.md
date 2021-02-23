@@ -1,6 +1,6 @@
 ---
 title: Liberada la versión 3.18 "Zürich" de QGIS
-subtitle: Hacemos un resumen
+subtitle: Vídeo con las novedades más destacadas
 date: 2021-02-23T08:47:15.450Z
 summary: Disponible la versión 3.18 de QGIS. En esta ocasión, se llama "Zürich".
 draft: false
@@ -17,9 +17,7 @@ image:
   focal_point: TOPRIGHT
   preview_only: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yeo6sXVpXvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Muchas gracias.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Yeo6sXVpXvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Quisiéramos extender las gracias a los desarrolladores, personas que elaboran la documentación, los que hacen las pruebas del producto, y resto de amigos que voluntariamente emplean su tiempo y esfuerzos (incluso colaboran económicamente para que otros hagan lo anterior) ya que hacen que estas distribuciones sean posible. Desde la comunidad de QGIS esperamos que disfrutéis de esta distribución. Si queréis donar tiempo, dinero, o involucraros de cualquier otra forma en hacer que QGIS sea aún más fantástico, por favor, pasaros por [QGIS.ORG](https://qgis.org/es/site/) y echar una mano.
 
