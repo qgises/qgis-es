@@ -14,7 +14,7 @@ categories:
   - Noticias
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: TOPRIGHT
   preview_only: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yeo6sXVpXvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
