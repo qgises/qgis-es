@@ -17,6 +17,10 @@ image:
   focal_point: TOPRIGHT
   preview_only: true
 ---
+Los [instaladores para todos los sistemas operativos](https://qgis.org/en/site/forusers/download.html) están ya listos. **QGIS 3.18** viene con multitud de nuevas funcionalidades, como podrás comprobar en el siguiente [listado de novedades](https://qgis.org/en/site/forusers/visualchangelog318/). Adicionalmente, **QGIS 3.16** "Hannover" ha cambiado a la versión **3.10** como **LTR**.
+
+Si estás utilizando el instalador **OSGeo4W**, por favor, lee el [siguiente anuncio hecho por nuestro responsable de actualizaciones, Jürgen Fischer](https://lists.osgeo.org/pipermail/qgis-user/2021-February/048137.html).
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Yeo6sXVpXvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Quisiéramos extender las gracias a los desarrolladores, personas que elaboran la documentación, los que hacen las pruebas del producto, y resto de amigos que voluntariamente emplean su tiempo y esfuerzos (incluso colaboran económicamente para que otros hagan lo anterior) ya que hacen que estas distribuciones sean posible. Desde la comunidad de QGIS esperamos que disfrutéis de esta distribución. Si queréis donar tiempo, dinero, o involucraros de cualquier otra forma en hacer que QGIS sea aún más fantástico, por favor, pasaros por [QGIS.ORG](https://qgis.org/es/site/) y echar una mano.
