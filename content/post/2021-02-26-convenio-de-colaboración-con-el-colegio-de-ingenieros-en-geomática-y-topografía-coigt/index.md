@@ -20,8 +20,8 @@ tags:
 categories:
   - Noticias
 image:
-  filename: featured.jpg
-  focal_point: TOPRIGHT
+  filename: logos_unidos.jpg
+  focal_point: BOTTOMLEFT
   preview_only: false
 ---
 Poco a poco esta gran familia que es [QGIS España](https://www.qgis.es/asociacion/)  se va haciendo cada vez más grande, y todo gracias a vosotr@s, todos esos usuarios que habéis decidido dar un pasito un poco más allá apoyando económicamente el proyecto.
