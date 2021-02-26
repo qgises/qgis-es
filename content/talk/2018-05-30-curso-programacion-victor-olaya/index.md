@@ -114,13 +114,20 @@ NOTA: Estos materiales NO SIRVEN para seguir el curso. Son piezas que utilizarem
 
 ## Videos
 
-
 {{< youtube vZ08dYlM-7U >}}
+
+- - -
 
 {{< youtube ItgGZ2Aol9k >}}
 
-{{< youtube vZ08dYlM-7U >}}
+- - -
 
-{{< youtube vZ08dYlM-7U >}}
+{{< youtube uCrX24N6Ifo >}}
 
-{{< youtube vZ08dYlM-7U >}}
+- - -
+
+{{< youtube AOpL-nPf0Q0 >}}
+
+- - -
+
+{{< youtube Wvyns7z9w74 >}}
