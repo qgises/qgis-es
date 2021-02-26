@@ -7,7 +7,8 @@ role: Colegio profesional
 avatar_filename: logo_coigt.jpg
 bio: Data solutions for Governments and Infrastructures
 interests:
-  - Geomática
+  - Cartografía Catastro COIGT Drones Fotogrametría Geodesia Geomática GIS
+    Topografía GNSS Auscultación Geoinformación
 social:
   - icon: globe
     icon_pack: fas
