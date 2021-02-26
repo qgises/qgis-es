@@ -2,8 +2,8 @@
 superuser: false
 authors:
   - infraplan
-title: COIGT - Colegio Oficial de Ingeniería Geomática y Topográfica
-role: Colegio profesional
+title: COIGT
+role: Colegio Oficial de Ingeniería Geomática y Topográfica
 avatar_filename: avatar.png
 bio: Data solutions for Governments and Infrastructures
 interests:
