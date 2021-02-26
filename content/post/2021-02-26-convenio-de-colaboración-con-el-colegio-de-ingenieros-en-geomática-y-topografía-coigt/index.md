@@ -20,7 +20,7 @@ tags:
 categories:
   - Noticias
 image:
-  filename: logos_unidos.jpg
+  filename: logos.jpg
   focal_point: BOTTOMLEFT
   preview_only: false
 ---
@@ -28,7 +28,7 @@ Poco a poco esta gran familia que es [QGIS España](https://www.qgis.es/asociaci
 
 Recientemente acabamos de firmar un convenio con el [Colegio Oficial de Ingeniería Geomática y Topográfica](https://www.coigt.com/Inicio.aspx)  (COIGT) con el objeto de aunar sinergias profesionales y asociativas.
 
-![Firma](featured.jpg "El Decano del COIGT y nuestro Presidente durante la firma del convenio")
+![Firma](firmantes_coigt.jpg "El Decano del COIGT y nuestro Presidente durante la firma del convenio")
 
 <!-- incluir la enlace?-->
 
