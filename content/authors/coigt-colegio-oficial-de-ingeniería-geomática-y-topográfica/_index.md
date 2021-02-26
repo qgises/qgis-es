@@ -4,6 +4,7 @@ authors:
   - infraplan
 title: COIGT - Colegio Oficial de Ingeniería Geomática y Topográfica
 role: Colegio profesional
+avatar_filename: logo_coigt.jpg
 bio: Data solutions for Governments and Infrastructures
 interests:
   - Geomática
