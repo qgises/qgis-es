@@ -36,4 +36,4 @@ Recientemente acabamos de firmar un convenio con el [Colegio Oficial de Ingenier
 
 Este tipo de convenios tienen dos objetivos principales, por un lado contar con el apoyo de instituciones y asociaciones profesionales que fomentan el empleo de los sistemas de información soportados con QGIS, así como el desarrollo profesional continuado de sus miembros. Por otro lado, obtener beneficios conjuntos en cuanto a los actividades y encuentros organizados por ambas partes relacionados con la materia.
 
-Contar con el apoyo del COIGT es un gran honor para nosotros, garantizando que existe una promoción de esta nuestra herramienta favorita entre sus miembros, lo que revertirá en un colectivo de usuarios cada vez más grande
+Contar con el apoyo del COIGT es un gran honor para nosotros, garantizando que existe una promoción de esta nuestra herramienta favorita entre sus miembros, lo que revertirá en un colectivo de usuarios cada vez más grande.
