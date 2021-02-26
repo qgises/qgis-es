@@ -33,4 +33,6 @@ user_groups:
 ---
 Soy Ingeniero en Geodesia y Cartografía por la USAL, así como Máster en Geotecnologías Cartográficas.
 
-Llevo 24 años dándole vueltas a esto de la Geomática y demas cosas de posicionar, georreferenciar y analizar
+Llevo 24 años dándole vueltas a esto de la Geomática y demas cosas de posicionar, georreferenciar y analizar.
+
+Desde hace unos años compagino mi actividad como administrador de redes GNSS con una segunda actividad como Geómetra Experto especializado en delimitación precisa de la propiedad inmobiliaria, con QGIS claro!!
