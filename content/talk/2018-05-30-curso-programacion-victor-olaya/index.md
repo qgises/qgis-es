@@ -112,7 +112,7 @@ Los materiales de apoyo de este curso se encuentran en la carpeta "materiales" [
 NOTA: Estos materiales NO SIRVEN para seguir el curso. Son piezas que utilizaremos a lo largo de este, pero el desarrollo de los temas e ideas no se incluye aquí.
 
 
-## Videos
+## Vídeos
 
 {{< youtube vZ08dYlM-7U >}}
 
@@ -131,3 +131,9 @@ NOTA: Estos materiales NO SIRVEN para seguir el curso. Son piezas que utilizarem
 - - -
 
 {{< youtube Wvyns7z9w74 >}}
+
+<!-- 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wvyns7z9w74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ -->
