@@ -30,6 +30,8 @@ education:
     - course: Máster Universitario en Tecnologías de la Información Geográfica
       institution: Universidad de Alcalá
 superuser: false
+user_groups:
+  - Junta directiva
 ---
 Titulado Superior de Actividades Técnicas y Profesionales en Consejo Superior de Investigaciones Científicas (CSIC). Tratamiento de bases de datos y diseño de visores cartográficos.
 
