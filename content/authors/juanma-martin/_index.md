@@ -17,10 +17,10 @@ social:
     icon_pack: fas
     icon: envelope
   - link: https://www.linkedin.com/in/juanmamap/
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
   - link: https://mobile.twitter.com/juar_man
-    icon_pack: fas
+    icon_pack: fab
     icon: twiter
 organizations: []
 education:
