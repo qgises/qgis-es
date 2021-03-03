@@ -10,6 +10,8 @@ interests:
   - software libre
   - catastro
   - humanidades digitales
+  - medio ambiente
+  - cambio climático
 social:
   - link: mailto:juanmamap@gmail.com
     icon_pack: fas
