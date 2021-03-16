@@ -13,7 +13,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/patriciosorianocastro/
   - icon: globe
-    icon_pack: fab
+    icon_pack: fas
     link: http://sigdeletras.com/
   - icon: github
     icon_pack: fab
@@ -25,4 +25,4 @@ user_groups:
 
 Geógrafo “Full-stack” especializado en Tecnologías de Información Geográfica y geoinquieto 'cordobé'.
 
-Actualmente responsable del Área de SIG y Desarrollo en Geoinnova.
+Actualmente responsable del Área de SIG y Desarrollo en [Geoinnova](https://geoinnova.org/).

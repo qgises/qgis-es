@@ -1,7 +1,7 @@
 ---
 title: Actividad asociativa "Revisión QGIS 3.18.0 Zürich"
 subtitle: 
-date: 2021-02-23T08:47:15.450Z
+date: 2021-03-15T08:40:00.000Z
 summary: Resumen de la actividad para la revisión de las novedades de QGIS 3.18.0.
 draft: false
 featured: true
@@ -18,6 +18,7 @@ image:
   focal_point: TOPRIGHT
   preview_only: true
 ---
+
 Cada nueva versión de QGIS es aprovechada por la comunidad de desarrolladores para la incorporación de nuevas mejoras y funcionalidades. Todas estas características están accesibles desde la [página web de registro de cambios](https://qgis.org/en/site/forusers/visualchangelogs.html). 
 
 Junto a la presentación de las novedades, los lanzamientos son el momento para añadir las soluciones de código a los errores y problemas detectados por los usuarios. Cualquier usuario puede comunicar un aspecto a mejorar de la aplicación y documentarlo en la [página de "issues"](https://github.com/qgis/QGIS/issues). Tras su clasificación y análisis, hay una alta posibilidad de que se desarrolle una solución y que se sume a la versión siguiente definida en la [hoja de ruta del proyecto QGIS](https://www.qgis.org/en/site/getinvolved/development/roadmap.html). 
