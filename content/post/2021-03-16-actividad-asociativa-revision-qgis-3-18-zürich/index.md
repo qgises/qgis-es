@@ -6,10 +6,11 @@ summary: Resumen de la actividad para la revisión de las novedades de QGIS 3.18
 draft: false
 featured: true
 authors:
-  - gus-presa
+  - patricio-soriano
 tags:
   - QGIS
   - nueva versión
+  - actividad
 categories:
   - Noticias
 image:
