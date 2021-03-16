@@ -43,10 +43,10 @@ La experiencia creemos que ha sido satisfactoria, aunque esperamos sin duda pode
 
 Como punto final, agradecer la participación y buena voluntad de todos los socios que han participado.
 
-- Juan Manuel Martín Jiménez [Linkedin](https://www.linkedin.com/in/juanmamap/?originalSubdomain=es) 
+- [Juan Manuel Martín Jiménez](../../author/juan-manuel-martin-jimenez/)
 - José Ruiz Manzanares [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ruiz-manzanares-72854a42/) -  [Twitter](https://twitter.com/JoseRuizMan)
 - Emilio Sánchez [Linkedin](https://www.linkedin.com/in/emilio-s%C3%A1nchez-porcuna-1752a29a/) -  [Twitter](https://twitter.com/EmilioSPorcuna)
-- Josep Lluís Sala [LinkedIn](https://www.linkedin.com/in/joseplluissala/) -  [Twitter](https://twitter.com/jllsala)
+- [Josep Lluís Sala](../../author/josep-lluis-sala/)
 - David García Hernández [Linkedin](https://www.linkedin.com/in/david-garc%C3%ADa-hern%C3%A1ndez-9336a915/) 
-- Lucho Ferrer
-- Patricio Soriano Castro [LinkedIn](https://www.linkedin.com/in/patriciosorianocastro/) -  [Twitter](https://twitter.com/sigdeletras) - [Web](http://sigdeletras.com/)
+- [Lucho Ferrer](../../author/lucho-ferrer/)
+- [Patricio Soriano Castro](../../author/patricio-soriano-castro/)
