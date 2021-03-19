@@ -6,6 +6,6 @@ bio: tbd
 social: []
 superuser: false
 user_groups:
-  - Pequeños colectivos
+  - tbd
 ---
 tbd
