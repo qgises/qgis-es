@@ -1,7 +1,7 @@
 ---
 title: imasgal
 role: Empresa
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
