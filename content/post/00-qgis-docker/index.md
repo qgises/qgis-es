@@ -40,11 +40,11 @@ Con la llegada, o más bien, mi comienzo en el uso, de Docker, mi perspectiva pa
 
 # Notas previas
 
-El código que muestro a continuación está en proceso de mejora, **NO me hago responsable de cualquier perjuicio que pueda ocasionar por por su uso en entornos de producción**.
+El código que muestro a continuación está en proceso de mejora, **NO me hago responsable de cualquier perjuicio que pueda ocasionar por por su uso en entornos de producción**. Sin menoscabo de lo anterior puedo afirmar que todas las pruebas que he hecho con las imágenes que se comentan a caontinuación han sido satisfactorias.
 
-Cualquier mejora y a portación es bienvenida a través de mi repositorio personal en [gitlab](https://gitlab.com/msevilla00/qgisdev_docker).
+Cualquier mejora y a portación es bienvenida a través de mi repositorio personal en [gitlab](https://gitlab.com/msevilla00/qgis_docker).
 
-La imagen de docker resultante del siguiente proceso tiene un __tamaño de 3.1 GB__, tenlo presente a la hora de crear o descargar la imagen y correr el container final.
+Las imagenes de docker resultantes del siguiente proceso tiene un __elevado tamaño__ (entre 2,6 y más de 3  GB, por lo que has de tenerlo presente a la hora de crear o descargarlas para correr el container final.
 
 Si quieres una imagen de QGIS generada desde la compilación del código del programa te recomiendo que le eches un vistazo a las imágenes oficiales del proyecto QGIS en [Docker Hub](https://hub.docker.com/r/qgis/qgis/) o en el [repo oficial de GitHub](https://github.com/qgis/QGIS/tree/master/.docker).
 
@@ -52,13 +52,43 @@ La aproximación que sigo en este documento es la de recrear un sistema operativ
 
 El código que se presenta a continuación está bajo licencia [Creative Commons Reconocimiento Compartir igual 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-# Montando la imagen de QGIS
+# Atajo para correr las imágenes de QGIS
 
-Como he comentado [más arriba](#notas-previas) se ha trabajado sobre una imagen de [Ubuntu LTS (focal/ 20.04)](https://hub.docker.com/_/ubuntu) a la que se le han añadido los repositorios de QGIS (originalmente para la versión de desarrollo) y se le han instalado los programas requeridos: [QGIS], [GRASS GIS][6] y [SAGA GIS][7].
+Si no te interesan los aspectos formales que desarrollo más abajo y **lo único que quieres es correr QGIS desde Docker sin más dilación** te pego aquí el código para correr QGIS en sus tres versiones; _master/dev_ o de desarrollo, _latest release_, última estable, y _long term release_, versión de largo recorrido (la indicada para entornos de producción).
+
+Si estas en GNU/Linux (lo he probado en Ubuntu y Debian) puedes lanzar directamente cualquiera de estos comandos sobre la carpeta que contenga los datos que vas a usar con cualquiera de los tres comandos que te pego en el siguiente cuadro de código:
+
+```bash
+# para última versión; QGIS 3.18.0 (LT)
+xhost + &
+docker run --rm -it --name qgis_latest \
+   -v $PWD:/root -v /tmp/.X11-unix:/tmp/.X11-unix \
+   -e DISPLAY=unix$DISPLAY \
+   msevilla00/qgis:latest qgis
+
+# para versión estable de largo recorrido; QGIS 3.16.4 (LTR)
+xhost + &
+docker run --rm -it --name qgis_ltr \
+   -v $PWD:/root -v /tmp/.X11-unix:/tmp/.X11-unix \
+   -e DISPLAY=unix$DISPLAY \
+   msevilla00/qgis:ltr qgis
+
+# para versión en desarrollo; QGIS 3.19 (master)
+xhost + &
+docker run --rm -it --name qgis_dev \
+   -v $PWD:/root -v /tmp/.X11-unix:/tmp/.X11-unix \
+   -e DISPLAY=unix$DISPLAY \
+   msevilla00/qgis:dev qgis
+```
+
+# Dokerfile de las imagenes
+
+Como he comentado [más arriba](#notas-previas) se ha trabajado sobre una imagen de [Debian 10, buster](https://hub.docker.com/_/debian) a la que se le han añadido los repositorios de QGIS y se le han instalado los programas requeridos: [QGIS], [GRASS GIS][6] y [SAGA GIS][7].
 
 [6]:https://grass.osgeo.org/
 [7]:http://www.saga-gis.org/en/index.html
 
+Para que En realidad lo que hice fue seguir el propio
 
 
 Para poder  incluido diversos servicios que nos permiten correr QGIS (o cualquier otro programa en su el servicio SSH a través del cual, podremos correr QGIS en el _host_.
@@ -111,6 +141,9 @@ docker build -t qgisdev:v0 -f dev.dockerfile .
 # versión LR
 docker build -t qgisdev:v0 -f lxqt_lr.dockerfile .
 ```
+## Si no funciona con el sistema anterior
+
+Si el sistema anterior no funciona, si por ejemplo quieres correr el Docker de QGIS en un equipo remoto o en un equipo que corra Docker en Windows (cada uno se complica como quiera) otra aproximación que hay es la de acceder a la  
 
 ### Corriendo QGIS vía `ssh -X`
 

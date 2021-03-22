@@ -1,8 +1,0 @@
-version: '0.1'
-
-services:
-  qgisdev_docker:
-    image: qgisdev_docker
-    build: .
-    ports:
-      - 3000
