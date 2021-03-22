@@ -2,9 +2,8 @@
 title: imasgal
 role: Empresa
 avatar_filename: avatar.png
-bio: tbd
-interests:
-  - tbd
+bio: ""
+interests: []
 social:
   - link: http://www.imasgal.com
     icon_pack: fas
