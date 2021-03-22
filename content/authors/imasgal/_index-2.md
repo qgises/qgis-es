@@ -3,6 +3,8 @@ title: imasgal
 role: Asociación
 avatar_filename: avatar.png
 bio: tbd
+interests:
+  - tbd
 social:
   - link: http://www.imasgal.com
     icon_pack: fas
