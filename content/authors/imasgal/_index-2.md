@@ -1,6 +1,6 @@
 ---
 title: imasgal
-role: Asociación
+role: Empresa
 avatar_filename: avatar.png
 bio: tbd
 interests:
