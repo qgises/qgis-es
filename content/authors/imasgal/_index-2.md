@@ -1,5 +1,5 @@
 ---
-title: imasgal
+title: imasgal2
 role: Empresa
 avatar_filename: avatar.png
 bio: ""
