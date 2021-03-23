@@ -20,6 +20,9 @@ social:
   - link: https://www.youtube.com/channel/UCmnHCOGS0AVYqcmcY57hceQ
     icon_pack: far
     icon: youtube
+  - link: " imasgal@imasgal.com"
+    icon_pack: fas
+    icon: envelope
 superuser: false
 user_groups:
   - Pequeños colectivos
