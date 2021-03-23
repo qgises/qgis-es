@@ -10,7 +10,7 @@ social:
     icon: globe
   - link: https://www.facebook.com/imasgal
     icon: facebook
-    icon_pack: far
+    icon_pack: fas
 superuser: false
 user_groups:
   - Pequeños colectivos
