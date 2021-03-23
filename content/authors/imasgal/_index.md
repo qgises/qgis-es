@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     icon: linkedin
   - link: https://www.youtube.com/channel/UCmnHCOGS0AVYqcmcY57hceQ
-    icon_pack: far
+    icon_pack: fab
     icon: youtube
   - link: " imasgal@imasgal.com"
     icon_pack: fas
