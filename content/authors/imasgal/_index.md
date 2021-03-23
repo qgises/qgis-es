@@ -14,6 +14,9 @@ social:
   - link: https://twitter.com/imasgaltecnica
     icon_pack: fab
     icon: twitter
+  - link: https://www.linkedin.com/school/imasgal/?originalSubdomain=es
+    icon_pack: fab
+    icon: linkedin
 superuser: false
 user_groups:
   - Pequeños colectivos
