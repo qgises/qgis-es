@@ -17,4 +17,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-tbd
+Toda la información en <https://lists.osgeo.org/pipermail/qgis-user/2021-February/048137.html>
