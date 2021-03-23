@@ -4,9 +4,12 @@ subtitle: tbd
 date: 2021-03-23T10:39:52.951Z
 summary: tbd
 draft: false
-featured: false
+featured: true
 authors:
   - Gus Presa
+tags:
+  - QGIS
+  - nueva versión
 categories:
   - Noticias
 image:
