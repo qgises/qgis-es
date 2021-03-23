@@ -1,6 +1,6 @@
 ---
 title: Liberados QGIS 3.18.1 y QGIS 3.14.4 (LTR). OSGeo4W, reiniciado ("reboot")
-subtitle: tbd
+subtitle: Novedades instalación QGIS
 date: 2021-03-23T10:39:52.951Z
 summary: Novedades instalación 3.18.1 y 3.14.4 (LTR) de QGIS.
 draft: false
