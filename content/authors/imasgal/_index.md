@@ -10,9 +10,9 @@ social:
     icon: globe
   - link: https://www.facebook.com/imasgal
     icon: facebook
-    icon_pack: fas
+    icon_pack: fab
   - link: https://twitter.com/imasgaltecnica
-    icon_pack: fas
+    icon_pack: fab
     icon: twitter
 superuser: false
 user_groups:
