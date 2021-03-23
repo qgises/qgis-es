@@ -20,7 +20,7 @@ social:
   - link: https://www.youtube.com/channel/UCmnHCOGS0AVYqcmcY57hceQ
     icon_pack: fab
     icon: youtube
-  - link: " mailto:imasgal@imasgal.com"
+  - link: https://imasgal.com/contactar/
     icon_pack: fas
     icon: envelope
 superuser: false
