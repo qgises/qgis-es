@@ -17,4 +17,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Toda la información en <https://lists.osgeo.org/pipermail/qgis-user/2021-February/048137.html>
+Según nos informa Jürgen  E. Fisher en su cuenta de [twitter](https://twitter.com/JuergenEFischer/status/1373923127852474369), hay novedades a tener en cuenta respecto a la instalación de QGIS 3.18.1 y QGIS 3.14.4 (LTR)
+
+Hay nuevos paquetes disponibles en, <https://qgis.org/es/site/forusers/download.html>, para Linux, Windows y Mac.
+
+Toda la información en <https://lists.osgeo.org/pipermail/qgis-user/2021-February/048137.html> (en inglés)
