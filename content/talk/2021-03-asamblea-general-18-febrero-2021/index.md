@@ -6,7 +6,7 @@ date: 2021-02-18T17:45:00.000Z
 all_day: false
 event: QGIS.es
 slides: ""
-draft: true
+draft: false
 url_pdf: ""
 summary: Asamblea general de la asociación
 date_end: 2021-02-18T20:30:00.000Z
@@ -19,7 +19,7 @@ links:
     icon_pack: far
     name: Ver actas
     url: https://docs.google.com/document/d/1IaPlSoIbQmQ8lx31IFAiIHeVVTqMcAeT-EsZfxvAOT4/export?format=pdf
-publishDate: 2021-03-24T10:26:43.400Z
+publishDate: 2021-03-24T10:31:37.409Z
 featured: true
 url_slides: ""
 address:
