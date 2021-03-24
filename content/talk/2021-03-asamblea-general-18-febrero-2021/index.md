@@ -18,7 +18,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: Ver actas
-    url: https://docs.google.com/document/d/1IaPlSoIbQmQ8lx31IFAiIHeVVTqMcAeT-EsZfxvAOT4/export?format=pdf
+    url: https://drive.google.com/file/d/1WqqmTW4BjJGu3c2DvHvmUF5nmZNkyNeQ/view?usp=sharing
 publishDate: 2021-03-24T10:31:37.409Z
 featured: true
 url_slides: ""
