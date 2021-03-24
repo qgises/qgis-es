@@ -6,7 +6,7 @@ date: 2021-02-18T17:45:00.000Z
 all_day: false
 event: QGIS.es
 slides: ""
-draft: true
+draft: false
 url_pdf: ""
 summary: Asamblea general de la asociación
 date_end: 2021-02-18T20:30:00.000Z
