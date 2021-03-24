@@ -38,4 +38,4 @@ image:
   preview_only: true
 url_code: ""
 ---
-tbd
+Asamblea General Ordinaria
