@@ -35,7 +35,7 @@ image:
   focal_point: Right
   placement: 2
   filename: featured.jpg
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 Asamblea General Ordinaria
