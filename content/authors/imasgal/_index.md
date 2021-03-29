@@ -8,6 +8,21 @@ social:
   - link: http://www.imasgal.com
     icon_pack: fas
     icon: globe
+  - link: https://www.facebook.com/imasgal
+    icon: facebook
+    icon_pack: fab
+  - link: https://twitter.com/imasgaltecnica
+    icon_pack: fab
+    icon: twitter
+  - link: https://www.linkedin.com/school/imasgal/?originalSubdomain=es
+    icon_pack: fab
+    icon: linkedin
+  - link: https://www.youtube.com/channel/UCmnHCOGS0AVYqcmcY57hceQ
+    icon_pack: fab
+    icon: youtube
+  - link: https://imasgal.com/contactar/
+    icon_pack: fas
+    icon: envelope
 superuser: false
 user_groups:
   - Pequeños colectivos
