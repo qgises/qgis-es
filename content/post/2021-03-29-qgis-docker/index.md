@@ -45,7 +45,7 @@ En mi caso, que uso GNU/Linux como sistema operativo, concretamente [Ubuntu][3] 
 [4]:https://es.wikipedia.org/wiki/Debian
 [5]:https://es.wikipedia.org/wiki/VirtualBox
 
-Con la llegada, o más bien, mi comienzo en el uso, de Docker, mi perspectiva para la prueba de diferentes versiones de QGIS cambió al poder *mover* la virtualización de [VirtualBox][5] a una imagen de este sistema de [*virtualización ligera*][1]. En este post explico los principios básicos para hacer correr contenedores Docker con una versión personalizada de nuestro SIG de escritorio libre favorito en base a las notas que tengo en [mi repositorio de gitlab][6].
+Con la llegada, o más bien, mi comienzo en el uso, de Docker, mi perspectiva para la prueba de diferentes versiones de QGIS cambió al poder *mover* la virtualización de [VirtualBox][5] a una imagen de este sistema de [*virtualización ligera*][1]. En este post explico los principios básicos para hacer correr contenedores Docker con una versión personalizada de nuestro SIG de escritorio libre favorito en base a las notas que tengo en [mi repositorio de GitLab][6].
 
 [6]: https://gitlab.com/msevilla00/qgis_docker
 
@@ -61,7 +61,7 @@ Cualquier mejora y a portación es bienvenida a través de las [_issues_ de mi r
 
 Las imágenes de docker resultantes del siguiente proceso tiene un __elevado tamaño__ (entre 2,6 y más de 3 GB) por lo que has de tenerlo presente a la hora de crear o descargarlas para correr el contenedor final.
 
-Si quieres una imagen de QGIS generada desde la compilación del código del programa te recomiendo que le eches un vistazo a las imágenes oficiales del proyecto QGIS en [Docker Hub](https://hub.docker.com/r/qgis/qgis/) o en el [repo oficial de GitHub](https://github.com/qgis/QGIS/tree/master/.docker).
+Si quieres una imagen de QGIS generada desde la compilación del código del programa te recomiendo que le eches un vistazo a las imágenes oficiales del proyecto QGIS en [DockerHub](https://hub.docker.com/r/qgis/qgis/) o en el [repo oficial de GitHub](https://github.com/qgis/QGIS/tree/master/.docker).
 
 La aproximación que sigo en este documento es la de recrear un sistema operativo básico en Debian y sobre él instalar la versión de QGIS que nos interesa. Como podrás leer [al final del documento](#conclusiones) es totalmente mejorable y lo he tenido presente de cara a desarrollos futuros.
 
@@ -109,16 +109,18 @@ Ten presente que como Docker requiere privilegios de administrador, `root`, los 
 
 ## Creación de las imágenes de Docker
 
-Las imágenes de Docker que se han usado están montadas sobre la sobre una imagen de [Debian 10, buster](https://hub.docker.com/_/debian) a la que, como si de un sistema operativo sencillo y al uso se tratara, se le han añadido los repositorios de QGIS y se le han instalado los programas requeridos: QGIS más [GRASS GIS][6] y [SAGA GIS][7].
+Las imágenes de Docker que se han usado están montadas sobre una imagen de [Debian 10, buster](https://hub.docker.com/_/debian) a la que, como si de un sistema operativo sencillo y al uso se tratara, se le han añadido los repositorios de QGIS y se le han instalado los programas requeridos: [QGIS][6a] más [GRASS GIS][6b] y [SAGA GIS][7].
 
-[6]:https://grass.osgeo.org/
+[6a]:https://qgis.org
+[6b]:https://grass.osgeo.org/
 [7]:http://www.saga-gis.org/en/index.html
 
 ### Instalación de QGIS en Debian/Ubuntu
 
-En realidad lo que hice fue seguir los propios comandos que ya tengo establecidos para cualquier instalación que realizo en mis equipos , que tengo recogidos en [mi repositorio con scripts de instalación en GitLab][8] y que resumo y comento a continuación.
+En realidad lo que hice fue seguir los propios comandos que se indican [en la propia página del proyecto de QGIS][8a], que ya tengo establecidos para cualquier instalación que realizo en mis equipos, que tengo recogidos en [mi repositorio con scripts de instalación en GitLab][8b] y que resumo y comento a continuación.
 
-[8]:https://gitlab.com/msevilla00/linux_scripts
+[8a]:https://qgis.org/en/site/forusers/alldownloads.html#debian-ubuntu
+[8b]:https://gitlab.com/msevilla00/linux_scripts
 
 ```bash
 # instalar paquetes previos necesarios
@@ -174,7 +176,7 @@ Ten presente que hay un punto al final de la instrucción que indica que se real
 
 ## Corriendo la imagen de Docker creada
 
-Una vez que hemos construido la imagen para que Docker trabaje con ella ha de _copiarla_ a un _container_ o contenedor, una instancia temporal que estará corriendo en tu máquina con las características de la imagen que creaste. Cada vez que lances QGIS con estas instrucciones Docker construirá un contenedor desde la imagen e iniciarás QGIS recién instalado. Tienes más información sobre lo que es un contenedor en la [documentación oficial de Docker](https://docs.docker.com/get-started/#what-is-a-container).
+Una vez que hemos construido la imagen, para que Docker trabaje con ella, Docker ha de _copiarla_ a un _container_ o contenedor, una instancia temporal que estará corriendo en tu máquina con las características de la imagen que creaste. Cada vez que lances QGIS con estas instrucciones Docker construirá un contenedor desde la imagen e iniciarás QGIS recién instalado. De hecho podrás crear cuantos contenedores desees tomando como base una misma imagen. Tienes más información sobre lo que es un contenedor en la [documentación oficial de Docker](https://docs.docker.com/get-started/#what-is-a-container).
 
 Para que la imagen que hemos construido se transforme en un contenedor y podamos ponerla en funcionamiento lo realizaremos con el comando `docker run` tal y como se describe, para la imagen de desarrollo en las siguiente secuencia de comandos:
 
@@ -195,7 +197,7 @@ Aunque es interesante echarle un vistazo al comando `docker run` en la [document
 
 Ten presente que la barra invertida, `\` es un salto de línea para poder organizar mejor el comando que sin ellas sería todo contínuo.
 
-La primera línea del código, tras el propio comando `docker run`, le decimos a Docker que cree un nuevo contenedor que se llamará `qgis_dev` (o el nombre que queramos darle), `--name qgis_dev` y si existe previamente lo borre y los sustituya, `--rm`.
+La primera línea del código, tras el propio comando `docker run`, le decimos a Docker que cree un nuevo contenedor que se llamará `qgis_dev` (o el nombre que queramos darle), `--name qgis_dev` y si existe previamente lo borre y lo sustituya, `--rm`. Si quieres crear varios contenedores deberás cambiar el nombre o simplemente no indicar nada y el propio Docker le asignará un nombre aleatorio.
 
 Con la opción `-v` gestionaremos los llamados _volúmenes_ asociados a cada contenedor, que vienen a ser, a en una explicación simple, aquellos archivos permanentes necesarios para interactuar fuera de la virtualización. 
 
@@ -203,7 +205,7 @@ Para lo que nos ocupa, el primer _volumen_, `-v /tmp/.X11-unix:/tmp/.X11-unix`, 
 
 Más interesante para la ejecución del programa es el siguiente _volumen_, `-v ~/data:/root`, que nos relaciona el directorio de datos con el que queremos trabajar, `~/data`, con el directorio _home_ que tendrá de referencia el QGIS que arranque sobre el contenedor construido. Esto es, si tenemos un directorio llamado `data` en nuestro directorio de usuario, o sea, en `/home/nombreusuario/data`, y queremos trabajar en el mismo, dejaremos la instrucción como está. Sin embargo, si queremos trabajar en otro directorio debemos indicarlo ahí, o, como se ha indicado más arriba, se puede poner `$PWD` y el QGIS de Docker nos mirará en el directorio sobre el que hayamos lanzado el comando.
 
-La última línea del código anterior indica que imagen ha de escoger para crear el contenedor, en nuestro caso, el que hemos creado en el apartado anterior, `qgis:dev`, y después, imprescindible, correr el programa en cuestión, `qgis`.
+La última línea del código anterior es vital pues indica que imagen ha de escoger para crear el contenedor, en nuestro caso, el que hemos creado en el apartado anterior, `qgis:dev`, y después, imprescindible, el comando que ejecuta el programa en cuestión, `qgis`.
 
 Como ya se ha comentado más arriba, las imágenes ya construidas desde los archivos `dockerfile` indicados están en [mi repositorio de DockerHub](https://hub.docker.com/u/msevilla00), por lo que si en el nombre de la imagen, simplemente incluimos, `msevilla00/qgis:dev` ó `msevilla00/qgis:latest` ó `msevilla00/qgis:ltr` dependiendo de la versión que queramos correr, el propio docker descargará, la primera vez, la imagen desde DockerHub, y lanzará el programa.
 
@@ -212,8 +214,8 @@ Como ya se ha comentado más arriba, las imágenes ya construidas desde los arch
 
 ![Captura de pantalla con las tres versiones de QGIS corriendo al mismo tiempo sobre un mismo escritorio en GNU/Linux](qgis_versiones_docker.png)
 
-Siguiendo las instrucciones de este post podrás conseguir correr en GNU/Linux las tres versiones de QGIS de manera simultanea tal y como se muestra en la imagen anterior. Además, siempre tendrás a mano una instalación de QGIS _recien instalada_ y lista para hacer pruebas, independiente de la distribución en la que trabajes y en un entorno de ejecución ligera. Es más puedes lanzar cuentos contenedores quieras de una misma imagen, lo que te da la posibilidad de realizar múltiples pruebas.
+Siguiendo las instrucciones de este post podrás conseguir correr en GNU/Linux las tres versiones de QGIS de manera simultanea tal y como se muestra en la imagen anterior. Además, siempre tendrás a mano una instalación de QGIS _recien instalada_ y lista para hacer pruebas, independiente de la distribución en la que trabajes y en un entorno de ejecución ligera. Es más puedes lanzar cuantos contenedores quieras de una misma imagen, lo que te da la posibilidad de realizar múltiples pruebas.
 
-Me de dejado algunos asuntos pendientes como compartir perfiles de usuario o _plugins_, el uso de contenedores que no sean con privilegios de administrador, `root` (la opción más directa es usar [Podman](https://podman.io/whatis.html)), o ver cómo correr estas imágenes en otros sistemas operativos  pero lo dejo para más adelante.
+Me de dejado algunos asuntos pendientes como compartir perfiles de usuario o _plugins_, el uso de contenedores que no sean con privilegios de administrador, `root` (la opción más directa es usar [Podman](https://podman.io/whatis.html)), o ver cómo correr estas imágenes en otros sistemas operativos, pero lo dejo para futuras entradas en este blog.
 
 Por último, te recuerdo que le puedes echar un vistazo al [repositorio de GitLab](https://gitlab.com/msevilla00/qgis_docker) en el que me he basado para escribir esta entrada y dónde tengo el código. Y si tienes alguna sugerencia puedes añadir una entrada al apartado de _issues_ del mismo o ponerte en contacto conmigo.
