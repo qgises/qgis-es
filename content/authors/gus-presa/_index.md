@@ -8,6 +8,9 @@ organizations:
     url: https://www.edistribucion.com/es/index.html
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: https://www.canoeicf.com/es/node/57353
+  - name: Presidente del Comité Nacional de Waveski de la Real Federación Española
+      de Piragüismo (RFEP)
+    url: https://rfep.es/
 superuser: false
 authors:
   - gus-presa
