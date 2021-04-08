@@ -7,7 +7,7 @@ organizations:
       Studies) en eDistribución Redes Digitales S.L.
     url: https://www.edistribucion.com/es/index.html
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
-    url: https://www.canoeicf.com/es/node/57353
+    url: http://www.waveski.org
   - name: Presidente del Comité Nacional de Waveski de la Real Federación Española
       de Piragüismo (RFEP)
     url: https://rfep.es/
