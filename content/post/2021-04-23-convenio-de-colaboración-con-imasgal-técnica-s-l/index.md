@@ -7,10 +7,10 @@ summary: Convenio firmado con entidades de formación especializadas en las
 draft: false
 featured: true
 authors:
-  - gus-presa
+  - juan-manuel-martin-jimenez
 tags:
   - QGIS
-  - GeoInnova
+  - IMASGAL
   - Convenios
 categories:
   - Noticias
