@@ -1,7 +1,7 @@
 ---
 title: Máster en Geometrías Jurídicas. UPV
 role: Máster universitario
-avatar_filename: logo_upv.jpg
+avatar_filename: logo_upv_ok.jpg
 bio: MÁSTER EN GEOMETRÍAS JURÍDICAS
 social:
   - link: https://geometriasjurid.webs.upv.es/index.php/master-geometrias-juridicas/
