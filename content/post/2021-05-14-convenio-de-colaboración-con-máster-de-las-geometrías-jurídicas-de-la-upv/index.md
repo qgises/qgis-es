@@ -17,7 +17,7 @@ categories:
 image:
   filename: avatar.png
   focal_point: TOPRIGHT
-  preview_only: false
+  preview_only: true
 ---
 El pasado jueves 6 de mayo de 2021, la **Asociación de QGIS España** y el **[MÁSTER EN GEOMETRÍAS JURÍDICAS
 de la UNIVERSITAT POLITÈCNICA DE VALÈNCIA](https://geometriasjurid.webs.upv.es/index.php/master-geometrias-juridicas/)** han firmado un **Convenio de colaboración** que tiene como objeto fundamental crear un vínculo entre ambas entidades para la realización de acciones de formación y divulgación relacionada con el proyecto de Sistema de Información Geográfico de código abierto QGIS
