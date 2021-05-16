@@ -10,12 +10,12 @@ authors:
   - juan-manuel-martin-jimenez
 tags:
   - QGIS
-  - IMASGAL
+  - MGEOJUR
   - Convenios
 categories:
   - Noticias
 image:
-  filename: avatar
+  filename: avatar.png
   focal_point: Smart
   preview_only: false
 ---
