@@ -15,7 +15,7 @@ tags:
 categories:
   - Noticias
 image:
-  filename: logo_upv_ok.jpg
+  filename: avatar.png
   focal_point: TOPRIGHT
   preview_only: false
 ---
@@ -24,7 +24,8 @@ de la UNIVERSITAT POLITÈCNICA DE VALÈNCIA](https://geometriasjurid.webs.upv.es
 
 Como objetivo específico, por parte de [MGEOJUR](https://geometriasjurid.webs.upv.es/index.php/master-geometrias-juridicas/), 
 
-* se ofrece a aplicar un 15% de descuento en la matrícula a cualquier socio que se inscriba en el MÁSTER EN GEOMETRÍAS JURÍDICAS.
+* se ofrece a aplicar un 15% de
+ descuento en la matrícula a cualquier socio que se inscriba en el MÁSTER EN GEOMETRÍAS JURÍDICAS.
 * Utilizar el software QGIS en la asignatura de SISTEMAS DE INFORMACIÓN GEOGRÁFICA APLICADO A LA PROPIEDAD INMOBILIARIA.
 
 Por parte de QGIS España,
