@@ -16,7 +16,7 @@ categories:
   - Noticias
 image:
   filename: avatar.png
-  focal_point: Smart
+  focal_point: TOPRIGHT
   preview_only: false
 ---
 El pasado jueves 6 de mayo de 2021, la **Asociación de QGIS España** y el **[MÁSTER EN GEOMETRÍAS JURÍDICAS
