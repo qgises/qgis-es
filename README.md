@@ -54,6 +54,8 @@ Si además queremos verla debemos servirla en un puerto de nuestro equipo:
 
 ```bash
 docker run --rm -it -v $PWD:/src -p 1313:1313 klakegg/hugo:0.70.0-ext serve
+# también se puede correr con podman
+podman run --rm -it -v $PWD:/src -p 1313:1313 klakegg/hugo:0.70.0-ext serve
 ```
 
 También se ha añadido un archivo docker-compose.yml en el repositorio que se puede ejecutar, del siguiente modo:
