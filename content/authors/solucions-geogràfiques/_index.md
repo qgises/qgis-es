@@ -4,29 +4,23 @@ role: Empresa
 avatar_filename: avatar.png
 bio: Solucions integrals per al Territori i Gestió de la (Geo)informació
 social:
-  - link: https://solucionsgeografiques.info/es/
+  - link: https://solucionsgeografiques.info/
     icon_pack: fab
     icon: globe
   - link: https://twitter.com/SolucionsGeo
     icon_pack: fab
     icon: twitter
-  - link: https://www.facebook.com/solucions.geografiques
+  - link: https://www.instagram.com/solucionsgeo/
     icon_pack: fab
-    icon: facebook
+    icon: instagram
+  - link: https://www.linkedin.com/in/solucionsgeografiques/
+    icon_pack: fab
+    icon: linkedin
 superuser: false
 user_groups:
   - Pequeños colectivos
 ---
-Ofrecemos SOLUCIONES INTEGRALES de los elementos existentes en el TERRITORIO, siguiendo las normas de la sostenibilidad ambiental, paisajística y social, sin olvidar LAS NECESIDADES DEL CLIENTE y con el objetivo de poner en valor estos elementos desde una perspectiva de BENEFICIO MUTUO Y COMÚN.
 
-(VAT) Valor Añadido al Territorio
+Solucions Geogràfiques somos una cooperativa fundada en 2017 pero con una experiencia contrastada de más de 20 años en la gestión y planificación del territorio y la GeoInformación. 
 
-Buscamos aquellos lugares en el territorio significativos y los potenciamos aportando un valor añadido, consiguiendo objetivos de beneficio global
-
-(GEO) Información
-
-Gestionamos, ordenamos y valorizamos los datos dispersos por el territorio para una mejor gestión, planificación y aprovechamiento de la información
-
-(CT) Consultoria Territorial
-
-Realizamos aquellos planes, estudios o consultorías específicas que tienen un componente territorial
+Como expertos en el territorio y la Geoinformación ofrecemos soluciones integrales de los elementos existentes en el territorio, siguiendo las normas de sostenibilidad ambiental, paisajística y social, sin olvidar las necesidades del cliente y con el objetivo de poner en valor estos elementos desde una perspectiva de beneficio mutuo y común.
