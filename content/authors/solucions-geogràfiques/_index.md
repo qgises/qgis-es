@@ -7,6 +7,9 @@ social:
   - link: https://solucionsgeografiques.info/
     icon_pack: fas
     icon: globe
+  - link: mailto:info@solucionsgeografiques.info
+    icon_pack: fas
+    icon: envelope
   - link: https://twitter.com/SolucionsGeo
     icon_pack: fab
     icon: twitter
