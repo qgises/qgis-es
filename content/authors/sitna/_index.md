@@ -1,34 +1,28 @@
 ---
-# Display name
-title: Sistema de Información Territorial de Navarra
-
-# Username (this should match the folder name)
-authors:
-- sitna
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
+authors:
+  - sitna
+title: Sistema de Información Territorial de Navarra
 role: Administración
-
-# Short bio (displayed in user profile at end of posts)
 bio: ""
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: globe
     icon_pack: fas
     link: https://sitna.navarra.es/
-
+  - link: https://github.com/sitna/api-sitna/blob/master/README.es-ES.md
+    icon_pack: fas
+    icon: github
+  - link: " https://www.facebook.com/GobiernoNavarra"
+    icon_pack: fas
+    icon: facebook
+  - link: https://twitter.com/gob_na
+    icon_pack: fas
+    icon: twitter
+  - link: https://www.youtube.com/channel/UCNG_kJ4rETN-W96T7QoO56w
+    icon_pack: fas
+    icon: youtube
 email: info@qgis.es
 user_groups:
-- Grandes colectivos
+  - Grandes colectivos
 ---
-
-BORRADOR DE TEXTO
-
-QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.
+El Gobierno de Navarra, a través del Sistema de Información Territorial de Navarra – SITNA, impulsa las tareas de formación y soporte para que las administraciones públicas locales y regional de la Comunidad Foral, realicen el mantenimiento, análisis y gestión de múltiples temáticas, básicamente como datos abiertos. A su vez, contribuye a la disponibilidad de software SIG de código abierto con su visor Web API SITNA.
