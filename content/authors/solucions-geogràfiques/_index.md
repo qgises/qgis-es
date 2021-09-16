@@ -4,6 +4,9 @@ role: Empresa
 avatar_filename: avatar.png
 bio: Solucions integrals per al Territori i Gestió de la (Geo)informació
 social:
+  - icon_pack: fas
+    icon: globe
+    link: https://geoinnova.org/
   - link: https://solucionsgeografiques.info/es/
     icon_pack: fas
     icon: globe
