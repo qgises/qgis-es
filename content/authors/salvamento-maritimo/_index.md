@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Centro de Seguridad Marítima Integral Jovellanos (Salvamento Marítimo)
+title: Centro de Seguridad Marítima Integral Jovellanos
 
 # Username (this should match the folder name)
 authors:
