@@ -12,7 +12,7 @@ social:
   - link: https://github.com/sitna/api-sitna/blob/master/README.es-ES.md
     icon_pack: fas
     icon: github
-  - link: " https://www.facebook.com/GobiernoNavarra"
+  - link: https://www.facebook.com/GobiernoNavarra
     icon_pack: fas
     icon: facebook
   - link: https://twitter.com/gob_na
