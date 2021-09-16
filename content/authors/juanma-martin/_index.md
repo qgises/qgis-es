@@ -33,12 +33,8 @@ superuser: false
 user_groups:
   - Junta directiva
 ---
-Titulado Superior de Actividades Técnicas y Profesionales en Consejo Superior de Investigaciones Científicas (CSIC). Tratamiento de bases de datos y diseño de visores cartográficos.
+Consultor externo experto en TI - Análisis Geoespacial - \[JRC- Unidad  de suelos - Comisión Europea]. Integración de datos geográficos, interoperabilidad de datos y servicios, tratamiento de datos geoespaciales y geoestadísticos. 
 
-Personal Técnico asociado a proyectos de investigación en Universidad de Alcalá. Estudios urbanos utilizando información catastral.
+He compaginado durante mi carrera profesional funciones como investigador (JRC, CSIC, Universidad de Alcalá de Henares, Universidad de Sevilla), empresa privada (Telecomunicaciones, estudios urbanísticos) y freelance. Mi formación siempre ha ido encaminada a fortalecer mis conocimientos es Sistemas de Información Geográfica, análisis espacial, Teledetección, bases de datos espaciales y programación relacionada con las TIG (javascript, python). He realizado cursos en la Universidad de Girona, Universidad de Sevilla, UNIA, UNED. 
 
-Trabajos como freelance relacionados con urbanismo, telecomunicaciones, diseño web y difusión de información de proyectos de investigación.
-
-He compaginado durante mi carrera profesional funciones como investigador (Universidad de Sevilla, CSIC), empresa privada (Telecomunicaciones, estudios urbanísticos) y freelance. Mi formación siempre ha ido encaminada a fortalecer mis conocimientos es Sistemas de Información Geográfica, análisis espacial, Teledetección, bases de datos espaciales y programación relacionada con las TIG (javascript, python). He realizado cursos en la Universidad de Girona, Universidad de Sevilla, UNIA, UNED. 
-
-Tras años de trabajo con SIG, decido realizar el Máster en Tecnologías de la Información Geográfica en la Universidad de Alcalá de Henares, para ponerme al día en ciertas tecnologías con las que había tenido menor relación durante mi carrera profesional y poder obtener una titulación oficial por si algún día me animo a realizar un doctorado.
+Licenciado en Geografía por la Universidad de Sevilla y Título Máster en Tecnologías de la Información Geográfica en la Universidad de Alcalá de Henares. En ambas universidades realicé estancias de investigación relacionadas con los SIG tras acabar mis estudios.
