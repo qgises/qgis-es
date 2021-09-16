@@ -5,8 +5,11 @@ avatar_filename: avatar.png
 bio: Solucions integrals per al Territori i Gestió de la (Geo)informació
 social:
   - link: https://solucionsgeografiques.info/es/
-    icon_pack: fab
+    icon_pack: fas
     icon: globe
+  - link: info@solucionsgeografiques.info
+    icon_pack: fas
+    icon: mail
   - link: https://twitter.com/SolucionsGeo
     icon_pack: fab
     icon: twitter
