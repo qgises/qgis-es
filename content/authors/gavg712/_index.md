@@ -44,7 +44,7 @@ education:
       year: 2007
 email: ""
 user_groups:
-- Pequeños colectivos
+- Colaboradores
 ---
 
 Master Sistemas de información geográfica. Investigador. Estudiante de Doctorado 
