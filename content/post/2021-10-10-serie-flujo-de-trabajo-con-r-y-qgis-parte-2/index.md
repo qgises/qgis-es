@@ -71,7 +71,7 @@ Las instalación de esta extensión se puede hacer desde el desde el administrad
 
 ![](qgis-plugin-manager-r-provider.png)
 
-Una vez instalado, se requiere configurar desde el menú de configuración de los proveedores de herramientas de Processing. Si tienes abierto el panel de processing, basta con entrar desde el ícono de opciones. Si no está abierto el panel, desde el menú *Processing* se puede activar la caja de herramientas para tener a mano la opción de configuración. Pero la forma más fiable de acceder a la configuración es desde las Opciones de QGIS. 
+Una vez instalado, se requiere configurar desde el menú de configuración de los proveedores de herramientas de Processing. Si tienes abierto el panel de processing, basta con entrar desde el icono de opciones. Si no está abierto el panel, desde el menú *Processing* se puede activar la caja de herramientas para tener a mano la opción de configuración. Pero la forma más fiable de acceder a la configuración es desde las Opciones de QGIS. 
 
 Sea cual sea la forma que llegues, debes acceder a la sección de `Processing/Providers`. Allí encontrarás varios proveedores de algoritmos, entre ellos R. Podrás reconocerlo por el Logo de R que lleva adelante del nombre.
 
@@ -120,7 +120,6 @@ Como podemos ver, existen dos partes bastante fáciles de identificar: 1) El enc
 Lamentablemente en la nueva versión de QGIS 3.x todavía no dispone de un repositorio central que permita descargar scripts listos para usar, tal como había en la versión 2.18. Pero el número de usuarios que tienen repositorios personales en GitHub o GitLab va creciendo. Por lo que es de esperarse que en un futuro cercano se vuelva a integrar un repositorio compartido. 
 
 Por lo pronto, existe este viejo repositorio de [Qgis Processing](https://github.com/qgis/QGIS-Processing) con las versiones de scripts de Python y R que funcionaban en la versión 2. Este repositorio puede ser un buen punto de partida, pero requiere que se hagan modificaciones en los scripts para hacerlos funcionlaes para la versión 3.
-
 
 Si no sabes como hacer esas modificaciones, ¡No te preocupes!. En la próxima entrada explicaremos cómo editar scripts o hacer desde cero tus propias herramientas para Processing. Por lo pronto ve practicando tus habilidades de programación en R.
 No te pierdas la [tercera parte del Flujo de Trabajo con R y QGIS]()...
