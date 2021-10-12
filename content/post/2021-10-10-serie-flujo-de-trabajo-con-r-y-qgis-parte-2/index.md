@@ -28,7 +28,7 @@ En la [entrada anterior](https://www.qgis.es/blog/2021-10-09-serie-flujo-de-trab
 
 ![](qgis-r-provider-intro.png)
 
-#### Lenguage R
+#### Lenguaje R
 
 [R](https://www.r-project.org/) más allá de ser un software de estadística, es un lenguaje de programación orientado al análisis de datos. Aunque también permite hacer muchas otras cosas, desde automatización de procesos hasta desarrollo de aplicaciones web, aquí nos concentraremos solo en las funciones que sirvan para análisis de datos espaciales. 
 
