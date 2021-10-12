@@ -3,7 +3,7 @@ title: 'Serie: Flujo de trabajo con R y QGIS. Parte 2'
 authors: 
   - gavg712
 summary: Explicación de cómo trabajar con R desde QGIS
-draft: TRUE
+draft: FALSE
 featured: true
 date: '2021-10-10'
 categories:
@@ -24,7 +24,7 @@ Esta es una entrada compartida entre las comunidades de <a href="https://t.me/qg
 
 ### Introducción
 
-En la [entrada anterior](https://www.qgis.es/blog/2021-10-09-serie-flujo-de-trabajo-con-r-y-qgis-parte-1/) explicamos cómo usar los algoritmos de _QGIS Processing_ desde una sesión de R. En esta ocasión haremos el proceso inverso de esta integración de QGIS y R. Explicaremos cómo usar bibliotecas y funciones de R desde QGIS. Para lo cual nos ayudaremos del complemento [*Processing R Provider*](https://north-road.github.io/qgis-processing-r/) que puede ser instalado desde el Administrador de complementos de QGIS
+En la [entrada anterior](https://www.qgis.es/post/2021-10-09-serie-flujo-de-trabajo-con-r-y-qgis-parte-1/) explicamos cómo usar los algoritmos de _QGIS Processing_ desde una sesión de R. En esta ocasión haremos el proceso inverso de esta integración de QGIS y R. Explicaremos cómo usar bibliotecas y funciones de R desde QGIS. Para lo cual nos ayudaremos del complemento [*Processing R Provider*](https://north-road.github.io/qgis-processing-r/) que puede ser instalado desde el Administrador de complementos de QGIS
 
 ![](qgis-r-provider-intro.png)
 
@@ -57,7 +57,7 @@ Hay muchos recursos en internet para empezar con R, por citar algunos:
 
 #### Preparación del ambiente.
 
-Si ya has leído la entrada anterior, seguro ya dispones de un ambiente listo para trabajar con QGIS y R al mismo tiempo. Si no, te recomiendo que le eches un vistazo a la sección sobre [Preparación del ambiente](https://www.qgis.es/post/2021-02-25-serie-flujo-de-trabajo-con-r-y-qgis-parte-1) 
+Si ya has leído la entrada anterior, seguro ya dispones de un ambiente listo para trabajar con QGIS y R al mismo tiempo. Si no, te recomiendo que le eches un vistazo a la sección sobre [Preparación del ambiente](https://www.qgis.es/post/2021-10-09-serie-flujo-de-trabajo-con-r-y-qgis-parte-1) 
 
 ### Parte 2: Trabajando con R desde QGIS Processing
 
