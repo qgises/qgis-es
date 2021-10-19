@@ -2,7 +2,7 @@
 title: 'Serie: Flujo de trabajo con R y QGIS. Parte 1'
 authors: 
   - gavg712
-summary: Explicación de cómo trabajar con QGIS desde R
+summary: Explicación de cómo trabajar con QGIS desde R (parte 1)
 draft: FALSE
 featured: true
 date: '2021-10-09'
@@ -14,7 +14,7 @@ tags:
   - QGIS
   - R
 image:
-  filename: rqgis
+  filename: rqgis.svg
   focal_point: Smart
   preview_only: false
 ---
