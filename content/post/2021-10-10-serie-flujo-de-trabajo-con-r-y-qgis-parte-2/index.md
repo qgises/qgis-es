@@ -14,7 +14,7 @@ tags:
   - QGIS
   - R
 image:
-  filename: rqgis
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
