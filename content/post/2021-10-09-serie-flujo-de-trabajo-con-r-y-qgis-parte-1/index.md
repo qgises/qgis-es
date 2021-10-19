@@ -14,7 +14,7 @@ tags:
   - QGIS
   - R
 image:
-  filename: rqgis.svg
+  filename: rqgis.png
   focal_point: Smart
   preview_only: false
 ---
