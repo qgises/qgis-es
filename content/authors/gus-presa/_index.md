@@ -3,9 +3,8 @@ title: Gus Presa
 role: Secretaría
 avatar_filename: foto_gus_qgis.jpg
 organizations:
-  - name: Experto Planificador Analista MT-BT (Global Infrastructure and Networks -
-      Studies) en eDistribución Redes Digitales S.L.
-    url: https://www.edistribucion.com/es/index.html
+  - name: Experto Distribución (Criterios, Gestión y Sistemas de Retribución de
+      Distribución) en eDistribución Redes Digitales S.L.
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: http://www.waveski.org
   - name: Presidente del Comité Nacional de Waveski de la Real Federación Española
