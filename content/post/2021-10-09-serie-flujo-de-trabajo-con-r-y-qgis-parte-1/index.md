@@ -58,7 +58,7 @@ Por otro lado, te recomiendo que le eches un vistazo a esta otra entrada de blog
 
 {{% youtube "8Dx40TlF4fk" %}}
 
-En linux es posible que se requiera instalar algunas librerías del sistema antes de instalar ciertos paquetes en R. Por lo cual recomiendo revisar el sitio de [Package Manager](https://packagemanager.rstudio.com/client/#/repos/1/overview) para saber los prerequisitos del sistema para cada paquete en tu distribución Linux.
+En linux es posible que se requiera instalar algunas blibliotecas del sistema antes de instalar ciertos paquetes en R. Por lo cual recomiendo revisar el sitio de [Package Manager](https://packagemanager.rstudio.com/client/#/repos/1/overview) para saber los prerequisitos del sistema para cada paquete en tu distribución Linux.
 
 ### Parte 1: Trabajando con QGIS Processing desde R
 
@@ -73,7 +73,7 @@ No hay una versión estable de `qgisprocess` en CRAN. Sin embargo, se puede inst
 remotes::install_github("paleolimbot/qgisprocess")
 ```
 
-Cuando se ha instalado se puede llamar la librería de la forma habitual como se hace en R. Si todo va bien verás un mensaje como se muestra a continuación
+Cuando se ha instalado se puede llamar la bliblioteca de la forma habitual como se hace en R. Si todo va bien verás un mensaje como se muestra a continuación
 
 ```r
 library(qgisprocess)
@@ -131,7 +131,7 @@ A partir de aquí, solo hace falta cargar este nuevo fichero a la sesión de R. 
 buf <- sf::st_read(resultado[[1]])
 # o también así
 buf <- sf::st_read(qgis_output(resultado, "OUTPUT"))
-plot(st_geometry(buf), col = "steelblue") 
+plot(sf::st_geometry(buf), col = "steelblue") 
 ```
 
 ![Plot del resultado de qgisprocess](plot_buffer.png)
@@ -145,12 +145,11 @@ Para concluir sobre el trabajo con QGIS dentro de R, quiero también introducir 
 remotes::install_github("JanCaha/r_package_qgis")
 ```
 
-Este paquete está siendo diseñado para trabajar sobre `qgisprocess`, mediante llamadas más simples para el usuario R, incluyendo la posibilidad de tener la documentación de las librerías de _Processing de QGIS_ dentro de R. El ejemplo anterior puede ser ejecutado así:
+Este paquete está siendo diseñado para trabajar sobre `qgisprocess`, mediante llamadas más simples para el usuario R, incluyendo la posibilidad de tener la documentación de las blibliotecas de _Processing de QGIS_ dentro de R. El ejemplo anterior puede ser ejecutado así:
 
 ```r
-qgis::qgis_buffer(entrada, DISTANCE = 1, DISSOLVE = TRUE) |> 
-  qgisprocess::qgis_output("OUTPUT") |> 
-  sf::st_read()
+resultado2 <- qgis::qgis_buffer(entrada, DISTANCE = 1, DISSOLVE = TRUE) |> 
+sf::st_read(resultado[[1]])
 ```
 
 ```r
@@ -164,9 +163,11 @@ Bounding box:  xmin: -85.31306 ymin: 32.88374 xmax: -74.46764 ymax: 37.58832
 CRS:           NA
 ```
 
-No se recomienda cargar el paquete `qgis` completo en la sesión de R (~~`library(qgis)`~~), ya que se estaría cargando más de 900 funciones (una por cada algoritmo de Processing de QGIS). En su lugar, se recomienda llamar las funciones de la forma `qgis::qgis_buffer(...)`.
+Debido a que el paquete `qgis` es un conjunto de accesos directos a los algoritmos soportados oficialmente por QGIS Processing, solo se podrán usar con este paquete aquellos algoritmos nativos de qgis, los de Saga-gis y los Grass-gis que estén dentro de processing. Sin embargo, se recomienda no cargar la biblioteca completa en la sesión de R (~~`library(qgis)`~~), ya que se estaría cargando más de 900 funciones (una por cada algoritmo de Processing de QGIS). En su lugar, se recomienda llamar las funciones de la forma `qgis::qgis_buffer(...)`. Para los algoritmos que no sean soportados oficialmente por QGIS, se puede usar `qgisprocess::qgis_run_algorithm()` de la misma forma como ya se ha explicado antes.
 
-**Nota: _Los paquetes `RQGIS` y `RQGIS3` ya no tienen soporte para las nuevas versiones de QGIS, por lo que han sido descontinuados en favor de `qgisprocess`_**
+**Nota:** _Los paquetes `RQGIS` y `RQGIS3` ya no tienen soporte para las nuevas versiones de QGIS, por lo que han sido descontinuados en favor de `qgisprocess`_
+
+**Actualización:** _Se prevé que para las nuevas versiones de QGIS a partir de la 3.22, los algoritmos de proveedores de SAGA y GRASS ya no tendrán soporte oficial de QGIS, pero todavía podrán ser usados mediante complementos._
 
 Finalmente, me parece impresionante la dedicación de Dewey Dunnington  ([\@paleolimbot](https://twitter.com/paleolimbot)) y Jan Caha ([\@cahik13](https://twitter.com/cahik13)) en estos dos paquetes y la integración de QGIS en R, por lo que les agradezco infinitamente.
 
