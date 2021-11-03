@@ -20,7 +20,7 @@ image:
 ---
 
 <div style="padding: 10px 10px 20px 10px; border: 1px solid #BFBFBF; background-color: white; box-shadow: 10px 10px 5px #aaaaaa;font-size: 15px">
-Esta es una entrada compartida entre las comunidades de <a href="https://t.me/qgis_es">QGIS España</a> y <a href="https://t.me/rspatial_es">R Espacial en Español</a>. También la podrás leer este <a href="https://rspatial_es.gitlab.io/blog/2021-10-15-serie-flujo-de-trabajo-con-r-y-qgis-parte-2/">enlace a su blog</a> 
+Esta es una entrada compartida entre las comunidades de <a href="https://t.me/qgis_es">QGIS España</a> y <a href="https://t.me/rspatial_es">R Espacial en Español</a>. También la podrás leer este <a href="https://rspatial_es.gitlab.io/blog/2021-10-19-serie-flujo-de-trabajo-con-r-y-qgis-parte-3/">enlace a su blog</a> 
 </div>
 
 ### Introducción
