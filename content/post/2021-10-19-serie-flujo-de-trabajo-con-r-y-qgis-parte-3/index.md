@@ -310,15 +310,15 @@ Como se vió más arriba, este algoritmo genera un objeto json que estará dispo
 
 ![](qgis-r-provider-model.png)
 
-En la parte correspondiente al enlace entre las salidas del Rscript y la entrada en la otra herramienta de processing se realizó usando una expresión en los parámetros de límite inferior y límite superior (_"Lower bound..."_ y _"Upper bound.."_) como se muestra en la imagen a continuación. 
+El enlace entre las salidas del Rscript y la entrada en la otra herramienta de processing se realiza mediante una expresión en los parámetros de límite inferior y límite superior (_"Lower bound..."_ y _"Upper bound.."_) como se muestra en la imagen a continuación. 
 
 ![](qgis-r-provider-model-config.png)
 
-Y esta es la forma de usar a las salidas del rscript como entradas de otros procesos en el modelador. Debo recalcar que esto no es exclusivo de _Processing R provider_, sino es una de las bondades de la nueva API de _Processing_.
+De esta manera se puede aprovechar un rscript como insumos para otros procesos en el modelador. Debo recalcar que esto no es exclusivo de _Processing R provider_, sino es una de las bondades de la nueva API de _Processing_.
 
 #### Nivel 5: Especificación avanzada
 
-Todos los parámetros de entradas y salidas pueden ser especificados mediante una estructura especial que permitirá tener mayor flexibilidad. Es especialmente útil al momento de definir los parámetros de entrada. Se trata de Usar las clases y propiedades de Python derivadas de objetos `QgsProcessingParameter*`. Veamos un ejemplo: La misma especificación del encabezado del script de ANOVA.rsx podemos escribirla así:
+Todos los parámetros de entradas y salidas pueden ser especificados mediante una estructura especial que permitirá tener mayor flexibilidad. Es especialmente útil al momento de definir los parámetros de entrada. Se trata de usar las clases y propiedades de Python para objetos `QgsProcessingParameter*`. Veamos un ejemplo: La misma especificación del encabezado del script de ANOVA.rsx podemos escribirla así:
 
 ```r
 ##Basic statistics=group
@@ -336,7 +336,7 @@ test2<-lm(f2, data = Layer)
 >anova(test1,test2)
 ```
 
-En este tipo de especificación podremos tener más control del parámetro. Por ejemplo, nótese que en esta especificación podemos usar como nombre del objeto R `Layer`, mientras que el enunciado que aparecerá en la ventana de la herramienta es `Capa de entrada`. Así también para los parámetros de las variables hemos controlado que los tipos de campos aceptados sean solo numéricos.
+Aquí vemos que las líneas que empiezan con una especificación de tipo `QgsProcessingParameter*` y continúa con valores separados por una barra vertical `|`. Esos valores corresponden a un atributo de la clase en el mismo orden que han sido definidos en Python. De esta manera podremos tener más control sobre el parámetro. Por ejemplo, nótese que en esta especificación podemos usar como nombre del objeto R `Layer`, mientras que el enunciado que aparecerá en la ventana de la herramienta es `Capa de entrada`. Así también para los parámetros de las variables hemos controlado que los tipos de campos aceptados sean solo numéricos.
 
 ![](qgis-r-provider-advanced.png)
 
