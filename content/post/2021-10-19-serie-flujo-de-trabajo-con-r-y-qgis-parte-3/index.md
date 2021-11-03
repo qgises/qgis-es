@@ -300,11 +300,11 @@ Se pueden ver tres líneas de `output`. Dos de ellas son números y una es un te
 {'Max': '9.721', 'Min': '5.16', 'Summary': '5.16 to 9.721'}
 ```
 
-Esto significa que el resultado será devuelto como variable dentro del contexto en el que se use el rscript y podrá ser usado como entrada en alguna otra herramienta de _Processing_. Como lo veremos en la última parte de esta entrada.
+Esto significa que el resultado será devuelto como variable dentro del contexto en el que se use el rscript y podrá ser usado como entrada en alguna otra herramienta de _Processing_, como lo veremos en la próxima parte de esta entrada.
 
 #### Nivel 4. Usando R scripts en el Modelador
 
-Este es nuestro último nivel del tutorial. Y veremos como utilizar salidas de R como entradas en otros algoritmos de Processing. Para esto vamos a utilizar el modelador de QGIS y el algoritmo *"Min_Max"* que antes hemos visto.
+Este es nuestro cuarto nivel del tutorial y veremos como utilizar salidas de R como entradas en otros algoritmos de _Processing_. Para esto vamos a utilizar el modelador de QGIS y el algoritmo *"Min_Max"* que antes hemos visto.
 
 Como se vió más arriba, este algoritmo genera un objeto json que estará disponible como variables dentro del contexto en el que se use, en este caso del modelador. Entonces, las aprovecharemos dentro de un modelo de ejemplo que nos permita generar un raster de valores aleatorios a partir de los valores mínimo y máximo de un campo en una capa de vectores. Si todavía no sabes como hacer modelos en QGIS, te recomiendo mirar este enlace: [QGIS training manual: Modeler only](https://docs.qgis.org/3.22/en/docs/training_manual/processing/modeler_only.html). El modelo propuesto es el siguiente:
 
