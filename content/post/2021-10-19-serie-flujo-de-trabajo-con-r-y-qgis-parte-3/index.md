@@ -3,7 +3,7 @@ title: 'Serie: Flujo de trabajo con R y QGIS. Parte 3'
 authors: 
   - gavg712
 summary: Explicación sobre cómo hacer herramientas de _Processing_ con Lenguaje R
-draft: TRUE
+draft: FALSE
 featured: true
 date: '2021-10-19'
 categories:
@@ -316,7 +316,35 @@ En la parte correspondiente al enlace entre las salidas del Rscript y la entrada
 
 Y esta es la forma de usar a las salidas del rscript como entradas de otros procesos en el modelador. Debo recalcar que esto no es exclusivo de _Processing R provider_, sino es una de las bondades de la nueva API de _Processing_.
 
-Y hasta aquí la entrada de hoy. Como hemos visto desde la parte 1. Trabajar con R y QGIS es bastante sencillo. Los desarrolladores de ambas partes están haciendo un esfuerzo enorme para brindarnos a los usuarios las herramientas para mejorar nuestros análisis de SIG. No puedo más que sugerirte tomar parte de este crecimiento siguiendo alguna o varias de estas pautas:
+#### Nivel 5: Especificación avanzada
+
+Todos los parámetros de entradas y salidas pueden ser especificados mediante una estructura especial que permitirá tener mayor flexibilidad. Es especialmente útil al momento de definir los parámetros de entrada. Se trata de Usar las clases y propiedades de Python derivadas de objetos `QgsProcessingParameter*`. Veamos un ejemplo: La misma especificación del encabezado del script de ANOVA.rsx podemos escribirla así:
+
+```r
+##Basic statistics=group
+##anova=name 
+##Tabla de resumen ANOVA de dos modelos=display_name
+##QgsProcessingParameterVectorLayer|Layer|Capa de entrada|-1|None|False
+##QgsProcessingParameterField|Dependiente|Variable dependiente|None|Layer|0|False|False|False
+##QgsProcessingParameterField|Independientes_1|Variables independientes modelo 1|None|Layer|0|True|False|False
+##QgsProcessingParameterField|Independientes_2|Variables independientes modelo 2|None|Layer|0|True|False|False
+
+f1 <- sprintf("%s ~ %s", Dependiente, paste(Independientes_1, collapse = " + "))
+f2 <- sprintf("%s ~ %s", Dependiente, paste(Independientes_2, collapse = " + "))
+test1<-lm(f1, data = Layer)
+test2<-lm(f2, data = Layer)
+>anova(test1,test2)
+```
+
+En este tipo de especificación podremos tener más control del parámetro. Por ejemplo, nótese que en esta especificación podemos usar como nombre del objeto R `Layer`, mientras que el enunciado que aparecerá en la ventana de la herramienta es `Capa de entrada`. Así también para los parámetros de las variables hemos controlado que los tipos de campos aceptados sean solo numéricos.
+
+![](qgis-r-provider-advanced.png)
+
+Cada tipo de parámetro de entrada o salida tiene su propia lista de propiedades que pueden ser controlados. Si quieres saber que propiedades tiene un parámetro específico, puedes consultar la [documentación de PyQgis](https://qgis.org/pyqgis/master/search.html?q=QgsProcessingParameter&check_keywords=yes&area=default). 
+
+Y hasta aquí la entrada de hoy. Como hemos visto desde la parte 1, trabajar con R y QGIS juntos es bastante sencillo. Los desarrolladores de ambas partes están haciendo un esfuerzo enorme para brindarnos a los usuarios las herramientas para mejorar nuestros análisis de SIG. Solo hace falta aprender la lógica del trabajo para aprovechar ambos mundos. 
+
+No puedo más que sugerirte tomar parte de este crecimiento siguiendo alguna o varias de estas pautas:
 
 - Si ves algún comportamiento extraño en cualquiera de las herramientas que te he mostrado en esta serie de entradas, puedes reportar a los desarrolladores en sus respectivos repositorios.
 - Si tienes habilidades de traducción, puedes compartir esta información o la documentación oficial a otros usuarios en otros idiomas.
