@@ -342,7 +342,9 @@ Aquí vemos que las líneas que empiezan con una especificación de tipo `QgsPro
 
 Cada tipo de parámetro de entrada o salida tiene su propia lista de propiedades que pueden ser controlados. Si quieres saber que propiedades tiene un parámetro específico, puedes consultar la [documentación de PyQgis](https://qgis.org/pyqgis/master/search.html?q=QgsProcessingParameter&check_keywords=yes&area=default). 
 
-Y hasta aquí la entrada de hoy. Como hemos visto desde la parte 1, trabajar con R y QGIS juntos es bastante sencillo. Los desarrolladores de ambas partes están haciendo un esfuerzo enorme para brindarnos a los usuarios las herramientas para mejorar nuestros análisis de SIG. Solo hace falta aprender la lógica del trabajo para aprovechar ambos mundos. 
+### Concluyendo
+
+Como hemos visto desde la parte 1, trabajar con R y QGIS juntos es bastante sencillo. Los desarrolladores de ambas partes están haciendo un esfuerzo enorme para brindarnos a los usuarios las herramientas para mejorar nuestros análisis de SIG. Solo hace falta aprender la lógica del trabajo para aprovechar ambos mundos. 
 
 No puedo más que sugerirte tomar parte de este crecimiento siguiendo alguna o varias de estas pautas:
 
