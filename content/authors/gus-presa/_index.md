@@ -3,7 +3,7 @@ title: Gus Presa
 role: Secretaría
 avatar_filename: foto_gus_qgis.jpg
 organizations:
-  - name: Experto Distribución (Criterios de Gestión y Sistemas de Retribución de
+  - name: Experto Distribución (Criterios, Gestión y Sistemas de Retribución de
       Activos de Distribución) en eDistribución Redes Digitales S.L.
   - name: Presidente de la Asociación Mundial de Waveski (WWSA)
     url: http://www.waveski.org
