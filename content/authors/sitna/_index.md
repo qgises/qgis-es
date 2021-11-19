@@ -25,4 +25,4 @@ email: info@qgis.es
 user_groups:
   - Grandes colectivos
 ---
-El Gobierno de Navarra, a través del Sistema de Información Territorial de Navarra – SITNA, impulsa las tareas de formación y soporte para que las administraciones públicas locales y regional de la Comunidad Foral, realicen el mantenimiento, análisis y gestión de múltiples temáticas, básicamente como datos abiertos. A su vez, contribuye a la disponibilidad de software SIG de código abierto con su visor Web API SITNA.
+El Gobierno de Navarra, a través del Sistema de Información Territorial de Navarra – SITNA, impulsa las tareas de formación y soporte para que las administraciones públicas locales y regional de la Comunidad Foral, realicen el mantenimiento, análisis y gestión de múltiples temáticas, básicamente como datos abiertos. A su vez, contribuye a la disponibilidad de software SIG de código abierto con su [API SITNA](https://github.com/sitna/api-sitna/blob/master/README.es-ES.md) para el desarrollo de visores web.
