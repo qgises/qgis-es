@@ -4,6 +4,7 @@ authors:
   - salvamento-maritimo
 title: Centro de Seguridad Marítima Integral Jovellanos
 role: Administración
+avatar_filename: avatar.png
 bio: Centro de Seguridad Marítima Integral Jovellanos
 social:
   - icon: globe
