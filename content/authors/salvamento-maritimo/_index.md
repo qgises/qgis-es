@@ -30,6 +30,12 @@ user_groups:
 - Grandes colectivos
 ---
 
-BORRADOR DE TEXTO
+La [Sociedad de Salvamento y Seguridad Marítima](http://www.salvamentomaritimo.es/), es una entidad pública empresarial adscrita al Ministerio de Transportes, Movilidad y Agenda Urbana, a través de la Dirección General de la Marina Mercante. Creada en 1992 por la Ley de Puertos del Estado y de la Marina Mercante, entró en funcionamiento en 1993 y su razón de ser es la protección de la vida en la mar, en el área de responsabilidad de salvamento española. española.
 
-QGIS es el software SIG de código abierto más popular del mundo. Detrás de QGIS hay desarrolladores, profesionales, profesores, estudiantes que forman la comunidad de usuarios. La comunidad es responsable de la promoción del QGIS, el apoyo a los usuarios y el desarrollo de software a 360°: desde el código hasta la documentación. No necesitas ser un hacker para ser parte de la gran familia de QGIS, sólo necesitas estar dispuesto a involucrarte, compartir y ayudar a otros.
+ 
+
+La [Sociedad](http://www.salvamentomaritimo.es/) desarrolla toda su actividad formativa en sus instalaciones del [Centro Jovellanos](https://www.centrojovellanos.es/home), ubicadas en Veranes (Gijón-Asturias).
+
+El [Centro Jovellanos](https://www.centrojovellanos.es/home) tiene como misión implantar y diseñar una formación altamente especializada para el propio personal de [Salvamento Marítimo](http://www.salvamentomaritimo.es/conocenos#nuestros-medios) y también para los profesionales que actúan en emergencias. La formación en seguridad requiere el uso de nuevas ideas y de nuevas tecnologías, para elevar los estándares y demostrar los beneficios de saber actuar en casos de emergencia, especialmente en aquellos donde una vida humana pueda estar en grave peligro.
+
+Por otra parte, también participamos en proyectos europeos de investigación, para contribuir a crear un sector marítimo más seguro, eficiente y más respetuoso con el medio ambiente.
