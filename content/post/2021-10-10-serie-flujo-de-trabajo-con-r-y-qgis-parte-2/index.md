@@ -122,6 +122,6 @@ Lamentablemente en la nueva versión de QGIS 3.x todavía no dispone de un repos
 Por lo pronto, existe este viejo repositorio de [Qgis Processing](https://github.com/qgis/QGIS-Processing) con las versiones de scripts de Python y R que funcionaban en la versión 2. Este repositorio puede ser un buen punto de partida, pero requiere que se hagan modificaciones en los scripts para hacerlos funcionlaes para la versión 3.
 
 Si no sabes como hacer esas modificaciones, ¡No te preocupes!. En la próxima entrada explicaremos cómo editar scripts o hacer desde cero tus propias herramientas para Processing. Por lo pronto ve practicando tus habilidades de programación en R.
-No te pierdas la [tercera parte del Flujo de Trabajo con R y QGIS]()...
+No te pierdas la [tercera parte del Flujo de Trabajo con R y QGIS](https://www.qgis.es/post/2021-10-19-serie-flujo-de-trabajo-con-r-y-qgis-parte-3/)...
 
 Esta vez, Gracias infinitas a  Nyall Dawson  ([\@nyalldawson](https://twitter.com/nyalldawson)) y Jan Caha ([\@cahik13](https://twitter.com/cahik13)) por mantener este complemento que originalmente fue desarrollado por Victor Olaya ([\@volayaf](https://twitter.com/volayaf)).
