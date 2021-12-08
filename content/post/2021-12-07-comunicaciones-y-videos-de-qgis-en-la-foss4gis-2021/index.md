@@ -31,10 +31,9 @@ La selección se ha realizado mediante la búsqueda del término QGIS en la agen
 
 Las sesiones se han organizo por los *tracks* de la conferencia incluyendo el título de la presentación, el enlace sus datos principales y el vídeo en el [canal de YouTube de FOSS4G](https://www.youtube.com/c/FOSS4G).
 
-## Índice
+**Índice de presentaciones:**
 
 <!-- TOC -->
-- [Índice](#índice)
 - [Track – Software](#track--software)
   - [QGIS and OGC APIs - how do they work together?](#qgis-and-ogc-apis---how-do-they-work-together)
   - [Geostyler Mapfile Parser](#geostyler-mapfile-parser)
