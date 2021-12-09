@@ -3,7 +3,7 @@ superuser: false
 authors:
   - lokimica
 title: Laboratorios Lokímica
-role: Administración
+role: Empresa
 avatar_filename: avatar.png
 bio: Laboratorios Lokímica
 social:
