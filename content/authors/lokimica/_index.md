@@ -10,6 +10,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://lokimica.com/
+  - link: https://twitter.com/lokimica
+    icon_pack: fab
+    icon: twitter
   - link: mailto:lokimica@lokimica.es
     icon_pack: fas
     icon: envelope
