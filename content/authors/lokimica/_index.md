@@ -10,6 +10,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://lokimica.com/
+  - link: mailto:lokimica@lokimica.es
+    icon_pack: fas
+    icon: envelope
 email: lokimica@lokimica.es
 user_groups:
   - Grandes colectivos
