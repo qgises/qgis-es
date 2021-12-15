@@ -6,12 +6,14 @@ summary: QGIS no está afectado por Log4J
 draft: false
 featured: true
 authors:
-  - GusPresa
+  - gus-presa
+tags:
+  - QGIS
 categories:
   - Noticias
 image:
   filename: avatar.png
-  focal_point: Smart
+  focal_point: TOP RIGHT
   preview_only: false
 ---
 La vulnerabilidad causada por **Log4J** ha estado en todos los titulares tecnológicos de los últimos días. Por ello, hemos ([qgis.org](http://www.qgis.org)) recibido muchas preguntas queriendo saber si **QGIS** ha sido afectado. Por ello, nos gustaría aclarar:
