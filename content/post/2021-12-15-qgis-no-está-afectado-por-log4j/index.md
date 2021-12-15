@@ -12,7 +12,7 @@ tags:
 categories:
   - Noticias
 image:
-  filename: avatar.png
+  filename: featured.png
   focal_point: TOPRIGHT
   preview_only: false
 ---
