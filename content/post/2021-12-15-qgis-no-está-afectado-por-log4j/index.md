@@ -13,7 +13,7 @@ categories:
   - Noticias
 image:
   filename: avatar.png
-  focal_point: TOP RIGHT
+  focal_point: TOPRIGHT
   preview_only: false
 ---
 La vulnerabilidad causada por **Log4J** ha estado en todos los titulares tecnológicos de los últimos días. Por ello, hemos ([qgis.org](http://www.qgis.org)) recibido muchas preguntas queriendo saber si **QGIS** ha sido afectado. Por ello, nos gustaría aclarar:
