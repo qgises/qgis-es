@@ -16,7 +16,7 @@ image:
   focal_point: TOPRIGHT
   preview_only: false
 ---
-La vulnerabilidad causada por **Log4J** ha estado en todos los titulares tecnológicos de los últimos días. Por ello, hemos ([qgis.org](http://www.qgis.org)) recibido muchas preguntas queriendo saber si **QGIS** ha sido afectado. Por ello, nos gustaría aclarar:
+La vulnerabilidad causada por **Log4J** ha estado en todos los titulares tecnológicos de los últimos días. Hemos ([qgis.org](http://www.qgis.org)) recibido muchas preguntas queriendo saber si **QGIS** ha sido afectado. Por ello, nos gustaría aclarar:
 
 **QGIS** no es una aplicación **Java**. **QGIS** está basado en **C++** y **Python**. **QGIS**, por lo tanto, no usa ningún componente de **Java**, incluyendo **Log4j**(ava).
 
