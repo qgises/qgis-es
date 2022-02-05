@@ -3,7 +3,7 @@ superuser: false
 authors:
   - fran-raga
 title: Fran Raga
-role: Vice-presidencia
+role: Vocal
 bio: ""
 social:
   - icon: envelope

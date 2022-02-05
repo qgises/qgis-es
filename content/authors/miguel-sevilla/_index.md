@@ -9,7 +9,7 @@ superuser: false
 authors:
   - miguel-sevilla
 title: Miguel Sevilla-Callejo
-role: Vocal
+role: Vice-presidencia
 avatar_filename: avatar.jpg
 bio: Doctor en Geografía. Investigador. Profesor. Consultor *freelance*.
   Interesado en las dinámicas territoriales, las tecnologías de la información
