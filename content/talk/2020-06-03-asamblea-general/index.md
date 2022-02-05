@@ -1,5 +1,5 @@
 ---
-title: Asamblea General
+title: Asamblea General (3 Junio, 2020)
 event: ''
 event_url: 
 
@@ -37,8 +37,8 @@ image:
 links:
 - icon: file-pdf
   icon_pack: far
-  name: 'Ver actas'
-  url: https://docs.google.com/document/d/1IaPlSoIbQmQ8lx31IFAiIHeVVTqMcAeT-EsZfxvAOT4/export?format=pdf
+  name: 'Ver acta'
+  url: ./talk/2020-06-03-asamblea-general/20200603_asamblea_general.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
