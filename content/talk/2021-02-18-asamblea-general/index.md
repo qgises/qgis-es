@@ -17,8 +17,8 @@ url_video: ""
 links:
   - icon: file-pdf
     icon_pack: far
-    name: Ver actas
-    url: https://drive.google.com/file/d/1WqqmTW4BjJGu3c2DvHvmUF5nmZNkyNeQ/view?usp=sharing
+    name: Ver acta
+    url: ./talk/2021-02-18-asamblea-general/20210218_asamblea_general.pdf
 publishDate: 2021-03-24T10:31:37.409Z
 featured: true
 url_slides: ""
