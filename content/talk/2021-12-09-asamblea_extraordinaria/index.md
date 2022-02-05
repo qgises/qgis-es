@@ -18,7 +18,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: Ver acta
-    url: ./20211209_acta_asamblea_extraordinaria.pdf
+    url: ./talk/2021-12-09-asamblea_extraordinaria/20211209_acta_asamblea_extraordinaria.pdf
 publishDate: 2021-03-24T10:31:37.409Z
 featured: true
 url_slides: ""
