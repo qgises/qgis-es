@@ -14,7 +14,7 @@ categories:
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Vamos a analizar la velocidad de ejecución de un modelo en dos entornos distintos,
 
