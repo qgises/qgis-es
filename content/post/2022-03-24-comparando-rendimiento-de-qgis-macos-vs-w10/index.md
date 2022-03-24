@@ -6,7 +6,11 @@ summary: tbd
 draft: true
 featured: true
 authors:
-  - Gus Presa
+  - Gus-Presa
+tags:
+  - QGIS
+categories:
+  - Noticias
 image:
   filename: featured
   focal_point: Smart
