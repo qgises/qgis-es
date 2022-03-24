@@ -22,7 +22,7 @@ Vamos a analizar la velocidad de ejecución de un modelo en dos entornos distint
 
   ![](w10.jpg)
 
-
-
   ![](dell.jpg)
+
+  ![](w10b.jpg)
 *
