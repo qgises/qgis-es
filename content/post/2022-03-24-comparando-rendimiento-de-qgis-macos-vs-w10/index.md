@@ -16,4 +16,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-prueba
+Vamos a analizar la velocidad de ejecución de un modelo en dos entornos distintos,
+
+* QGIS 3.16.14 en W10
+
+  ![](w10.jpg)
+
+
+
+  ![](dell.jpg)
+*
