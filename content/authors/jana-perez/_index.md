@@ -5,11 +5,7 @@ authors:
 title: Jana Pérez Ruiz
 role: Vocal
 avatar_filename: avatar.jpg
-bio: Soy Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales por la Universidad de Cantabria. Como título profesional, soy Piloto de Primera de la Marina Mercante.
-
-Trabajo como coordinadora de misión SAR y operadora VTS en la Sociedad de Salvamento y Seguridad Marítima desde el año 2010 y también colaboro como tutora de formación interna en el Centro de Seguridad Marítima Integral de Jovellanos desde 2021.
-
-He recibido formación SIG, principalmente empleando QGIS, en diversas empresas e instituciones como el IGN y la UNED.
+bio: Soy Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales por la Universidad de Cantabria. Como título profesional, soy Piloto de Primera de la Marina Mercante. Trabajo como coordinadora de misión SAR y operadora VTS en la Sociedad de Salvamento y Seguridad Marítima desde el año 2010 y también colaboro como tutora de formación interna en el Centro de Seguridad Marítima Integral de Jovellanos desde 2021. He recibido formación SIG, principalmente empleando QGIS, en diversas empresas e instituciones como el IGN y la UNED.
 interests:
   - Aplicación de los SIG al medio marino
   - Seguimiento y gestión de emergencias
