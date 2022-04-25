@@ -11,9 +11,7 @@ authors:
 title: Miguel Sevilla-Callejo
 role: Vice-presidencia
 avatar_filename: avatar.jpg
-bio: Doctor en Geografía. Investigador. Profesor. Consultor *freelance*.
-  Interesado en las dinámicas territoriales, las tecnologías de la información
-  geográfica y el software y herramientas libres.
+bio: Doctor en Geógrafía
 interests:
   - Dinámicas territoriales
   - Tecnologías de la Información Geográfica

@@ -5,7 +5,7 @@ authors:
 title: Jana Pérez Ruiz
 role: Vocal
 avatar_filename: avatar.jpg
-bio: Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales por la Universidad de Cantabria.
+bio: "Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales"
 interests:
   - Aplicación de los SIG al medio marino
   - Seguimiento y gestión de emergencias
