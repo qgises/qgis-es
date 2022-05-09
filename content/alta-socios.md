@@ -1,8 +1,8 @@
 ---
-title: Formulario para asociarse (BORRADOR)
+title: Formulario para asociarse
 subtitle: ¡Gracias por tu interés en formar parte de QGIS España!
-date: "2022-02-05T10:00:00+02:00"
-draft: true
+date: "2022-05-09T13:25:00+02:00"
+draft: false
 share: true
 commentable: false
 editable: false
