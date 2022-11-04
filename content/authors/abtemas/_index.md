@@ -1,5 +1,5 @@
 ---
-title: ABTEMAS Taller de Estudios
+title: ABTEMAS
 role: Empresa
 avatar_filename: avatar.png
 bio: Taller de estudios ambientales y sociales
