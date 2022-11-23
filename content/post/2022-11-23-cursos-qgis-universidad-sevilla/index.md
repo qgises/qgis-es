@@ -18,8 +18,6 @@ image:
   preview_only: false
 ---
 
-# La Universidad de Sevilla imparte dos cursos sobre QGIS dentro de su programa de doctorado
-
 ![](qgis_doctorado.jpg)
 
 <small>Alumnos y profesor del curso de QGIS del programa de doctorado (Sevilla)</small>
