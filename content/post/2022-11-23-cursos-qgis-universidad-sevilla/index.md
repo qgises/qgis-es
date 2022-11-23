@@ -18,13 +18,13 @@ image:
   preview_only: false
 ---
 
-![](qgis_doctorado.jpg)
-
-<small>Alumnos y profesor del curso de QGIS del programa de doctorado (Sevilla)</small>
-
 La Facultad de Geografía e Historia de la Universidad de Sevilla, ha celebrado durante el periodo comprendido entre el 7 y el 17 de noviembre, dos cursos sobre el programa QGIS. Dichos cursos, titulados “Introducción a los sistemas de información geográfica QGIS” y “Sistemas de Información Geográfica QGIS II” se han enmarcado dentro del programa de doctorado de dicha facultad. Organizados por la Doctora Pilar Díaz Cuevas e impartidos por el profesor Gabriel Orozco Frutos, los cursos han sido recibidos de manera gratuita por doctorandos y profesores de la Universidad especializados en diferentes materias.
 
 Entre los campos en los que harán uso del software encontramos: Análisis de vulnerabilidad, energías renovables, turismo, paisaje y patrimonio en la arqueología, cartografía histórica, la sociedad de la información en los hogares de las regiones europeas, movilidad intermodal y Smart cities, …
+
+![](qgis_doctorado.jpg)
+
+<small>Alumnos y profesor del curso de QGIS del programa de doctorado (Sevilla)</small>
 
 Percepciones sobre QGIS de algunos de los asistentes al curso:
 
