@@ -27,7 +27,7 @@ education:
       year: 2009
     - course: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
       institution: Junta de Andalucía (IES Aguadulce)
-      year: 2007
+      year: 2021
 email: ""
 user_groups:
 - Colaboradores
