@@ -9,7 +9,7 @@ authors:
 title: Gabriel Orozco
 role: Autor
 avatar_filename: avatar.jpg
-bio: Geografo desarrollador. Ldo. en Geografia por una Universidad de Sevilla. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Máster en Ordenación y Gestión del Desarrollo Territorial y Local. 
+bio: Geógrafo desarrollador. Ldo. en Geografía por la Universidad de Sevilla. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Máster en Ordenación y Gestión del Desarrollo Territorial y Local. 
 interests:
   - Desarrollo
   - Tecnologías de la Información Geográfica
@@ -33,4 +33,4 @@ user_groups:
 - Colaboradores
 ---
 
-Geografo desarrollador. Ldo. en Geografia por una Universidad de Sevilla. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Máster en Ordenación y Gestión del Desarrollo Territorial y Local. 
+Geógrafo desarrollador. Ldo. en Geograía por la Universidad de Sevilla. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Máster en Ordenación y Gestión del Desarrollo Territorial y Local. 
