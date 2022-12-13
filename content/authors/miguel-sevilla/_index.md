@@ -15,8 +15,9 @@ bio: Doctor en Geógrafía
 interests:
   - Dinámicas territoriales
   - Tecnologías de la Información Geográfica
-  - Software libre
+  - Software y datos libres
   - GNU/Linux
+  - QGIS, GRASS, R
   - OpenStreetMap
 social:
   - icon: globe
@@ -25,6 +26,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/msevilla00
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.social/@msevilla00
   - icon: gitlab
     icon_pack: fab
     link: https://gitlab.com/msevilla00
@@ -36,7 +40,7 @@ education:
     - course: Doctorado en Geografía
       institution: Universidad Autónoma de Madrid
       year: 2010
-    - course: Geografía
+    - course: Licenciatura en Geografía
       institution: Universidad Autónoma de Madrid
       year: 2000
 email: ""
@@ -44,4 +48,4 @@ user_groups:
   - Junta directiva
 ---
 
-Doctor en Geografía. Investigador. Profesor. Consultor freelance. Interesado en las dinámicas territoriales, las tecnologías de la información geográfica y el software y herramientas libres.
+Soy doctor en Geografía, he trabajado en temas sobre desarrollo, mundo rural y la aplicación de tecnologías de la información geográfica en diferentes ámbitos, estuve de profesor asociado en la universidad de Zaragoza, soy asistente de investigación en el Instituto Pirenaico de Ecología del CSIC, y entre mis aficiones está la participación en las comunidades de software y datos espaciales libres, destacando mi presencia en la junta directiva de la [asociación de QGIS España](https://www.qgis.es/asociacion/), la implicación en la [comunidad española de colaboradores de OpenStreetMap](https://wiki.openstreetmap.org/wiki/ES:Espa%C3%B1a) y la cordinación del grupo [Mapeado Colaborativo / Geoinquietos Zaragoza](https://mapcolabora.org).
