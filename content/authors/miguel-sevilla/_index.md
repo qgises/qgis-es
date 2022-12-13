@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Instituto Pirenaico de Ecología Consejo Superior de Investigaciones
+  - name: Instituto Pirenaico de Ecología - Consejo Superior de Investigaciones
       Científicas
     url: http://www.ipe.csic.es/
   - name: Mapeado Colaborativo / Geoinquietos Zaragoza
@@ -48,4 +48,4 @@ user_groups:
   - Junta directiva
 ---
 
-Soy doctor en Geografía, he trabajado en temas sobre desarrollo, mundo rural y la aplicación de tecnologías de la información geográfica en diferentes ámbitos, estuve de profesor asociado en la universidad de Zaragoza, soy asistente de investigación en el Instituto Pirenaico de Ecología del CSIC, y entre mis aficiones está la participación en las comunidades de software y datos espaciales libres, destacando mi presencia en la junta directiva de la [asociación de QGIS España](https://www.qgis.es/asociacion/), la implicación en la [comunidad española de colaboradores de OpenStreetMap](https://wiki.openstreetmap.org/wiki/ES:Espa%C3%B1a) y la coordinación del grupo [Mapeado Colaborativo / Geoinquietos Zaragoza](https://mapcolabora.org).
+Soy doctor en Geografía, he trabajado en temas sobre desarrollo, mundo rural y la aplicación de tecnologías de la información geográfica en diferentes ámbitos, estuve de profesor asociado en la universidad de Zaragoza, soy asistente de investigación en el [Instituto Pirenaico de Ecología del CSIC](https://www.ipe.csic.es), y entre mis aficiones está la participación en las comunidades de software y datos espaciales libres, destacando mi presencia en la junta directiva de la [asociación de QGIS España](https://www.qgis.es/asociacion/), la implicación en la [comunidad española de colaboradores de OpenStreetMap](https://wiki.openstreetmap.org/wiki/ES:Espa%C3%B1a) y la coordinación del grupo [Mapeado Colaborativo / Geoinquietos Zaragoza](https://mapcolabora.org).
