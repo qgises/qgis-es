@@ -1,5 +1,5 @@
 ---
-title: Asamblea General (18 Febrero, 2021)
+title: Asamblea General del 23 Marzo de 2022
 abstract: Convocatoria ordinaria de la asamblea general de la asociación
 location: Online
 date: 2022-03-23T18:45:00.000Z

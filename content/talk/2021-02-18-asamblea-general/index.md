@@ -1,5 +1,5 @@
 ---
-title: Asamblea General (18 Febrero, 2021)
+title: Asamblea General del 18 Febrero de 2021
 abstract: Convocatoria ordinaria de la asamblea general de la asociación
 location: Online
 date: 2021-02-18T18:45:00.000Z

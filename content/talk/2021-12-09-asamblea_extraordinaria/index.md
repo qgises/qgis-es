@@ -1,5 +1,5 @@
 ---
-title: Asamblea Extraordinaria (9 Diciembre, 2021)
+title: Asamblea extraordinaria del 9 Diciembre de 2021
 abstract: Convocatoria extraordinaria de la asamblea general de la asociación
 location: Online
 date: 2021-12-09T18:15:00.000Z

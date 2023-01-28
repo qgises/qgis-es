@@ -1,5 +1,5 @@
 ---
-title: Asamblea General (3 Junio, 2020)
+title: Asamblea General del 3 de Junio de 2020
 event: ''
 event_url: 
 
