@@ -1,10 +1,9 @@
 ---
 organizations:
-  - name: Instituto Pirenaico de Ecología - Consejo Superior de Investigaciones
-      Científicas
-    url: http://www.ipe.csic.es/
-  - name: Mapeado Colaborativo / Geoinquietos Zaragoza
-    url: https://mapcolabora.org
+  - name: Organizacion 1
+    url: http://example.com
+  - name: Organizacion 2
+    url: http://example.com
 superuser: false
 authors:
   - miquel-pujol
