@@ -130,3 +130,23 @@ QGIS es un software con una versatilidad abrumadora. Es una mezcla de
 CAD, Acces y Photoshop. La persona que crea que solo sirve para la
 geografía, va muy errada. A todo delineante u otro profesional que tenga
 conocimientos de QGIS le animo a probar su uso con la arquitectura.
+
+## Resultados
+
+Aquí tenéis los resultados:
+
+![Distribucion Original](001-Distribucion-Original-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+
+![Derribos Desmontage](002-Derribos-Desmontage-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+
+![Nueva Construccion](003-Nueva-Construccion-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+
+![Distribucion Mobiliario](004-Distribucion-Mobiliario-Balmes-454-5-1_page-0001.jpg)
+
+![Electricidad Iluminacion](005-1-Electricidad-Iluminacion-Balmes-454-5-1_page-0001.jpg)
+
+![Agua](006-Agua-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+
+![Climatización](007-Climatización-Balmes-454-5-1_page-0001.jpg)
+
+![Alzado](008-Alzado-A-Balmes-454-5-1_page-0001.jpg)
