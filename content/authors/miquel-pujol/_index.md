@@ -6,9 +6,9 @@ organizations:
     url: http://example.com
 superuser: false
 authors:
-  - miquel-pujol
+
 title: Miquel Pujol Garcia
-role: Rol profesional
+role: Global Brand Manager
 avatar_filename: avatar.png
 bio: ---
 interests:
