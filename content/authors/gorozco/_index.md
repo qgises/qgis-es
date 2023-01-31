@@ -7,7 +7,7 @@ superuser: false
 authors:
  
 title: Gabriel Orozco
-role: Autor
+role: Geógrafo
 avatar_filename: avatar.jpg
 bio: Geógrafo desarrollador. Ldo. en Geografía por la Universidad de Sevilla. Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. Máster en Ordenación y Gestión del Desarrollo Territorial y Local. 
 interests:
