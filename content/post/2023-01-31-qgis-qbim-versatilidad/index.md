@@ -17,7 +17,7 @@ image:
   preview_only: false
 ---
 
-### Introducción
+## Introducción
 
 Un amigo gerente de una pequeña empresa de reforma de viviendas,
 [jslivingspaces.com](https://jslivingspaces.com),
@@ -37,7 +37,7 @@ delineación con QGIS convirtiéndolo en un **Quantum Building Information Syste
 
 A continuación os explico mi experiencia con este trabajo.
 
-### Sistema de referencia
+## Sistema de referencia
 
 El software CAD devuelve el diseño de sus elementos en una interfície
 ortogonal y perfectamente plana. QGIS devuelve sus elementos en una
@@ -49,7 +49,7 @@ para digitalizar elementos planos como en CAD.
 
 * Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm.
 
-### Herramientas de delineación
+## Herramientas de delineación
 
 QGIS aporta herramientas de deliniación que vienen instaladas de origen.
 A éstas les acompaña un soporte avanzado de digitalización (Imagen 1).
@@ -64,7 +64,7 @@ sino que con continuar digitalizando con la herramienta de origen será
 suficiente. Esto le da un respiro y se recupera para poder volver a
 dibujar sin devolver ningún error. Es como si se arreglara él solo.
 
-### Opciones de ajuste
+## Opciones de ajuste
 
 Las opciones de ajuste, llamados también encages (snaps en CAD) son de
 vital importancia. Si cuatro líneas no encajan y no cierran, no puedes
@@ -74,7 +74,7 @@ los elementos ni ajustando sus settings.
 Para que no recaigan cientos de errores de una sola vez, lo mejor es
 verificar la topologia cada 10-15 minutos mientras de digitaliza.
 
-### Atributos de elemento y GroupState
+## Atributos de elemento y GroupState
 
 Una buena asignación de atributos y datos permitirá hacer con GroupState
 una explotación numérica y alfanumérica eficiente, correcta y valuosa de
@@ -86,40 +86,27 @@ Ejemplos de tablas:
 
 *Línea (cable electricidad)*
 
-  ----------------------------------------------------------------------------------------------------------------
-  **ID**   **Length**   **Material**   **Proveedor**   **mm2**   **Amp**   **Altura-h**   **Altura-z**   **€/m**
-  -------- ------------ -------------- --------------- --------- --------- -------------- -------------- ---------
-  1        25,2         Cobre          Electro, S.A    2,5       4         1,65           168,85         1,55
-
-  2        35,8         Oro            Electro, S.A    3         15        2              170,85         30
-
-  ...      ...          ...            ...             ...       ...       ...            ...            ...
-  ----------------------------------------------------------------------------------------------------------------
+**ID**   | **Length**   | **Material**   | **Proveedor**   | **mm2**   | **Amp**   | **Altura-h**   | **Altura-z**   | **€/m**
+-------- | ------------ | -------------- | --------------- | --------- | --------- | -------------- | -------------- | ---------
+1        | 25,2         | Cobre          | Electro, S.A    | 2,5       | 4         | 1,65           | 168,85         | 1,55
+2        | 35,8         | Oro            | Electro, S.A    | 3         | 15        | 2              | 170,85         | 30
+...      | ...          | ...            | ...             | ...       | ...       | ...            | ...            | ...
 
 *Polígono (pladur)*
 
-  ------------------------------------------------------------------------------------------------------------------------------
-  **ID**   **Length**   **Width**   **Material**   **Proveedor**   **m2**   **Altura-h**   **Altura-z**   **gr/m2**   **€/m2**
-  -------- ------------ ----------- -------------- --------------- -------- -------------- -------------- ----------- ----------
-  1        5,2          3,5         Cobre          Calefacta, S.A  18,2     2,20           172,00         2.500       22
-
-  2        3,5          2           Cobre          Calefacta, S.A  7        2,20           172,00         2.500       22
-
-  ...      ...          ...         ...            ...             ...      ...            ...            ...         ...
-  ------------------------------------------------------------------------------------------------------------------------------
+**ID**   | **Length**   | **Width**   | **Material**   | **Proveedor**   | **m2**   | **Altura-h**   | **Altura-z**   | **gr/m2**   | **€/m2**
+-------- | ------------ | ----------- | -------------- | --------------- | -------- | -------------- | -------------- | ----------- | ----------
+1        | 5,2          | 3,5         | Cobre          | Calefacta, S.A  | 18,2     | 2,20           | 172,00         | 2.500       | 22
+2        | 3,5          | 2           | Cobre          | Calefacta, S.A  | 7        | 2,20           | 172,00         | 2.500       | 22
+...      | ...          | ...         | ...            | ...             | ...      | ...            | ...            | ...         | ...
 
 *Punto (punto de luz, mecanismos):*
 
-  ----------------------------------------------------------------------------------
-  **ID**        **Tipo**      **Proveedor**   **Amp**   **Altura-h**   **€/unit**
-  ------------- ------------- --------------- --------- -------------- -------------
-  1             Enchufe 10A   Calefacta, S.A  10        0,65           3,00
-
-  2             Enchufe 25A   Calefacta, S.A  25        0,95           5,00
-
-  ...           ...           ...             ...       ...            ...
-  ----------------------------------------------------------------------------------
-
+**ID**        | **Tipo**      | **Proveedor**   | **Amp**   | **Altura-h**   | **€/unit**
+------------- | ------------- | --------------- | --------- | -------------- | -------------
+1             | Enchufe 10A   | Calefacta, S.A  | 10        | 0,65           | 3,00
+2             | Enchufe 25A   | Calefacta, S.A  | 25        | 0,95           | 5,00
+...           | ...           | ...             | ...       | ...            | ...
 
 ## Elementos SVG
 
