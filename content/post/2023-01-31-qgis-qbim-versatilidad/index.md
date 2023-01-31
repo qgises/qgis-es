@@ -2,12 +2,12 @@
 title: 'QBIS: Quantum Building Information System'
 authors: 
   - miquel-pujol
-summary: Usando QGIS como software BIM (Building Information Modeling)
+summary: 'Usando QGIS como software BIM (Building Information Modeling)'
 draft: FALSE
 featured: true
 date: 2023-01-31T18:00:00.000Z
 categories:
-  - Manual
+  - Documentación
 tags:
   - BIM
   - QGIS
@@ -17,7 +17,7 @@ image:
   preview_only: false
 ---
 
-## Introducción
+### Introducción
 
 Un amigo gerente de una pequeña empresa de reforma de viviendas,
 [jslivingspaces.com](https://jslivingspaces.com),
@@ -37,7 +37,7 @@ delineación con QGIS convirtiéndolo en un **Quantum Building Information Syste
 
 A continuación os explico mi experiencia con este trabajo.
 
-## Sistema de referencia
+### Sistema de referencia
 
 El software CAD devuelve el diseño de sus elementos en una interfície
 ortogonal y perfectamente plana. QGIS devuelve sus elementos en una
@@ -49,7 +49,7 @@ para digitalizar elementos planos como en CAD.
 
 * Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm.
 
-## Herramientas de delineación
+### Herramientas de delineación
 
 QGIS aporta herramientas de deliniación que vienen instaladas de origen.
 A éstas les acompaña un soporte avanzado de digitalización (Imagen 1).
@@ -64,7 +64,7 @@ sino que con continuar digitalizando con la herramienta de origen será
 suficiente. Esto le da un respiro y se recupera para poder volver a
 dibujar sin devolver ningún error. Es como si se arreglara él solo.
 
-## Opciones de ajuste
+### Opciones de ajuste
 
 Las opciones de ajuste, llamados también encages (snaps en CAD) son de
 vital importancia. Si cuatro líneas no encajan y no cierran, no puedes
@@ -74,7 +74,7 @@ los elementos ni ajustando sus settings.
 Para que no recaigan cientos de errores de una sola vez, lo mejor es
 verificar la topologia cada 10-15 minutos mientras de digitaliza.
 
-## Atributos de elemento y GroupState
+### Atributos de elemento y GroupState
 
 Una buena asignación de atributos y datos permitirá hacer con GroupState
 una explotación numérica y alfanumérica eficiente, correcta y valuosa de
@@ -143,9 +143,3 @@ QGIS es un software con una versatilidad abrumadora. Es una mezcla de
 CAD, Acces y Photoshop. La persona que crea que solo sirve para la
 geografía, va muy errada. A todo delineante u otro profesional que tenga
 conocimientos de QGIS le animo a probar su uso con la arquitectura.
-
-Atentamente,
-
-**Miquel Pujol Garcia**
-
-miquel@adverbiodelugar.international
