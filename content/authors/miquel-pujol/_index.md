@@ -6,9 +6,17 @@ title: Miquel Pujol Garcia
 role: Global Brand Manager
 bio: 48 años disfrutados ya. Siempre me ha gustado dibujar... y también los mapas.
 avatar_filename: avatar.jpg
+education:
+  courses:
+    - course: FPI Electricidad-Electrónica
+    - course: Grado Superior en Administración de Sistemas Informáticos
+    - course: FPII Delineación Industrial - Construcción
+    - course: Máster SIG por la Universitat de Girona
 interests:
-  - BIM
-  - Arqueología
+  - QGIS
+  - PostGIS
+  - Comercio electrónico
+  - Marketing
   - Urbanismo
 organizations:
   - name: Sitio.place
