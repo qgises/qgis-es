@@ -19,9 +19,8 @@ image:
 
 ## Introducción
 
-Un amigo gerente de una pequeña empresa de reforma de viviendas,
-[jslivingspaces.com](https://jslivingspaces.com),
-me ofreció hacer la documentación gráfica de un piso de grandes
+Una pequeña empresa de reforma de viviendas me ofreció confeccionar
+la documentación gráfica de un piso de grandes
 dimensiones -350 m2- de Barcelona. Esto incluía los planos del estado
 actual y los que necesitan los industriales para realizar la reforma:
 derribos, nueva construcción, nueva distribución, mobiliario,
@@ -35,6 +34,8 @@ los trabajos que realizo en la administración pública y los de
 desarrollo de mis productos, me dispuse a hacer todo el trabajo de
 delineación con QGIS convirtiéndolo en un **Quantum Building Information System**
 
+![Captura de Pantalla.png](Captura_de_Pantalla_2023-02-01_a_les_16.23.23.png)
+
 A continuación os explico mi experiencia con este trabajo.
 
 ## Sistema de referencia
@@ -43,20 +44,20 @@ El software CAD devuelve el diseño de sus elementos en una interfície
 ortogonal y perfectamente plana. QGIS devuelve sus elementos en una
 interfície que simula la curvatura de la tierra gracias a la asignación
 de los sistemas de referencia y sus proyecciónes. Esto hace que se
-dibuje el objeto con una deformación[1] que no es correcta para la
+dibuje el objeto con una deformación[^1] que no es correcta para la
 arquitectura. Por este motivo establecí `NO CRS`, _unknown/non-Earth projection_,
 para digitalizar elementos planos como en CAD.
 
-[1]:"Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm."
+[^1]:"Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm."
 
 ## Herramientas de delineación
 
 QGIS aporta herramientas de deliniación que vienen instaladas de origen.
-A éstas les acompaña un soporte avanzado de digitalización (Imagen 1).
+A éstas les acompaña un soporte avanzado de digitalización como se muestra en la imagen de más abajo.
 Éstas herramientas permiten hacer todas las operaciones de dibujo pero
 QGIS permite además añadir más herramientas mediante sus plugins.
 
-![Imagen 1 - Soporte Avanzado de digitalización en QGIS](image1.png)
+![Soporte Avanzado de digitalización en QGIS](image1.png)
 
 Para digitalizar elementos, el plugin [QAD](https://plugins.qgis.org/plugins/qad/) será útil aunque se cuelga y desobedece si se le atosiga con un seguido cambio de datos a insertar.
 Cuándo esto sucede, no se necesita cerrar y abrir de nuevo el programa,
@@ -73,6 +74,8 @@ los elementos ni ajustando sus settings.
 
 Para que no recaigan cientos de errores de una sola vez, lo mejor es
 verificar la topologia cada 10-15 minutos mientras de digitaliza.
+
+![Captura de pantalla de QGIS](Captura_de_Pantalla_2023-02-01_a_les_16.26.44.png)
 
 ## Atributos de elemento y GroupState
 
@@ -134,20 +137,10 @@ conocimientos de QGIS le animo a probar su uso con la arquitectura.
 
 ## Resultados
 
-Aquí tenéis los resultados:
+Aquí tenéis parte de los planos finales:
 
-![Distribucion Original](001-Distribucion-Original-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+![001 Distribucion Original](001-Distribucion-Original-Balmes-454-5-1_no-logo.jpg)
 
-![Derribos Desmontage](002-Derribos-Desmontage-Balmes-454-5-1_pages-to-jpg-0001.jpg)
+![002 Derribos-Desmontage](002-Derribos-Desmontage-Balmes-454-5-1_no-logo.jpg)
 
-![Nueva Construccion](003-Nueva-Construccion-Balmes-454-5-1_pages-to-jpg-0001.jpg)
-
-![Distribucion Mobiliario](004-Distribucion-Mobiliario-Balmes-454-5-1_page-0001.jpg)
-
-![Electricidad Iluminacion](005-1-Electricidad-Iluminacion-Balmes-454-5-1_page-0001.jpg)
-
-![Agua](006-Agua-Balmes-454-5-1_pages-to-jpg-0001.jpg)
-
-![Climatización](007-Climatización-Balmes-454-5-1_page-0001.jpg)
-
-![Alzado](008-Alzado-A-Balmes-454-5-1_page-0001.jpg)
+![003 Nueva Construccion](003-Nueva-Construccion-Balmes-454-5-1_no-logo.jpg)
