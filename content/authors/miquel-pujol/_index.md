@@ -5,7 +5,7 @@ authors:
 title: Miquel Pujol Garcia
 role: Global Brand Manager
 bio: 48 años disfrutados ya. Siempre me ha gustado dibujar... y también los mapas.
-avatar_filename: miquel-pujol-garcia.jpg
+avatar_filename: avatar.jpg
 interests:
   - BIM
   - Arqueología
