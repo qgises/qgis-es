@@ -43,11 +43,11 @@ El software CAD devuelve el diseño de sus elementos en una interfície
 ortogonal y perfectamente plana. QGIS devuelve sus elementos en una
 interfície que simula la curvatura de la tierra gracias a la asignación
 de los sistemas de referencia y sus proyecciónes. Esto hace que se
-dibuje el objeto con una deformación* que no es correcta para la
-arquitectura. Por este motivo establecí `NO CRS` (o *unknown/non-Earth projection*)
+dibuje el objeto con una deformación[1] que no es correcta para la
+arquitectura. Por este motivo establecí `NO CRS`, _unknown/non-Earth projection_,
 para digitalizar elementos planos como en CAD.
 
-* Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm.
+[1]:"Cabe decir que la diferencia de longitud de una misma línea medida en cota cartesiana (sin CRS) o cota geográfica (con CRS ETRS89 UTM 31N) es de 3cm."
 
 ## Herramientas de delineación
 
@@ -77,14 +77,14 @@ verificar la topologia cada 10-15 minutos mientras de digitaliza.
 ## Atributos de elemento y GroupState
 
 Una buena asignación de atributos y datos permitirá hacer con GroupState
-una explotación numérica y alfanumérica eficiente, correcta y valuosa de
+una explotación numérica y alfanumérica eficiente, correcta y valiosa de
 nuestros elementos digitalizados. Con ello podremos crear la
 documentación escrita del proyecto: memorias, presupuestos, listados de
 material, mediciones.
 
 Ejemplos de tablas:
 
-*Línea (cable electricidad)*
+### Línea (cable electricidad)
 
 **ID**   | **Length**   | **Material**   | **Proveedor**   | **mm2**   | **Amp**   | **Altura-h**   | **Altura-z**   | **€/m**
 -------- | ------------ | -------------- | --------------- | --------- | --------- | -------------- | -------------- | ---------
@@ -92,7 +92,7 @@ Ejemplos de tablas:
 2        | 35,8         | Oro            | Electro, S.A    | 3         | 15        | 2              | 170,85         | 30
 ...      | ...          | ...            | ...             | ...       | ...       | ...            | ...            | ...
 
-*Polígono (pladur)*
+### Polígono (pladur)
 
 **ID**   | **Length**   | **Width**   | **Material**   | **Proveedor**   | **m2**   | **Altura-h**   | **Altura-z**   | **gr/m2**   | **€/m2**
 -------- | ------------ | ----------- | -------------- | --------------- | -------- | -------------- | -------------- | ----------- | ----------
@@ -100,13 +100,14 @@ Ejemplos de tablas:
 2        | 3,5          | 2           | Cobre          | Calefacta, S.A  | 7        | 2,20           | 172,00         | 2.500       | 22
 ...      | ...          | ...         | ...            | ...             | ...      | ...            | ...            | ...         | ...
 
-*Punto (punto de luz, mecanismos):*
+### Punto (punto de luz, mecanismos)
 
 **ID**        | **Tipo**      | **Proveedor**   | **Amp**   | **Altura-h**   | **€/unit**
 ------------- | ------------- | --------------- | --------- | -------------- | -------------
 1             | Enchufe 10A   | Calefacta, S.A  | 10        | 0,65           | 3,00
 2             | Enchufe 25A   | Calefacta, S.A  | 25        | 0,95           | 5,00
 ...           | ...           | ...             | ...       | ...            | ...
+
 
 ## Elementos SVG
 
@@ -118,15 +119,15 @@ Debo perfeccionarlos en su grueso y añadir elementos para ampliar leyendas.
 
 ## Vistas guardadas y Atlas
 
-Qué fácil es editar los planos con las vistas guardadas y Atlas.
+¡Qué fácil es editar los planos con las vistas guardadas y Atlas!
 
 Ten presente que para cada plano es necesario crear su grupo de capas
 con las respectivas capas necesarias y a la vez salvar su vista para
-después poderla aplicar al Atlas con el plano correspondiente. Su llevas
+después poderla aplicar al Atlas con el plano correspondiente. Si llevas
 un buen orden de capas y de su nomenclatura verás que es de una alta
 eficiencia.
 
-QGIS es un software con una versatilidad abrumadora. Es una mezcla de
+**QGIS es un software con una versatilidad abrumadora**. Es una mezcla de
 CAD, Acces y Photoshop. La persona que crea que solo sirve para la
 geografía, va muy errada. A todo delineante u otro profesional que tenga
 conocimientos de QGIS le animo a probar su uso con la arquitectura.
