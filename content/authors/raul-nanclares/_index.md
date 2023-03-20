@@ -12,7 +12,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/rnanclares
-email: raulnanclares@gmail.com
+  - icon: mastodon
+    icon_pack: fab
+    link: https://fosstodon.org/@rnanclares
+education:
+  courses:
+    - course: Máster en Tecnologías de la Información Geográfica
+      institution: Universidad de Alcalá de Henares
+      year: 2009
+email: rnanclares.ctuw8@slmail.me
 user_groups:
   - Junta directiva
 ---
