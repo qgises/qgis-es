@@ -17,5 +17,5 @@ social:
     link: http://github.com/qgises/
 email: ""
 user_groups:
-  - Junta directiva
+  - Socios
 ---

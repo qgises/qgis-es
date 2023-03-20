@@ -20,7 +20,7 @@ social:
     link: https://github.com/sigdeletras
 email: pasoriano@gmail.com
 user_groups:
-  - Socios
+  - Junta directiva
 ---
 
 Geógrafo “Full-stack” especializado en Tecnologías de Información Geográfica y geoinquieto 'cordobé'.

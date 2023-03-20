@@ -31,7 +31,7 @@ education:
       institution: Universidad de Alcalá
 superuser: false
 user_groups:
-  - Junta directiva
+  - Socios
 ---
 Consultor externo experto en TI - Análisis Geoespacial - \[JRC- Unidad  de suelos - Comisión Europea]. Integración de datos geográficos, interoperabilidad de datos y servicios, tratamiento de datos geoespaciales y geoestadísticos. 
 

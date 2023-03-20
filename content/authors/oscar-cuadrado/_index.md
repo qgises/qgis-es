@@ -29,7 +29,7 @@ social:
     icon: researchgate
 email: catastro@coordina2.com
 user_groups:
-  - Junta directiva
+  - Socios
 ---
 Soy Ingeniero en Geodesia y Cartografía por la USAL, así como Máster en Geotecnologías Cartográficas.
 

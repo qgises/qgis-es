@@ -46,7 +46,7 @@ education:
       year: 1993
 email: guspresa@gmail.com
 user_groups:
-  - Junta directiva
+  - Socios
 ---
 
 Soy licenciado en Geografía e Historia (especialidad, Geografía, promoción 1988-1993), y
