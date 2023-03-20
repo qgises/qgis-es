@@ -3,7 +3,7 @@ superuser: false
 authors:
   - patricio-soriano
 title: Patricio Soriano Castro
-role: Socio de QGIS España
+role: Vocal
 bio: Geógrafo y Desarrollador Web
 social:
   - icon: twitter
