@@ -3,7 +3,7 @@ superuser: false
 authors:
   - josep-lluis-sala
 title: Josep Lluís Sala
-role: Vocal
+role: Secretaría
 avatar_filename: avatar.jpg
 bio: ""
 social:
@@ -46,5 +46,5 @@ Socio director de [BGEO OPEN GIS, SL](https://www.bgeo.es/):
 
 Tesorero de la [GISWATER ASSOCIATION](https://www.giswater.org/)
 
-Delegado del Vallès Oriental y vocal del [Col.legi d’Aparelladors,
-Arquitectes tècnics i Enginyers d’Edificació de Barcelona](https://www.apabcn.cat)
+Delegado del Vallès Oriental y vocal del [Col.legi de l'Arquitectura Tècnica
+de Barcelona](https://www.cateb.cat)
