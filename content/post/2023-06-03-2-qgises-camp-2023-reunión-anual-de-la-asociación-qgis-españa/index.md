@@ -1,7 +1,7 @@
 ---
 title: 2º QGISes Camp 2023, reunión anual de la Asociación QGIS España (13 de junio de 2023)
 subtitle: 
-date: 2023-06-13T07:00:00.000Z
+date: 2023-06-03T07:00:00.000Z
 summary: Información sobre la 2º reunión anual de la Asociación QGIS España que se realizará en Girona el 13 de junio de 2023
 draft: false
 featured: true
