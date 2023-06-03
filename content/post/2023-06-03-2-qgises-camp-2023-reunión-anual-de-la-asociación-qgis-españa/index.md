@@ -38,7 +38,7 @@ Aprovecharemos también  para hacer presentación de la Asociación para las per
 
 Nos veremos el 13 de junio de 2023 de 17h a 20h en el aula A1 de la Facultad de Letras de la Universidad de Girona. 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.8265307018638235%2C41.983946337495745%2C2.829215593087731%2C41.98535990653521&amp;layer=mapnik&amp;marker=41.98465312593855%2C2.8278731474757706" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.98465&amp;mlon=2.82787#map=19/41.98465/2.82787">Ver mapa más grande</a></small>
+<iframe width="90%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.8265307018638235%2C41.983946337495745%2C2.829215593087731%2C41.98535990653521&amp;layer=mapnik&amp;marker=41.98465312593855%2C2.8278731474757706" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.98465&amp;mlon=2.82787#map=19/41.98465/2.82787">Ver mapa más grande</a></small>
 
 Habrá un *coffee-break* a las 18h de unos 20 minutos.
 
