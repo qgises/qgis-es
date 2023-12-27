@@ -1,22 +1,21 @@
 ---
-title: Participación en la GeoCamp 2023
-subtitle: 
-date: 2023-12-27T14:00:00.000Z
-summary: Información sobre la GeoCamp 2023 que se celebró en Vigo el 30 de septiembre de 2023
-draft: false
-featured: true
+title: 'Participación en la GeoCamp 2023'
 authors:
   - carmen-diez
+summary: 'Información sobre la GeoCamp 2023 que se celebró en Vigo el 30 de septiembre de 2023'
+draft: FALSE
+featured: true
+date: 2023-12-27T14:00:00.000Z
+categories:
+  - Noticias
 tags:
   - QGIS
   - GeoCamp
   - actividad
-categories:
-  - Noticias
 image:
   filename: logo-geocamp-2023.png
-  focal_point: TOPRIGHT
-  preview_only: true
+  focal_point: Smart
+  preview_only: false
 ---
 
 ## GeoCamp ES
