@@ -22,7 +22,7 @@ image:
 
 ## Publicada la Segunda Edición del Libro "Introducción a los Sistemas de Información Geográfica con QGIS" de Federico Gazaba
 
-Una pregunta recurrente en redes sociales es __¿Dónde puedo encontrar un manual para aprender a usar QGIS?__ o ¿Cómo puedo iniciarme en el uso de los Sistemas de Información Geográfica (SIG)? Hace aproximadamente 3 años __Federico Gazaba__  publicaba la pimera versión de su libro _"Introducción a los Sistemas de Información Geográfica con QGIS"_ un manual que en su momento fue de referencia obligada para los usuarios de QGIS en habla hispana pero que con el paso del tiempo había quedado desactualizado debido a la aparición de nuevas versiones de QGIS.
+Una pregunta recurrente en redes sociales es __¿Dónde puedo encontrar un manual para aprender a usar QGIS?__ o ¿Cómo puedo iniciarme en el uso de los Sistemas de Información Geográfica (SIG)? Hace aproximadamente 3 años __Federico Gazaba__  publicaba la pimera versión de su libro _"Introducción a los Sistemas de Información Geográfica con QGIS"_ un manual que en su momento fue de referencia obligada para las personas usuarias de QGIS en habla hispana pero que con el paso del tiempo había quedado desactualizado debido a la aparición de nuevas versiones de QGIS.
 
 Recientemente el autor nos comentaba que se estaba preparando una actualización de libro y no nos ha hecho esperar mucho, el 22 de Febrero nos anunciaba en el canal de Telegram de QGIS en español que la versión 2.0 había sido publicada: _"Hola amigos #geoinquietos !. Lo prometido es deuda, les traigo la versión 2.0 de mi libro libre "Introducción a los Sistemas de Información Geográfica con QGIS". Esta versión actualiza los contenidos de la versión anterior a QGIS 3.34 Prizren.".
 
