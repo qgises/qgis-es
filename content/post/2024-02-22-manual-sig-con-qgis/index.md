@@ -2,7 +2,7 @@
 title: 'Publicación del libro Introducción a los Sistemas de Información Geográfica con QGIS'
 authors:
   - raul-nanclares
-summary: 'Publicación de la segunda edición del libro "Introducción a los Sistemas de Información Geográfica con QGIS" de Federico Gazaba, un manual de autoaprendizaje para aprende SIG usando QGIS '
+summary: 'Publicación de la segunda edición del libro "Introducción a los Sistemas de Información Geográfica con QGIS" de Federico Gazaba, un manual de autoaprendizaje para aprender SIG usando QGIS '
 draft: FALSE
 featured: true
 date: 2024-02-22T22:00:00.000Z
@@ -15,7 +15,7 @@ tags:
   - Tutorial
   - Aprendizaje
 image:
-  filename: portada_libro_fgazaba.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
@@ -30,7 +30,7 @@ El libro ha sido publicado bajo la licencia __CC BY-SA 4.0__ lo que permite que 
 
 Este libro es otro ejemplo que demuestra que los proyectos de software libre y open source permiten compartir y colaborar en este tipo de iniciativas donde podemos participar de forma activa y generar grandes sinergias en sus aplicaciones y desarrollos en beneficio, tanto de las comunidades que las desarrollan como las que las usan.
 
-Federico Gazaba es profesor de Matemáticas y Técnico Maestro Mayor de Obras y actualmente es docente en el Instituto de Formación Docente y Técnica 122  "Presidente Illia" de Pergamino (Provincia de Buenos Aires, Argentina) y Director de Sistemas de Información Georreferenciada de la Municipalidad de Pergamino. Desde el año de 2013 es usuario de QGIS y es un entusiasta del las tecnologías libres y de los datos espaciales abiertos. La creación del manual nace de la necesidad de impartir cursos de QGIS a sus compañeros de municipalidad y es el resultado de la sistematización de esas enseñanzas. Desde 2016, de forma ininterrumpida, imparte cursos introductorios a los SIG para diferentes instituciones.
+Federico Gazaba es profesor de Matemáticas y Técnico Maestro Mayor de Obras y actualmente es docente en el Instituto de Formación Docente y Técnica 122  "Presidente Illia" de Pergamino (Provincia de Buenos Aires, Argentina) y Director de Sistemas de Información Georreferenciada de la Municipalidad de Pergamino. Desde el año de 2013 es usuario de QGIS y es un entusiasta del las tecnologías libres y de los datos espaciales abiertos. La creación del manual nace de la necesidad de impartir cursos de QGIS a sus colegas de municipalidad y es el resultado de la sistematización de esas enseñanzas. Desde 2016, de forma ininterrumpida, imparte cursos introductorios a los SIG para diferentes instituciones.
 
 Puedes seguir a Federico en la siguientes redes sociales:
 
