@@ -28,6 +28,8 @@ Recientemente el autor nos comentaba que se estaba preparando una actualización
 
 El libro ha sido publicado bajo la licencia __CC BY-SA 4.0__ lo que permite que sea compartido o modificado, para cualquier proposito, con libertad mientras se respete la atribución al autor y se comparta con la misma licencia. Se puede descargar [aquí](https://drive.google.com/file/d/1n6-s4DOiSnZmPf0_FPAyWWCyavLgB3_m/view?usp=drive_link) o [aquí](https://github.com/federicogazaba/introduccion-a-los-sig-con-qgis/releases) el repositorio del libro se puede encontrar en [GitHub](https://github.com/federicogazaba/introduccion-a-los-sig-con-qgis)
 
+Este libro es otro ejemplo que demuestra que los proyectos de software libre y open source permiten compartir y colaborar en este tipo de iniciativas donde podemos participar de forma activa y generar grandes sinergias en sus aplicaciones y desarrollos en beneficio, tanto de las comunidades que las desarrollan como las que las usan.
+
 Federico Gazaba es profesor de Matemáticas y Técnico Maestro Mayor de Obras y actualmente es docente en el Instituto de Formación Docente y Técnica 122  "Presidente Illia" de Pergamino (Provincia de Buenos Aires, Argentina) y Director de Sistemas de Información Georreferenciada de la Municipalidad de Pergamino. Desde el año de 2013 es usuario de QGIS y es un entusiasta del las tecnologías libres y de los datos espaciales abiertos. La creación del manual nace de la necesidad de impartir cursos de QGIS a sus compañeros de municipalidad y es el resultado de la sistematización de esas enseñanzas. Desde 2016, de forma ininterrumpida, imparte cursos introductorios a los SIG para diferentes instituciones.
 
 Puedes seguir a Federico en la siguientes redes sociales:
