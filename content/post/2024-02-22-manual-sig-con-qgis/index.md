@@ -5,7 +5,7 @@ authors:
 summary: 'Publicación de la segunda edición del libro "Introducción a los Sistemas de Información Geográfica con QGIS" de Federico Gazaba, un manual de autoaprendizaje para aprender SIG usando QGIS '
 draft: FALSE
 featured: true
-date: 2024-02-22T22:00:00.000Z
+date: 2024-02-22T20:00:00.000Z
 categories:
   - Noticias
 tags:
