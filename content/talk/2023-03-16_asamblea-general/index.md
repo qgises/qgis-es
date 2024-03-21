@@ -34,7 +34,7 @@ image:
   caption: ""
   focal_point: Right
   placement: 2
-  filename: featured.jpg
+  filename: featured.png
   preview_only: false
 url_code: ""
 ---
