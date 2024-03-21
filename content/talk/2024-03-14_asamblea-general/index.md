@@ -19,7 +19,7 @@ links:
     icon_pack: far
     name: Ver acta
     url: ./talk/2024-03-14_asamblea-general/20240314_asamblea_general.pdf
-publishDate: 2024-03-21T17:06:00.409Z
+publishDate: 2024-03-21T11:06:00.409Z
 featured: true
 url_slides: ""
 address:
