@@ -3,7 +3,7 @@ superuser: false
 authors:
   - jana-perez
 title: Jana Pérez Ruiz
-role: Vocal
+role:
 avatar_filename: avatar.jpg
 bio: "Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales"
 interests:
@@ -22,7 +22,7 @@ social:
     link: http://github.com/qgises/
 email: ""
 user_groups:
-  - Junta directiva
+  - Socios
 ---
 
 Soy Licenciada en Náutica y Transporte Marítimo y Máster en Comercio Exterior, Transporte y Comunicaciones Internacionales por la Universidad de Cantabria.

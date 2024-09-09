@@ -3,7 +3,7 @@ superuser: false
 authors:
   - carlospsig
 title: Carlos López Quintanilla
-role: Presidencia
+role: Tesorería
 bio: Consultor SIG
 social:
   - icon: envelope

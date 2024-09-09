@@ -3,7 +3,7 @@ superuser: false
 authors:
   - carmen-diez
 title: Carmen Diez
-role: Tesorería
+role: Presidencia
 avatar_filename: avatar.jpg
 bio: Licenciada en Ingeniería Civil y Máster en Ingeniería Ambiental y Gestión
   del Agua e involucrada desde hace años en grupos y asociaciones FOSS ligados a

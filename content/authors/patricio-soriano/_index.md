@@ -3,7 +3,7 @@ superuser: false
 authors:
   - patricio-soriano
 title: Patricio Soriano Castro
-role: Vocal
+role:
 bio: Geógrafo y Desarrollador Web
 social:
   - icon: twitter
@@ -20,7 +20,7 @@ social:
     link: https://github.com/sigdeletras
 email: pasoriano@gmail.com
 user_groups:
-  - Junta directiva
+  - Socios
 ---
 
 Geógrafo “Full-stack” especializado en Tecnologías de Información Geográfica y geoinquieto 'cordobé'.
