@@ -1,8 +1,11 @@
 ---
+superuser: false
+authors:
+  - ubalma-gis
 title: Ubalma GIS
 role: Empresa
 avatar_filename: avatar.png
-bio: Sistema de Información Geográfica Asturias
+bio: Sistemas de Información Geográfica Asturias
 social:
   - link: https://ubalmagis.com
     icon_pack: fas
