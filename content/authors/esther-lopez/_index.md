@@ -4,7 +4,7 @@ authors:
   - esther-lopez
 title: Esther López Pérez
 role: Vocal
-avatar_filename: avatar.jpg
+avatar_filename: 
 bio:
 social:
   - icon: envelope
