@@ -9,8 +9,8 @@ social:
   - icon: globe
     icon_pack: fas
     link: http://arasostenibilitat.es/
-  - icon_pack: fab
-    icon: linkedin
+  - icon: linkedin
+    icon_pack: fab:
     link: https://www.linkedin.com/company/arasostenibilitat/
 email: info@arasostenibilitat.es
 user_groups:
