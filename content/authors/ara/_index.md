@@ -7,10 +7,10 @@ role: Empresa
 bio: ""
 social:
   - icon: globe
-    icon_pack: fas
+    icon_pack: fab
     link: http://arasostenibilitat.es/
   - icon: linkedin
-    icon_pack: fab:
+    icon_pack: fab
     link: https://www.linkedin.com/company/arasostenibilitat/
 email: info@arasostenibilitat.es
 user_groups:
