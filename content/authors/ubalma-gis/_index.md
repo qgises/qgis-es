@@ -17,7 +17,7 @@ bio: ""
 social:
     - icon: envelope
       icon_pack: fas
-      link: info@ubalmagis.com
+      link: https://ubalmagis.com/#contacto
     - icon: globe
       icon_pack: fas
       link: https://ubalmagis.com/
@@ -26,7 +26,7 @@ social:
       link: https://es.linkedin.com/company/ubalma-soluciones-gis-y-consultoria-tecnica-sl
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "info@ubalmagis.com"
 
 user_groups:
 - Pequeños colectivos
