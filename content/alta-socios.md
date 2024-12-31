@@ -18,6 +18,6 @@ Para darte de alta como persona socia en la **Asociación QGIS España** únicam
 <!-- {{< typeform dMp0tK >}} -->
 
 
-[Enlace a formulario para asociarse a QGIS España](https://cloud.montera34.org/index.php/apps/forms/4j4CMbBry429FNHg)
+[Enlace a formulario para asociarse a QGIS España](https://cloud.montera34.org/index.php/apps/forms/s/FQqsZL6atPQworeJjMzmRqpP)
 
 Muchas gracias por tu interés
