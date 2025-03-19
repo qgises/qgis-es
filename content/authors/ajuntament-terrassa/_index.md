@@ -1,5 +1,5 @@
 ---
-title: Ayuntamiento de Terrassa
+title: Ajuntament de Terrassa
 authors:
 - ajuntament-terrassa
 role: Ayuntamiento
