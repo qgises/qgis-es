@@ -23,7 +23,7 @@ social:
     link: https://www.terrassa.cat/
 superuser: false
 user_groups:
-  - Pequeños colectivos
+  - Grandes colectivos
 ---
 
 Administración local de la ciudad de Terrassa, ubicada en la provincia de Barcelona, Cataluña.
