@@ -1,4 +1,4 @@
-30T0T--
+---
 title: Asamblea General del 12 Marzo de 2025
 abstract: Convocatoria ordinaria de la asamblea general de la asociación
 location: Online
@@ -18,7 +18,7 @@ links:
   - icon: file-pdf
     icon_pack: far
     name: Ver acta
-    url: ./talk/2025-03-12-asamblea-general/2025_03_12_Acta_Asamblea_General.pdf
+    url: ./talk/2025-03-12-asamblea-general/20250312_acta_asamblea_general.pdf
 publishDate: 2025-03-30T12:00:00.000Z
 featured: true
 url_slides: ""
