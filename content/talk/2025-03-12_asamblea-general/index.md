@@ -19,7 +19,7 @@ links:
     icon_pack: far
     name: Ver acta
     url: ./talk/2025-03-12_asamblea-general/20250312_acta_asamblea_general.pdf
-publishDate: 2025-03-30T12:00:00.000Z
+publishDate: 2025-03-29T12:00:00.000Z
 featured: true
 url_slides: ""
 address:
