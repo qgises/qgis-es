@@ -8,12 +8,9 @@ avatar_filename: avatar.jpg
 bio: Geógrafo. Experto en Ordenación del Territorio, Medio Ambiente y Sistemas de Información Geográfica. 
  
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/qgises
+    link: https://x.com/luquemu
   - icon: linkedin 
     icon_pack: fab
     link: https://www.linkedin.com/in/luisquesada/ 
