@@ -4,7 +4,7 @@ authors:
   - raul-nanclares
 title: Raúl Nanclares
 role: Vocal
-bio: Maestro en Tecnologías de la Información Geográfica por la UAH, Forestal UPM. Actualmente director de Inteligencia Gubernamental en el Gobierno de Jalisco (México).
+bio: Maestro en Tecnologías de la Información Geográfica por la UAH, Forestal UPM. Inteligencia Artificial, Teledetección, Data engeineering.
 social:
   - icon: linkedin
     icon_pack: fab
