@@ -22,4 +22,8 @@ user_groups:
   - Junta directiva
 ---
 
-Dirijo Geoinnova gracias a que tengo un maravilloso equipo y me junto con profesionales con los que seguir creciendo... Mis especialidades se centran en la dirección y coordinación de proyectos geográficos y ambientales (impacto ambiental, paisaje, ordenación del territorio, gestión de residuos, huellas de carbono, etc...) y en Sistemas de Información Geográfica. Lo que más me gusta de mi trabajo es el trato con las personas y saber que lo que hago ayuda un poquito, aunque sólo sea un ínfima parte de un poquitico, a dejar un planeta habitable para las siguientes generaciones. Busco honestidad y actitud en las personas que me rodean. Mi abuela siempre me decía que lo que no se sabe, se aprende, así que me paso la vida buscando nuevas formas de aprender y de transmitir lo que sé.
+Ha trabajado como técnico de impacto ambiental y encargado de los SIG en el área de Evaluación Ambiental de la Consellería de Medio Ambiente y Territorio de la Generalitat Valenciana (2003-2004) y en el grupo de Movilidad en el Instituto Interuniversitario de Desarrollo Local de la Universidad de Valencia como Técnico SIG (2005-2006).
+
+Socio fundador y presidente de la Asociación Geoinnova. Codirector de los Master en SIG de Geoinnova y del Laboratorio de Aplicaciones Geográficas y Ambientales de la Universidad de Valencia. Socio fundador y gerente de la consultora ambiental “Exit Geoconsult SL” (2006-2016), donde dirigió y coordinó diversos proyectos de índole geográfica (medio ambiente, ordenación territorial, paisaje, urbanismo, proyectos cartográficos y SIG).
+
+Actualmente, sigue desarrollando su actividad como Geógrafo Profesional desde Geoinnova, la cual preside y dirige desde el 2009. Desarrolla la estrategia de negocios y la coordinación de las diferentes áreas, la gestión de clientes, y la supervisión y evaluación de calidad de los proyectos.
