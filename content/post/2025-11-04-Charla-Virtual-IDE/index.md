@@ -12,8 +12,7 @@ draft: false
 
 Esta charla forma parte de una serie de eventos geoespaciales que se desarrollan dentro de la *Semana Geoespacial* y previas a la conferencia **IDE (Infraestructura de Datos Geoespaciales) de Chile**, que se celebrará el **4 de noviembre de 2025**. 
 
-Este webinar, en el que participaron casi sesenta (60) asistentes, fue impartido por **Ariel Anthieni** [1], CEO de Kan Territory & IT y presidente de **Geolibres Argentina** [2], junto con **Carmen Díez**, Técnico SIG de Urbanismo, y **Carlos López Quintanilla**, CEO de PSIG, ambos pertenecientes a la junta directiva de la **Asociación QGIS España** [3], encargados de la Presidencia y Tesorería, respectivamente.
-
+Este webinar, en el que participaron casi sesenta (60) asistentes, fue impartido por [Ariel Anthieni](https://kan.com.ar/), CEO de Kan Territory & IT y presidente de [Geolibres Argentina](https://geolibres.org.ar/), junto con **Carmen Díez**, Técnico SIG de Urbanismo, y **Carlos López Quintanilla**, CEO de PSIG, ambos pertenecientes a la junta directiva de la [Asociación QGIS España](https://www.qgis.es/), encargados de la Presidencia y Tesorería, respectivamente.
 ---
 
 <p align="center">
@@ -33,16 +32,16 @@ También se abordó el tema del *roadmap* entre QGIS 3 y QGIS 4, y se realizó u
 <p align="center">
   <img src="./IMA_20251104_2.jpg" alt="Demostración práctica en QGIS" width="75%">
   <br>
-  <em>Figura 2. Demostración práctica con datos de la IDE Chile en QGIS (fuente: Asociación QGIS España).</em>
+  <em>Demostración práctica con datos de la IDE Chile en QGIS (fuente: Asociación QGIS España).</em>
 </p>
 
 ---
 
-Se puede acceder tanto al **vídeo de la charla virtual** [4], disponible en el canal de YouTube de IDE Chile, como a la **presentación** [5] alojada en la plataforma de la Asociación QGIS España.  
+Se puede acceder tanto al [vídeo de la charla virtual](https://www.youtube.com/@IDECHILEMBN/videos), disponible en el canal de YouTube de IDE Chile, como a la [presentación](https://cloud.montera34.org/index.php/s/EgfjHPAqBWNxkkD) alojada en la plataforma de la Asociación QGIS España.  
 
 En ellos puedes encontrar información sobre la creación de la Asociación QGIS España en 2018 para apoyar el desarrollo de QGIS, que ahora cuenta con casi 100 miembros, incluyendo numerosas grandes y pequeñas empresas, y cómo contribuye económica y técnicamente al proyecto QGIS.  
 
-Se destaca la importancia de la divulgación del uso de QGIS y la resolución de dudas de los usuarios, mencionándose la posibilidad de asociarse a través del **formulario de inscripción** [6] en su web.  
+Se destaca la importancia de la divulgación del uso de QGIS y la resolución de dudas de los usuarios, mencionándose la posibilidad de asociarse a través del [formulario de inscripción](https://cloud.montera34.org/index.php/apps/forms/s/FQqsZL6atPQworeJjMzmRqpP) en su web.  
 
 También se ofrece información sobre objetivos, estatutos y cómo contactar con la Asociación y colaborar con QGIS:
 
@@ -52,14 +51,6 @@ También se ofrece información sobre objetivos, estatutos y cómo contactar con
 - [Certificaciones de formación de QGIS](https://www.qgis.org/community/certification/)
 - [Plataforma de certificación](https://certification.qgis.org/en/)
 
+
 ---
-
-### 🔗 Referencias
-
-[1] [Kan Territory & IT](https://kan.com.ar/)  
-[2] [Geolibres Argentina](https://geolibres.org.ar/)  
-[3] [Asociación QGIS España](https://www.qgis.es/)  
-[4] [Canal de YouTube de IDE Chile](https://www.youtube.com/@IDECHILEMBN/videos)  
-[5] [Presentación alojada en la nube de QGIS España](https://cloud.montera34.org/index.php/s/EgfjHPAqBWNxkkD)  
-[6] [Formulario de inscripción a la Asociación QGIS España](https://cloud.montera34.org/index.php/apps/forms/s/FQqsZL6atPQworeJjMzmRqpP)
 
