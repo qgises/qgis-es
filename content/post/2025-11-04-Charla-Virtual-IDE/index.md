@@ -17,7 +17,7 @@ Este webinar, en el que participaron casi sesenta (60) asistentes, fue impartido
 ---
 
 <p align="center">
-  <img src="./IMG_20241208_071141_190.jpg" alt="Participantes de la charla virtual" width="75%">
+  <img src="./IMG_20251104_1.jpg" alt="Participantes de la charla virtual" width="75%">
   <br>
   <em>Figura 1. Participantes de la charla virtual IDE Chile (fuente: Asociación QGIS España).</em>
 </p>
@@ -31,7 +31,7 @@ También se abordó el tema del *roadmap* entre QGIS 3 y QGIS 4, y se realizó u
 ---
 
 <p align="center">
-  <img src="./IMG_20241209_210640_365.jpg" alt="Demostración práctica en QGIS" width="75%">
+  <img src="./IMG_IMG_20251104_2.jpg" alt="Demostración práctica en QGIS" width="75%">
   <br>
   <em>Figura 2. Demostración práctica con datos de la IDE Chile en QGIS (fuente: Asociación QGIS España).</em>
 </p>
