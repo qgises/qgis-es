@@ -11,8 +11,11 @@ draft: false
 ---
 Esta charla forma parte de una serie de eventos geoespaciales que se desarrollan dentro de la *Semana Geoespacial* y son previas a la conferencia **IDE (Infraestructura de Datos Geoespaciales) de Chile**, que se celebrará el **4 de noviembre de 2025**. 
 
+<p style="font-size: 1em;">
+
 Este webinar, en el que participaron casi sesenta (60) asistentes, fue impartido por [Ariel Anthieni](https://kan.com.ar/), CEO de Kan Territory & IT y presidente de [Geolibres Argentina](https://geolibres.org.ar/), junto con **Carmen Díez**, Técnica SIG de Urbanismo, y **Carlos López Quintanilla**, CEO de PSIG, ambos pertenecientes a la junta directiva de la [Asociación QGIS España](https://www.qgis.es/), encargados de la Presidencia y Tesorería, respectivamente.
 
+</p>
 
 ---
 
