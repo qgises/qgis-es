@@ -15,34 +15,19 @@ role: Empresa
 # Short bio (displayed in user profile at end of posts)
 bio: Soluciones tecnológicas GIS y Smart Cities
 #
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
-#
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-
-# Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: globe
   icon_pack: fas
-  link: https://fisotec.es/
+  link: https://fisotecsolutions.com/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FISOTEC_GIS
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/fisotec-s.l./about/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,7 +46,8 @@ user_groups:
 
 <!-- corta y pega de su web -->
 
-En Fisotec nos dedicamos a la implantación de Sistemas de Información Geográfica de tipo Open Source, orientados a la gestión, mejora y optimización de recursos de las Smart Cities.
+FISOTEC es una compañía con más de 15 años de trayectoria ofreciendo soluciones tecnológicas y de consultoría operativa vinculadas al desarrollo de Sistemas de Información Geográfica (GIS), así como en entornos de infraestructuras y Smart Cities. Trabajamos con administraciones públicas y empresas de servicios en proyectos de inventario y digitalización de infraestructuras urbanas, apoyándonos en tecnologías GIS tanto propietarias como Open Source, destacando el uso de QGIS y QField para la captura y gestión eficiente de datos geoespaciales en campo.
 
+FISOTEC aspira a ser una empresa de referencia en el campo de la implantación de Sistemas de Información Geográfica a medida, prestación de servicios energéticos y Smart Cities, destacando por nuestra calidad de servicio y profesionalidad, todo ello a través de un equipo de profesionales motivados, comprometidos, cualificados y en constante formación. Actualmente desarrollamos soluciones avanzadas basadas en Mobile Mapping, nube de puntos, gemelos digitales e inteligencia artificial para la gestión inteligente de infraestructuras urbanas y territoriales.
 
 
