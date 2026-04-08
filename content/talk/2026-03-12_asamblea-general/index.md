@@ -2,7 +2,7 @@
 title: Asamblea General del 16 Marzo de 2026
 abstract: Acta de la asamblea general de la asociación
 location: Online
-date: 2025-03-12T19:00:00.000Z
+date: 2026-03-12T19:00:00.000Z
 all_day: false
 event: QGIS.es
 slides: ""
