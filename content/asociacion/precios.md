@@ -18,25 +18,25 @@ subtitle = "Para más información puedes ver nuestros [estatutos](../manuales/e
   icon = "building"
   icon_pack = "fas"
   name = "Categoría A: Grandes colectivos"
-  description = "350€"
+  description = "400€"
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
   name = "Categoría B: Pequeño colectivo"
-  description = "190€"  
+  description = "200€"  
   
 [[feature]]
   icon = "user"
   icon_pack = "fas"
   name = "Categoría C: Invidual"
-  description = "38€"
+  description = "40€"
 
 [[feature]]
   icon = "user-graduate"
   icon_pack = "fas"
   name = "Categoría D: Estudiante o jubilado"
-  description = "19€"
+  description = "20€"
 
 # Uncomment to use emoji icons.
 # [[feature]]
