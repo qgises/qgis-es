@@ -1,7 +1,7 @@
 ---
 title: ¿QGIS Camp España 2026? ¿Madrid o Granada?
 subtitle: Encuesta a la comunidad de usuarios/as de QGIS
-date: 2026-04-14T16:39:15.295Z
+date: 2026-04-14T16:51:20.676Z
 summary: Ante la no celebración este año de las Jornadas de SIG Libre de Girona,
   desde la Asociación QGIS España se quiere evitar que la comunidad de SIG Libre
   se quede sin su encuentro anual, por lo que se está valorando celebrar la QGIS
