@@ -26,7 +26,7 @@ La QGISCamp España, ante todo, un punto de encuentro. Un día para reencontrarn
 
 El aforo estará limitado a 70 personas (por el momento), por lo que la inscripción se realizará por orden de registro mediante el formulario al que se podrá acceder desde este [enlace](https://cloud.montera34.org/index.php/apps/forms/s/eDzYYwXQ3PWHPeRMAkLJFecZ).
 
-Si tienes claro que quieres venir, te recomendamos inscribirte en cuanto sea posible. 
+Si tienes claro que quieres venir, te recomendamos inscribirte en cuanto sea posible, sin embargo, si tienes dudas, mejor espera para no ocupar una plaza que puede ser ocupada por otra persona. 
 
 Gracias a todas las personas que habéis participado en la encuesta y habéis dado vuestra opinión. Este evento es vuestro también.
 
