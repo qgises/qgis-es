@@ -18,7 +18,7 @@ image:
 ---
 Hace unos días lanzamos una encuesta para decidir si se celebraba y en caso afirmativo, cómo y dónde celebrar la próxima QGISesCamp 2026. Queríamos escuchar a la comunidad, contrastar opciones y tomar la decisión con criterio compartido. Y eso es exactamente lo que ha pasado. 
 
-Tras analizar los resultados, desde la Junta de la Asociación QGIS España hemos decidido que finalmente la QGISCamp España 2026 se celebrará en Madrid, el día 13 de junio en la ETSI Agronómica, Alimentaria y Biosistemas.
+Tras analizar los resultados, desde la Junta de la Asociación QGIS España hemos decidido que finalmente la **QGISCamp España 2026 se celebrará en Madrid, el día 13 de junio en la ETSI Agronómica, Alimentaria y Biosistemas**, [Centro de Innovación en Tecnología para el Desarrollo itdUPM](https://maps.app.goo.gl/pFRVhAxgcsN4isMh6).  
 
 \=>[ **A﻿CCESO AL FORMULARIO DE INSCRIPCIÓN**](https://cloud.montera34.org/index.php/apps/forms/s/eDzYYwXQ3PWHPeRMAkLJFecZ)<=
 
@@ -28,6 +28,6 @@ La QGISCamp España es ante todo un punto de encuentro. Un día para reencontrar
 
 Si tienes claro que quieres venir, te recomendamos inscribirte en cuanto sea posible, sin embargo, si tienes dudas, mejor espera para no ocupar una plaza que puede ser ocupada por otra persona. 
 
-Gracias a todas las personas que habéis participado en la encuesta y habéis dado vuestra opinión. Este evento es vuestro también.
+Gracias a todas las personas que habéis participado en la encuesta y habéis dado vuestra opinión. Este evento es vuestro también. Seguiremos informándo, estad atentos.
 
 ¡Nos vemos en Madrid!
