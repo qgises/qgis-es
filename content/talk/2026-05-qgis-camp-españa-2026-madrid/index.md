@@ -18,7 +18,7 @@ publishDate: 2026-05-08T09:05:19.380Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://www.osgeo.org/wp-content/uploads/logo-geocamp-2023_740x412_acf_cropped-370x206.png
   focal_point: Smart
   preview_only: false
 ---
@@ -116,15 +116,16 @@ image:
 
 </p>
 
+<h3>Patrocinio</h3>
+
+<p>QGIS Camp España 2026 es solo posible gracias al esfuerzo de las empresas e instituciones. Si estás interesado en patrocinar el evento puedes descargarte nuestra <a href="https://www.qgis.es/post/2026-05-13-qgis-es-camp-patrocinadores/Guia_Patrocinio_QGIS_Camp_Espana_2026_Madrid_final.pdf">guía para patrocinadores</a></p>
+
 <h3>Próximas novedades</h3>
 
 <p>En las próximas semanas iremos anunciando el programa detallado, los ponentes confirmados y nuevas novedades sobre el evento.</p>
 
 <p><strong>¡Reserva la fecha y nos vemos en Madrid!</strong></p>
 
-<h3>Patrocinio</h3>
-
-<p>QGIS Camp España 2026 es solo posible gracias al esfuerzo de las empresas e instituciones. Si estás interesado en patrocinar el evento puedes descargarte nuestra <a href="https://www.qgis.es/post/2026-05-13-qgis-es-camp-patrocinadores/Guia_Patrocinio_QGIS_Camp_Espana_2026_Madrid_final.pdf">guía para patrocinadores</a></p>
 
 <!--ScriptorEndFragment-->
 
