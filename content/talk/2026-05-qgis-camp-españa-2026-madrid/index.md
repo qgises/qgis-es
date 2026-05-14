@@ -18,7 +18,7 @@ publishDate: 2026-05-08T09:05:19.380Z
 draft: false
 featured: false
 image:
-  filename: https://www.osgeo.org/wp-content/uploads/logo-geocamp-2023_740x412_acf_cropped-370x206.png
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
