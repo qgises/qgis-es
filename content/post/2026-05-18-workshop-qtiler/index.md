@@ -1,7 +1,7 @@
 ---
 title: "Workshop Qtiler"
 subtitle: "El motor WebGIS en Node.js"
-date: 2026-05-14T16:51:20.676Z
+date: 2026-05-14T15:00:20.676Z
 summary: "En este workshop eminentemente técnico presentaremos Qtiler, un innovador servidor WebGIS nativo en Node.js. Qtiler orquesta un sistema de trabajadores asíncronos en PyQGIS que lee directamente proyectos .qgs o .qgz para generar servicios OGC WMS, WFS y WMTS de alto rendimiento listos para ser consumidos por clientes como Leaflet, OpenLayers, ArcGIS o QGIS Desktop."
 draft: false
 featured: false
