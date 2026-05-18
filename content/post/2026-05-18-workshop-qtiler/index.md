@@ -19,8 +19,8 @@ Hora: 15:00h
 
 El enlace de acceso al workshop será enviado a las personas inscritas el día previo al evento.
 
-Información e inscripción
+## Información e inscripción
 
-Infromacion detallada:  Qtiler_Worshop.pdf
-Inscripcion: [[https://cloud.montera34.org/index.php/apps/forms/s/4pPR9gyYBnBw5eTrgT7Pj8xW]
+- [Información detallada](Qtiler_Workshop.pdf)
+- [Formulario de inscripción](https://cloud.montera34.org/index.php/apps/forms/s/4pPR9gyYBnBw5eTrgT7Pj8xW)
 
