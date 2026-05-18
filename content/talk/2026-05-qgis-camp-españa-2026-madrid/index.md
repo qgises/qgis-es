@@ -84,7 +84,7 @@ image:
 
 <h3>Participa como ponente</h3>
 
-<p>Queremos construir el programa contigo. </p>Tras la solicitud de inscripción, os enviaremos un mail entre el 11 y el 15 de mayo con el que abriremos la llamada a la comunidad para propuestas de charlas y talleres</strong></p>
+<p>Queremos construir el programa contigo. Si  quieres contarnos algo sobre QGIS apúntalo <a href="https://talks.osgeo.org/qgiscamp-es-2026/cfp" target="_blank">AQUÍ</a> con su título, resumen y duración: charla de 5 o 30 minutos. Tras la solicitud de inscripción, nos pondremos en contacto contigo.</strong></p>
 
 <p>Si tienes una experiencia, proyecto o idea que compartir, este es tu espacio.</p>
 
