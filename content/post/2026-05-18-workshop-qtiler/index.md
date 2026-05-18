@@ -22,5 +22,5 @@ El enlace de acceso al workshop será enviado a las personas inscritas el día p
 ## Información e inscripción
 
 - [Información detallada](Qtiler_Workshop.pdf)
-- [Formulario de inscripción](https://cloud.montera34.org/index.php/apps/forms/s/qKTEJzwqWbRqCwyBeomawbMw)
+- [Formulario de inscripción](https://cloud.montera34.org/index.php/apps/forms/s/HW7F3RoEyMtR5StH4XWpkrF8)
 
