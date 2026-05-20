@@ -47,7 +47,7 @@ image:
 <li><img src='etsi_agronomica.png'</li>
 <li><img src='itdUPM.png'</li>
 <li><img src='logo_geoinquietos_madrid.png' style="width: 50%;"</li>
-<li><img src='Q-ESP_y_texto_asociacion.png' style="width: 50%;"</li>
+<li><img src='Q-ESP_y_texto_asociacion.png' style="width: 25%;"</li>
 </ul>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
