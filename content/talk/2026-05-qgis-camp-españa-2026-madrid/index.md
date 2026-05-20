@@ -5,7 +5,7 @@ abstract: Todo lo que necesitas saber para asistir y participar al evento de GIS
 location: >
   Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de
   Biosistemas (ETSIAAB – UPM)
-date: 2026-05-08T09:05:19.368Z
+date: 2026-06-12T09:05:19.368Z
 date_end: 2026-06-12T22:00:00.000Z
 all_day: true
 links:
