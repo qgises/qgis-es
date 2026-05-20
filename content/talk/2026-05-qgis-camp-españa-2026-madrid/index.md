@@ -5,8 +5,8 @@ abstract: Todo lo que necesitas saber para asistir y participar al evento de GIS
 location: >
   Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de
   Biosistemas (ETSIAAB – UPM)
-date: 2026-06-12T09:05:19.368Z
-date_end: 2026-06-12T22:00:00.000Z
+date: 2026-06-13T09:05:19.368Z
+date_end: 2026-06-13T22:00:00.000Z
 all_day: true
 links:
   - url: https://cloud.montera34.org/index.php/apps/forms/s/eDzYYwXQ3PWHPeRMAkLJFecZ
@@ -42,7 +42,7 @@ image:
 
 <p><strong>Horario:</strong> de 9:00 a 20:00 h</p>
 
-<h3>Patrocinan</h3>
+<h3>Organizan</h3>
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
   <img src='etsi_agronomica.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
