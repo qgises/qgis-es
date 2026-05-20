@@ -42,6 +42,14 @@ image:
 
 <p><strong>Horario:</strong> de 9:00 a 20:00 h</p>
 
+<h3>Patrocinan</h3>
+<ul>
+<li><img src='etsi_agronomica.png'</li>
+<li><img src='itdUPM.png'</li>
+<li><img src='logo_geoinquietos_madrid.png'</li>
+<li><img src='Q-ESP_y_texto_asociacion.png'</li>
+</ul>
+
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
 
 <p>La QGIS Camp mantiene su esencia: un evento informal, participativo y centrado en compartir conocimiento entre personas usuarias de QGIS de todos los niveles.</p>
