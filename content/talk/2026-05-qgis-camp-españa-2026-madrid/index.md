@@ -5,6 +5,7 @@ abstract: Todo lo que necesitas saber para asistir y participar al evento de GIS
 location: >
   Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de
   Biosistemas (ETSIAAB – UPM)
+  location_url: https://maps.app.goo.gl/ULQrEqhPFpiytC1w7?g_st=atm
 date: 2026-06-13T09:05:19.368Z
 date_end: 2026-06-13T22:00:00.000Z
 all_day: true
@@ -13,7 +14,6 @@ links:
     name: FORMULARIO DE INSCRIPCIÓN
     icon_pack: fab
 event: QGISCAMP ESPAÑA 2026
-event_url: https://maps.app.goo.gl/ULQrEqhPFpiytC1w7?g_st=atm
 publishDate: 2026-05-08T09:05:19.380Z
 draft: false
 featured: false
