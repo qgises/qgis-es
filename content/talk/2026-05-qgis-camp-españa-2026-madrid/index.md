@@ -43,11 +43,11 @@ image:
 <p><strong>Horario:</strong> de 9:00 a 20:00 h</p>
 
 <h3>Patrocinan</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img src='etsi_agronomica.png' style="height: 80px; width: auto;">
-  <img src='itdUPM.png' style="height: 80px; width: auto;">
-  <img src='logo_geoinquietos_madrid.png' style="height: 80px; width: auto;">
-  <img src='Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
+  <img src='etsi_agronomica.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='logo_geoinquietos_madrid.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto; margin: 0; display: block;">
 </div>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
