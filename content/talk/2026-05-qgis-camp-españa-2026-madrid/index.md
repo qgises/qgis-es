@@ -48,6 +48,10 @@ image:
   <img src='itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='logo_geoinquietos_madrid.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto; margin: 0; display: block;">
+</div>
+
+<h3>Patrocinan</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
   <img src='geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
 </div>
 
