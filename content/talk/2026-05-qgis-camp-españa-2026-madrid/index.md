@@ -3,9 +3,8 @@ title: QGIS Camp España 2026 - Madrid
 abstract: Todo lo que necesitas saber para asistir y participar al evento de GIS
   libre de la Asociación QGIS España.
 location: >
-  Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de
-  Biosistemas (ETSIAAB – UPM)
-  https://maps.app.goo.gl/ULQrEqhPFpiytC1w7?g_st=atm
+  [Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de
+  Biosistemas (ETSIAAB – UPM)](https://maps.app.goo.gl/ULQrEqhPFpiytC1w7?)
 date: 2026-06-13T09:05:19.368Z
 date_end: 2026-06-13T22:00:00.000Z
 all_day: true
