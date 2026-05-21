@@ -48,6 +48,7 @@ image:
   <img src='itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='logo_geoinquietos_madrid.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
 </div>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
