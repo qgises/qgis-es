@@ -134,6 +134,11 @@ image:
 
 <p>QGIS Camp España 2026 es solo posible gracias al esfuerzo de las empresas e instituciones. Si estás interesado en patrocinar el evento puedes descargarte nuestra <a href="https://www.qgis.es/post/2026-05-13-qgis-es-camp-patrocinadores/Guia_Patrocinio_QGIS_Camp_Espana_2026_Madrid_final.pdf">guía para patrocinadores</a></p>
 
+<h3>Organiza tu viaje y estancia</h3>
+
+<p>🚗🧳Si vienes desde fuera de Madrid y buscas alojamiento o personas con las que compartir el viaje, puedes encontrar y compartir información con el resto de participantes en<a href="AQUI_ENLACE" target="_blank" rel="noopener noreferrer">
+comparte tu viaje</a>.</p>
+
 <h3>Próximas novedades</h3>
 
 <p>En las próximas semanas iremos anunciando el programa detallado, los ponentes confirmados y nuevas novedades sobre el evento.</p>
