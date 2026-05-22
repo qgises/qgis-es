@@ -53,6 +53,7 @@ image:
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
   <img src='geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
 </div>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
