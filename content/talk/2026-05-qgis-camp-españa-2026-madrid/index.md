@@ -136,8 +136,8 @@ image:
 
 <h3>Organiza tu viaje y estancia</h3>
 
-<p>🚗🧳Si vienes desde fuera de Madrid y buscas alojamiento o personas con las que compartir el viaje, puedes encontrar y compartir información con el resto de participantes en<a href="AQUI_ENLACE" target="_blank" rel="noopener noreferrer">
-comparte tu viaje</a>.</p>
+<p>🚗🧳Si vienes desde fuera de Madrid y buscas alojamiento o personas con las que compartir el viaje, puedes encontrar y compartir información con el resto de participantes en<a href="https://cryptpad.fr/sheet/#/2/sheet/edit/EEOIlilgSQGMRwxwVOphx22N/embed/" target="_blank" rel="noopener noreferrer">
+comparte tu viaje</a></p>
 
 <h3>Próximas novedades</h3>
 
