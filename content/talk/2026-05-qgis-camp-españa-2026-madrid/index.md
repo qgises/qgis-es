@@ -54,7 +54,7 @@ image:
   <img src='./imgs/geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='./imgs/geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='./imgs/servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='./imgs/logo_PSIG_horitzontal_v4.svg' style="height: 160px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/logo_PSIG_horitzontal_v4.svg' style="height: 240px; width: auto; margin: 0; display: block;">
   <img src='./imgs/bgeo_logo.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='./imgs/logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
 </div>
