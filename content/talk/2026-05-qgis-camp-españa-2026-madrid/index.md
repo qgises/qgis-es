@@ -54,6 +54,9 @@ image:
   <img src='geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='logo_psig.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='bgeo_logo.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
 </div>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
