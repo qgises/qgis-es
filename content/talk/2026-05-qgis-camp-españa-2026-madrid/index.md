@@ -43,20 +43,20 @@ image:
 
 <h3>Organizan</h3>
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
-  <img src='etsi_agronomica.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='logo_geoinquietos_madrid.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/etsi_agronomica.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/itdUPM.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/logo_geoinquietos_madrid.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/Q-ESP_y_texto_asociacion.png' style="height: 80px; width: auto; margin: 0; display: block;">
 </div>
 
 <h3>Patrocinan</h3>
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
-  <img src='geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='logo_psig.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='bgeo_logo.png' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
+  <img src='./imgs/geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/logo_PSIG_horitzontal_v4.svg' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/bgeo_logo.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
 </div>
 
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
