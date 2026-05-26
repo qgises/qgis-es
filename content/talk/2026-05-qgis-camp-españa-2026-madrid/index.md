@@ -53,9 +53,9 @@ image:
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
   <img src='./imgs/geomatico.png' style="height: 80px; width: auto; margin: 0; display: block;">
   <img src='./imgs/geoinnova.svg' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='./imgs/servigis.svg' style="height: 80px; width: auto; margin: 0; display: block;">
-  <img src='./imgs/logo_PSIG_horitzontal_v4.svg' style="height: 240px; width: auto; margin: 0; display: block;">
-  <img src='./imgs/bgeo_logo.png' style="height: 80px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/servigis.svg' style="height: 60px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/logo_PSIG_horitzontal_v4.svg' style="height: 200px; width: auto; margin: 0; display: block;">
+  <img src='./imgs/bgeo_logo.png' style="height: 70px; width: auto; margin: 0; display: block;">
   <img src='./imgs/logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
 </div>
 
