@@ -83,9 +83,7 @@ image:
 | 16:00   | Lithing talk                                                                                                       |
 | 16:30   | Organización Desconferencia                                                                                        |
 | 17:00   | ☕ Coffe Break                                                                                                        |
-| 18:00   | Desconferencia                                                                                                     |
-| 19:00   | Desconferencia                                                                                                     |
-| 20:00   | Desconferencia                                                                                                     |
+| 18:00 - 20:00 | Desconferencia                                                                                                     |
 
 <h3>Participa como ponente</h3>
 
