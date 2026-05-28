@@ -70,55 +70,22 @@ image:
 | Horario | Salon Presentaciones                                                                                               |
 |---------|--------------------------------------------------------------------------------------------------------------------|
 | 9:00    | Acreditación                                                                                                       |
-| 10:00   | Bienvenida de la UPM (ITSI Agronómica) Presentación de la Asociacion QGIS.es (Carmen Diez)                         |
+| 10:00   | Bienvenida de la UPM (ITSI Agronómica) - Presentación de la Asociacion QGIS.es (Carmen Diez)                         |
 | 10:20   | Novedades de QGIS 4.0 (Luis Quesada)                                                                               |
 | 11:00   | Algunas reflexiones sobre QGIS en el contexto actual (Victor Olaya)                                                |
-| 11:30   | Coffe Break                                                                                                        |
+| 11:30   | ☕ Coffe Break                                                                                                        |
 | 12:00   | Vibe coding para QGIS: oportunidades y riesgos de crear plugins con IA (Patricio Soriano)                          |
 | 12:30   | QField Cloud: QGIS en la palma de la mano (Ariel Anthieni)                                                         |
 | 13:00   | Plugins CAUMAX (Jesús Garcia Villar)                                                                               |
 | 13:30   | Modelos BIM vinculados con entidades GIS para decisiones estratégicas basadas en análisis espacial (Nerea Arribas) |
 | 13:30   | Formatos y Cajetines como "Bloque Virtual" en QGIS (Antonio Manuel Moreno García)                                  |
-| 14:30   | Almuerzo                                                                                                           |
+| 14:30   | 🍝 Almuerzo                                                                                                           |
 | 16:00   | Lithing talk                                                                                                       |
 | 16:30   | Organización Desconferencia                                                                                        |
-| 17:00   | Coffe Break                                                                                                        |
+| 17:00   | ☕ Coffe Break                                                                                                        |
 | 18:00   | Desconferencia                                                                                                     |
 | 19:00   | Desconferencia                                                                                                     |
 | 20:00   | Desconferencia                                                                                                     |
-
-
-<h4>Mañana</h4>
-
-<ul>
-
-<li>09:00 Apertura y acreditación</li>
-
-<li>10:00 Bienvenida oficial </li>
-
-<li>Charlas y talleres prácticos sobre:</li>
-
-<ul>
-
-<li>QGIS 4.0</li>
-
-<li>QField y QFieldCloud</li>
-
-<li>Inteligencia Artificial aplicada a QGIS</li>
-
-</ul>
-
-</ul>
-
-<h4>Tarde</h4>
-
-<ul>
-
-<li>Lightning Talks</li>
-
-<li>Desconferencia (formato abierto y participativo)</li>
-
-</ul>
 
 <h3>Participa como ponente</h3>
 
