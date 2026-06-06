@@ -59,6 +59,11 @@ image:
   <img src='./imgs/logos_sigte-unigis.png' style="height: 80px; width: auto; margin: 0; display: block;">      
 </div>
 
+<h3>Colaboran</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 0; padding: 0;">
+<img src='./imgs/subiendoalsur.png' style="height: 80px; width: auto; margin: 0; display: block;">
+</div>
+
 <h3>Un encuentro abierto, práctico y colaborativo</h3>
 
 <p>La QGIS Camp mantiene su esencia: un evento informal, participativo y centrado en compartir conocimiento entre personas usuarias de QGIS de todos los niveles.</p>
