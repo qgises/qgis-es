@@ -116,7 +116,7 @@ image:
 
 <h3>Inscripción</h3>
 
-<p><strong>Las plazas serán limitadas (aprox. 80 personas), con lista de espera.</strong></p>
+<p><strong>Las plazas son limitadas (aprox. 80 personas). INSCRIPCIONES CERRADAS por aforo completo. Gracis por la gran acogida.</strong></p>
 
 <p style="font-size: 1.2em; font-weight: bold;">
 
