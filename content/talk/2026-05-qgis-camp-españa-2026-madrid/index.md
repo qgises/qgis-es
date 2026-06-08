@@ -116,11 +116,11 @@ image:
 
 <h3>Inscripción</h3>
 
-<p><strong>Las plazas son limitadas (aprox. 80 personas). INSCRIPCIONES CERRADAS por aforo completo. Gracis por la gran acogida.</strong></p>
+<p><strong>Las plazas son limitadas (aprox. 80 personas). INSCRIPCIONES CERRADAS por aforo completo. Gracias por la gran acogida!!</strong></p>
 
 <p style="font-size: 1.2em; font-weight: bold;">
 
-👉 <a href="https://cloud.montera34.org/index.php/apps/forms/s/eDzYYwXQ3PWHPeRMAkLJFecZ" target="_blank">INSCRÍBETE AQUÍ</a>
+
 
 </p>
 
