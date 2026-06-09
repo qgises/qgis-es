@@ -9,8 +9,8 @@ date: 2026-06-13T09:05:19.368Z
 date_end: 2026-06-13T22:00:00.000Z
 all_day: true
 links:
-  - url: https://cloud.montera34.org/index.php/apps/forms/s/eDzYYwXQ3PWHPeRMAkLJFecZ
-    name: FORMULARIO DE INSCRIPCIÓN
+  - url: 
+    name: INSCRIPCIONES CERRADAS
     icon_pack: fab
 event: QGISCAMP ESPAÑA 2026
 publishDate: 2026-05-08T09:05:19.380Z
