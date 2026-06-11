@@ -33,11 +33,10 @@ image:
 
 <h3>Lugar y horario</h3>
 
-<p>La jornada se celebrará en:</p>
+<p>La jornada se desarrollará en dos espacios colindantes dentro de las instalaciones de la ETSIAAB – UPM:</p>
 
-<p><strong>Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas (ETSIAAB – UPM)</strong><br>
-
-<a href="https://maps.app.goo.gl/ULQrEqhPFpiytC1w7?g_st=atm" target="_blank">Ver ubicación en Google Maps</a></p>
+<li><p><strong><a href="https://maps.app.goo.gl/4sxw3rXBo1GUBr3N9" target="_blank">EDIFICIO DE AULAS E.T.S.I DE AGRÓNOMOS</a></strong></p></li>
+<li><p><strong><a href="https://maps.app.goo.gl/Kv9d9G4UAes7Jhgq6" target="_blank">Centro de Innovación en Tecnología para el Desarrollo itdUPM</a></strong></p></li>
 
 <p><strong>Horario:</strong> de 9:00 a 20:00 h</p>
 
