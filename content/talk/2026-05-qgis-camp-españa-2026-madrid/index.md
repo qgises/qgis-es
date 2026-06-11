@@ -35,8 +35,12 @@ image:
 
 <p>La jornada se desarrollará en dos espacios colindantes dentro de las instalaciones de la ETSIAAB – UPM:</p>
 
-<li><p><strong><a href="https://maps.app.goo.gl/4sxw3rXBo1GUBr3N9" target="_blank">EDIFICIO DE AULAS E.T.S.I DE AGRÓNOMOS</a></strong></p></li>
-<li><p><strong><a href="https://maps.app.goo.gl/Kv9d9G4UAes7Jhgq6" target="_blank">Centro de Innovación en Tecnología para el Desarrollo itdUPM</a></strong></p></li>
+<ul>
+
+<li><strong><a href="https://maps.app.goo.gl/4sxw3rXBo1GUBr3N9" target="_blank">EDIFICIO DE AULAS E.T.S.I DE AGRÓNOMOS</a></strong></li>
+<li><strong><a href="https://maps.app.goo.gl/Kv9d9G4UAes7Jhgq6" target="_blank">Centro de Innovación en Tecnología para el Desarrollo itdUPM</a></strong></li>
+
+</ul>
 
 <p><strong>Horario:</strong> de 9:00 a 20:00 h</p>
 
