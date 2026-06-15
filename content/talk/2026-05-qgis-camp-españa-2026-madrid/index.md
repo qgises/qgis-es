@@ -23,16 +23,12 @@ image:
 ---
 <h2>Presentaciones </h2>
 <p>
-<a href="./presentaciones/Formatos_y_Cajetines_como_Bloque_Virtual_en_QGIS-Antonio_Manuel_Moreno_García.pdf">Formatos y Cajetines como Bloque Virtual en QGIS - Antonio Manuel Moreno García</a>
-<a href="./presentaciones/Modelos_BIM_vinculados_con_entidades_GIS-Nerea_Arribas.pdf">Modelos BIM vinculados con entidades GIS - Nerea Arribas</a>
-
-<a href="./presentaciones/Novedades_QGIS_4_0-Luis_Quesada.pdf">Novedades QGIS 4.0 - Luis Quesada</a>
-
-<a href="./presentaciones/Plugins_CAUMAX-Jesús_Garcia_Villar.pdf">Plugins CAUMAX - Jesús Garcia Villar</a>
-
-<a href="./presentaciones/QField_Cloud_QGIS_en_la_palma_de_la_mano-Ariel_Anthieni.pdf">QField Cloud QGIS en la palma de la mano - Ariel Anthieni</a>
-
-<a href="./presentaciones/Vibe_coding_para_QGIS_oportunidades_y_riesgos_de_crear_plugins_con_IA-Patricio_Soriano.pdf">Vibe coding para QGIS oportunidades y riesgos de crear plugins con IA - Patricio Soriano</a>
+<li><a href="./presentaciones/Formatos_y_Cajetines_como_Bloque_Virtual_en_QGIS-Antonio_Manuel_Moreno_García.pdf">Formatos y Cajetines como Bloque Virtual en QGIS - Antonio Manuel Moreno García</a></li>
+<li><a href="./presentaciones/Modelos_BIM_vinculados_con_entidades_GIS-Nerea_Arribas.pdf">Modelos BIM vinculados con entidades GIS - Nerea Arribas</a></li>
+<li><a href="./presentaciones/Novedades_QGIS_4_0-Luis_Quesada.pdf">Novedades QGIS 4.0 - Luis Quesada</a></li>
+<li><a href="./presentaciones/Plugins_CAUMAX-Jesús_Garcia_Villar.pdf">Plugins CAUMAX - Jesús Garcia Villar</a></li>
+<li><a href="./presentaciones/QField_Cloud_QGIS_en_la_palma_de_la_mano-Ariel_Anthieni.pdf">QField Cloud QGIS en la palma de la mano - Ariel Anthieni</a></li>
+<li><a href="./presentaciones/Vibe_coding_para_QGIS_oportunidades_y_riesgos_de_crear_plugins_con_IA-Patricio_Soriano.pdf">Vibe coding para QGIS oportunidades y riesgos de crear plugins con IA - Patricio Soriano</a></li>
 </p>
 
 <h2>QGIS Camp España 2026 </h2>
