@@ -21,9 +21,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
-
-<!--ScriptorStartFragment-->
+<h2>Presentaciones </h2>
+<p>
+<a href="./presentaciones/Formatos_y_Cajetines_como_Bloque_Virtual_en_QGIS-Antonio_Manuel_Moreno_García.pdf">Formatos_y_Cajetines_como_Bloque_Virtual_en_QGIS-Antonio_Manuel_Moreno_García.pdf</a>
+<a href="./presentaciones/Modelos_BIM_vinculados_con_entidades_GIS-Nerea_Arribas.pdf">Modelos_BIM_vinculados_con_entidades_GIS-Nerea_Arribas.pdf</a>
+<a href="./presentaciones/Novedades_QGIS_4_0-Luis_Quesada.pdf">Novedades_QGIS_4_0-Luis_Quesada.pdf</a>
+<a href="./presentaciones/Plugins_CAUMAX-Jesús_Garcia_Villar.pdf">Plugins_CAUMAX-Jesús_Garcia_Villar.pdf</a>
+<a href="./presentaciones/QField_Cloud_QGIS_en_la_palma_de_la_mano-Ariel_Anthieni.pdf">QField_Cloud_QGIS_en_la_palma_de_la_mano-Ariel_Anthieni.pdf</a>
+<a href="./presentaciones/Vibe_coding_para_QGIS_oportunidades_y_riesgos_de_crear_plugins_con_IA-Patricio_Soriano.pdf">Vibe_coding_para_QGIS_oportunidades_y_riesgos_de_crear_plugins_con_IA-Patricio_Soriano.pdf</a>
+</p>
 
 <h2>QGIS Camp España 2026 </h2>
 
