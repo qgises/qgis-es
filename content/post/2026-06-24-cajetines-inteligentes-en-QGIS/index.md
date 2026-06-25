@@ -33,3 +33,5 @@ Al utilizar formatos vectoriales como GeoPackage o SpatiaLite, nuestros diseños
 Lo más inspirador de esta técnica es que utiliza cero plugins. No necesitamos herramientas externas ni procesos complejos de IA; la innovación nace de exprimir las capacidades nativas de QGIS para resolver problemas de producción reales.
 Hágase esta pregunta: en su flujo de trabajo actual, ¿cuánto tiempo y estrés ahorraría si sus cajetines fueran datos dinámicos y no dibujos estáticos?
 La verdadera maestría GIS comienza cuando dejamos de dibujar planos y empezamos a gestionar información.
+
+Puedes encontrar el tutorial [aqui.](TUTORIAL_FORMATOS_Y_CAJETINES_COMO_BLOQUE_VIRTUAL_EN_QGIS.pdf)
