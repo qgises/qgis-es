@@ -21,8 +21,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<h2>Resumen</h2>
+
 <p>
+<h2>Resumen de la QGIS Camp España 2026</h2>
 <a href="./presentaciones/Resumen_QGISesCamp2026.pdf">Un día para compartir QGIS por Carmen Diez - Presidenta de la Asocicación QGIS España</a>
 <p>
 
