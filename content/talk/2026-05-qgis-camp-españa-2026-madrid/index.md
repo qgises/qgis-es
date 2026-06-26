@@ -21,6 +21,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<h2>Resumen</h2>
+<p>
+<a href="./presentaciones/Resumen_QGISesCamp2026.pdf">Un día para compartir QGIS por Carmen Diez - Presidenta de la Asocicación QGIS España</a>
+<p>
+
 <h2>Presentaciones </h2>
 <p>
 <li><a href="./presentaciones/Formatos_y_Cajetines_como_Bloque_Virtual_en_QGIS-Antonio_Manuel_Moreno_García.pdf">Formatos y Cajetines como Bloque Virtual en QGIS - Antonio Manuel Moreno García</a></li>
