@@ -30,6 +30,13 @@ image:
 <li><a href="./presentaciones/QField_Cloud_QGIS_en_la_palma_de_la_mano-Ariel_Anthieni.pdf">QField Cloud QGIS en la palma de la mano - Ariel Anthieni</a></li>
 <li><a href="./presentaciones/Vibe_coding_para_QGIS_oportunidades_y_riesgos_de_crear_plugins_con_IA-Patricio_Soriano.pdf">Vibe coding para QGIS oportunidades y riesgos de crear plugins con IA - Patricio Soriano</a></li>
 </p>
+<h2>Lightning Talks </h2>
+<p>
+<li><a href="./lightning/Automatizando_QGIS_con_Airflow_-_Ariel_Anthieni.pdf">Automatizando QGIS con Airflow - Ariel Anthieni</a></li>
+<li><a href="./lightning/Historia_de_QGIS_-_Alberto_Soneira.pdf">Historia de QGIS - Alberto Soneira</a></li>
+<li><a href="./lightning/Presentación_de_la_Asociación_QGIS_España_-_Carlos_Lopez_Quintanilla.pdf">Presentación de la Asociación QGIS España - Carlos López Quintanilla</a></li>
+<li><a href="https://www.youtube.com/watch?v=7XWND6h2__E">Plugin IEPNB (MITECO) - Rodrigo Saz-Orozco Maier</a></li>
+</p>
 
 <h2>QGIS Camp España 2026 </h2>
 
