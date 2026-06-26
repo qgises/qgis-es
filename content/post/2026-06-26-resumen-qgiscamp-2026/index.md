@@ -1,5 +1,5 @@
 ---
-title: 'QGISes Camp 2026Un día para compartir QGIS"'
+title: 'QGISes Camp 2026 Un día para compartir QGIS"'
 subtitle: "Por Carmen Díez"
 date: 2026-06-26T09:00:00.000Z
 summary: ""
