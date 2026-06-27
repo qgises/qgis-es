@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: featured.png
+  filename: QGISCampES2026.png
   focal_point: Smart
   preview_only: false
 ---
