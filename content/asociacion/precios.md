@@ -15,7 +15,7 @@ subtitle = "Para más información puedes ver nuestros [estatutos](../manuales/e
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "earth-africa"
+  icon = "earth"
   icon_pack = "fas"
   name = "Categoría S: Super Contribuidor "
   description = "Mas de 2000€"
