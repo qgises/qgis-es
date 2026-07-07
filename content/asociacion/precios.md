@@ -18,7 +18,7 @@ subtitle = "Para más información puedes ver nuestros [estatutos](../manuales/e
   icon = "building"
   icon_pack = "fas"
   name = "Categoría A: Grandes colectivos"
-  description = "400€"
+  description = "Desde 400€ hasta 2000€"
   
 [[feature]]
   icon = "users"
